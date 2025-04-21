@@ -16,34 +16,34 @@
 		<meta name="MobileOptimized" content="320">
 		<meta name="viewport" content="width=device-width, initial-scale=1"/>
 
-				<link rel="apple-touch-icon" href="https://old.audioxide.com/wp-content/themes/audioxide/library/images/apple-touch-icon.png">
-		<link rel="icon" href="https://old.audioxide.com/wp-content/themes/audioxide/favicon.png">
+				<link rel="apple-touch-icon" href="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/images/apple-touch-icon.png">
+		<link rel="icon" href="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/favicon.png">
 		<!--[if IE]>
-			<link rel="shortcut icon" href="https://old.audioxide.com/wp-content/themes/audioxide/favicon.ico">
+			<link rel="shortcut icon" href="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/favicon.ico">
 		<![endif]-->
 				<meta name="msapplication-TileColor" content="#f01d4f">
-		<meta name="msapplication-TileImage" content="https://old.audioxide.com/wp-content/themes/audioxide/library/images/win8-tile-icon.png">
+		<meta name="msapplication-TileImage" content="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/images/win8-tile-icon.png">
             <meta name="theme-color" content="#121212">
 
                         <meta property="og:title" content="Reviews" />
                 <meta property="fb:app_id" content="950609285023482" />
-        <meta property="og:url" content="https://old.audioxide.com/reviews/" />
+        <meta property="og:url" content="https://audioxide.com/reviews/" />
         <meta property="og:site_name" content="Audioxide" />
-        <meta property="og:image" content="https://old.audioxide.com/wp-content/themes/audioxide/library/images/sharer-logo.png" />
+        <meta property="og:image" content="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/images/sharer-logo.png" />
                 
-		<link rel="pingback" href="https://old.audioxide.com/xmlrpc.php">
+		<link rel="pingback" href="https://audioxide.github.io/v1-archive/xmlrpc.php">
 
 				
 <!-- All In One SEO Pack 3.7.1[440,467] -->
 <meta name="robots" content="noindex,follow" />
-<link rel="next" href="https://old.audioxide.com/reviews/page/2/" />
+<link rel="next" href="https://audioxide.github.io/v1-archive/reviews/page/2/" />
 
-<link rel="canonical" href="https://old.audioxide.com/./reviews/" />
+<link rel="canonical" href="https://audioxide.github.io/v1-archive/./reviews/" />
 <!-- All In One SEO Pack -->
 <link rel='dns-prefetch' href='//s.w.org' />
-<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Feed" href="https://old.audioxide.com/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Comments Feed" href="https://old.audioxide.com/comments/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Reviews Category Feed" href="https://old.audioxide.com/./reviews/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Feed" href="https://audioxide.github.io/v1-archive/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Comments Feed" href="https://audioxide.github.io/v1-archive/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Reviews Category Feed" href="https://audioxide.github.io/v1-archive/./reviews/feed/" />
 <!-- This site uses the Google Analytics by ExactMetrics plugin v6.2.2 - Using Analytics tracking - https://www.exactmetrics.com/ -->
 <script type="text/javascript" data-cfasync="false">
 	var em_version         = '6.2.2';
@@ -148,25 +148,25 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel='stylesheet' id='mc4wp-form-themes-css'  href='https://old.audioxide.com/wp-content/plugins/mailchimp-for-wp/assets/css/form-themes.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='mailchimp-top-bar-css'  href='https://old.audioxide.com/wp-content/plugins/mailchimp-top-bar/assets/css/bar.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='addtoany-css'  href='https://old.audioxide.com/wp-content/plugins/add-to-any/addtoany.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='editor-style-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/editor-style.css' type='text/css' media='all' />
-<link rel='stylesheet' id='admin-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/admin.css' type='text/css' media='all' />
-<link rel='stylesheet' id='ie-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/ie.css' type='text/css' media='all' />
-<link rel='stylesheet' id='style-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/style.css' type='text/css' media='all' />
-<link rel='stylesheet' id='login-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/login.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mc4wp-form-themes-css'  href='https://audioxide.github.io/v1-archive/wp-content/plugins/mailchimp-for-wp/assets/css/form-themes.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mailchimp-top-bar-css'  href='https://audioxide.github.io/v1-archive/wp-content/plugins/mailchimp-top-bar/assets/css/bar.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='addtoany-css'  href='https://audioxide.github.io/v1-archive/wp-content/plugins/add-to-any/addtoany.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='editor-style-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/editor-style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/admin.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ie-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/ie.css' type='text/css' media='all' />
+<link rel='stylesheet' id='style-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='login-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/login.css' type='text/css' media='all' />
 <script type='text/javascript'>
 /* <![CDATA[ */
 var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"zip,mp3,mpeg,pdf,docx,pptx,xlsx,rar","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/old.audioxide.com","hash_tracking":"false"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/plugins/google-analytics-dashboard-for-wp/assets/js/frontend.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-includes/js/jquery/jquery.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-includes/js/jquery/jquery-migrate.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/plugins/add-to-any/addtoany.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/themes/audioxide/library/js/libs/modernizr.custom.min.js'></script>
-<link rel='https://api.w.org/' href='https://old.audioxide.com/wp-json/' />
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/plugins/google-analytics-dashboard-for-wp/assets/js/frontend.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/plugins/add-to-any/addtoany.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/js/libs/modernizr.custom.min.js'></script>
+<link rel='https://api.w.org/' href='https://audioxide.github.io/v1-archive/wp-json/' />
 
 <script data-cfasync="false">
 window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_localize = {
@@ -211,7 +211,7 @@ a2a_config.onclick=1;
             "@type": "ListItem",
             "position": 1,
             "item": {
-                "@id": "https://old.audioxide.com",
+                "@id": "https://audioxide.com",
                 "name": "Home"
             }
         },
@@ -219,7 +219,7 @@ a2a_config.onclick=1;
             "@type": "ListItem",
             "position": 2,
             "item": {
-                "@id": "https://old.audioxide.com/./reviews/",
+                "@id": "https://audioxide.com/./reviews/",
                 "name": "Reviews"
             }
         }
@@ -248,7 +248,7 @@ Click the help icon above to learn more.
 	<body class="archive category category-reviews category-2" itemscope itemtype="http://schema.org/WebPage">
 <header role="banner" class="sticky" itemscope itemtype="http://schema.org/WPHeader">
 	<div class="wrap">
-		<p id="logo" class="h1 logo" itemscope itemtype="http://schema.org/Organization"><a href="https://old.audioxide.com" rel="nofollow"><img src="https://old.audioxide.com/wp-content/themes/audioxide/library/images/site-logo.svg" /></a></p>
+		<p id="logo" class="h1 logo" itemscope itemtype="http://schema.org/Organization"><a href="https://audioxide.github.io/v1-archive" rel="nofollow"><img src="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/images/site-logo.svg" /></a></p>
 		<div class="social-media">
 			<a href="https://www.facebook.com/Audioxide/"><i class="fa fa-facebook-square"></i></a>
 			<a href="https://twitter.com/audioxidecom"><i class="fa fa-twitter-square"></i></a>
@@ -262,16 +262,16 @@ Click the help icon above to learn more.
 </header>
 <div id="coverartbanner" class="container coverart">
     <div class="wrapper">
-		<a href="https://old.audioxide.com/reviews/nothing-the-great-dismal/"><img src="https://old.audioxide.com/wp-content/uploads/2020/11/the-great-dismal-nothing-500x500.jpg" alt="Album cover for Nothing - The Great Dismal" /></a>
-<a href="https://old.audioxide.com/reviews/clipping-visions-of-bodies-being-burned/"><img src="https://old.audioxide.com/wp-content/uploads/2020/11/visions-of-bodies-being-burned-clipping-500x500.jpg" alt="Album cover for clipping. - Visions of Bodies Being Burned" /></a>
-<a href="https://old.audioxide.com/reviews/doves-the-universal-want/"><img src="https://old.audioxide.com/wp-content/uploads/2020/09/the-universal-want-doves-500x500.jpg" alt="Album cover for Doves - The Universal Want" /></a>
-<a href="https://old.audioxide.com/reviews/all-them-witches-nothing-as-the-ideal/"><img src="https://old.audioxide.com/wp-content/uploads/2020/09/nothing-as-the-ideal-all-them-witches-500x500.jpg" alt="Album cover for All Them Witches - Nothing as the Ideal" /></a>
-<a href="https://old.audioxide.com/reviews/kelly-lee-owens-inner-song/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/inner-song-kelly-lee-owens-500x500.jpg" alt="Album cover for Kelly Lee Owens - Inner Song" /></a>
-<a href="https://old.audioxide.com/reviews/nas-kings-disease/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/kings-disease-nas-500x500.jpg" alt="Album cover for Nas - King's Disease" /></a>
-<a href="https://old.audioxide.com/reviews/dead-kennedys-fresh-fruit-for-rotting-vegetables/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/fresh-fruit-for-rotting-vegetables-dead-kennedys-500x500.jpg" alt="Album cover for Dead Kennedys - Fresh Fruit for Rotting Vegetables" /></a>
-<a href="https://old.audioxide.com/reviews/glass-animals-dreamland/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/dreamland-glass-animals-500x500.jpg" alt="Album cover for Glass Animals - Dreamland" /></a>
-<a href="https://old.audioxide.com/reviews/neil-young-after-the-gold-rush/"><img src="https://old.audioxide.com/wp-content/uploads/2020/07/after-the-gold-rush-neil-young-500x500.jpg" alt="Album cover for Neil Young - After the Gold Rush" /></a>
-<a href="https://old.audioxide.com/reviews/lianne-la-havas-lianne-la-havas/"><img src="https://old.audioxide.com/wp-content/uploads/2020/07/lianne-la-havas-lianne-la-havas-500x500.jpg" alt="Album cover for Lianne La Havas - Lianne La Havas" /></a>
+		<a href="https://audioxide.github.io/v1-archive/reviews/nothing-the-great-dismal/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/11/the-great-dismal-nothing-500x500.jpg" alt="Album cover for Nothing - The Great Dismal" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/clipping-visions-of-bodies-being-burned/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/11/visions-of-bodies-being-burned-clipping-500x500.jpg" alt="Album cover for clipping. - Visions of Bodies Being Burned" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/doves-the-universal-want/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/09/the-universal-want-doves-500x500.jpg" alt="Album cover for Doves - The Universal Want" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/all-them-witches-nothing-as-the-ideal/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/09/nothing-as-the-ideal-all-them-witches-500x500.jpg" alt="Album cover for All Them Witches - Nothing as the Ideal" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/kelly-lee-owens-inner-song/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/inner-song-kelly-lee-owens-500x500.jpg" alt="Album cover for Kelly Lee Owens - Inner Song" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/nas-kings-disease/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/kings-disease-nas-500x500.jpg" alt="Album cover for Nas - King's Disease" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/dead-kennedys-fresh-fruit-for-rotting-vegetables/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/fresh-fruit-for-rotting-vegetables-dead-kennedys-500x500.jpg" alt="Album cover for Dead Kennedys - Fresh Fruit for Rotting Vegetables" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/glass-animals-dreamland/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/dreamland-glass-animals-500x500.jpg" alt="Album cover for Glass Animals - Dreamland" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/neil-young-after-the-gold-rush/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/07/after-the-gold-rush-neil-young-500x500.jpg" alt="Album cover for Neil Young - After the Gold Rush" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/lianne-la-havas-lianne-la-havas/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/07/lianne-la-havas-lianne-la-havas-500x500.jpg" alt="Album cover for Lianne La Havas - Lianne La Havas" /></a>
     </div>
 </div>
 	<main id="main" class="cf wrap review-list" role="main" itemscope itemprop="mainContentOfPage" itemtype="http://schema.org/Blog">
@@ -307,11 +307,11 @@ Click the help icon above to learn more.
 							color: #000000;						}
 					}
 				</style>
-								<a href="https://old.audioxide.com/reviews/nothing-the-great-dismal/" rel="bookmark" title="Review: The Great Dismal // Nothing">
+								<a href="https://audioxide.github.io/v1-archive/reviews/nothing-the-great-dismal/" rel="bookmark" title="Review: The Great Dismal // Nothing">
 								<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2020/11/the-great-dismal-nothing-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: The Great Dismal // Nothing" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/11/the-great-dismal-nothing-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: The Great Dismal // Nothing" />
 						</div>
 					</div>
 				</div>
@@ -354,11 +354,11 @@ Click the help icon above to learn more.
 							color: #000000;						}
 					}
 				</style>
-								<a href="https://old.audioxide.com/reviews/clipping-visions-of-bodies-being-burned/" rel="bookmark" title="Review: Visions of Bodies Being Burned // clipping.">
+								<a href="https://audioxide.github.io/v1-archive/reviews/clipping-visions-of-bodies-being-burned/" rel="bookmark" title="Review: Visions of Bodies Being Burned // clipping.">
 								<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2020/11/visions-of-bodies-being-burned-clipping-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: Visions of Bodies Being Burned // clipping." />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/11/visions-of-bodies-being-burned-clipping-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: Visions of Bodies Being Burned // clipping." />
 						</div>
 					</div>
 				</div>
@@ -401,11 +401,11 @@ Click the help icon above to learn more.
 							color: #361334;						}
 					}
 				</style>
-								<a href="https://old.audioxide.com/reviews/doves-the-universal-want/" rel="bookmark" title="Review: The Universal Want // Doves">
+								<a href="https://audioxide.github.io/v1-archive/reviews/doves-the-universal-want/" rel="bookmark" title="Review: The Universal Want // Doves">
 								<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2020/09/the-universal-want-doves-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: The Universal Want // Doves" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/09/the-universal-want-doves-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: The Universal Want // Doves" />
 						</div>
 					</div>
 				</div>
@@ -448,11 +448,11 @@ Click the help icon above to learn more.
 							color: #000000;						}
 					}
 				</style>
-								<a href="https://old.audioxide.com/reviews/all-them-witches-nothing-as-the-ideal/" rel="bookmark" title="Review: Nothing as the Ideal // All Them Witches">
+								<a href="https://audioxide.github.io/v1-archive/reviews/all-them-witches-nothing-as-the-ideal/" rel="bookmark" title="Review: Nothing as the Ideal // All Them Witches">
 								<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2020/09/nothing-as-the-ideal-all-them-witches-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: Nothing as the Ideal // All Them Witches" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/09/nothing-as-the-ideal-all-them-witches-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: Nothing as the Ideal // All Them Witches" />
 						</div>
 					</div>
 				</div>
@@ -495,11 +495,11 @@ Click the help icon above to learn more.
 							color: #565653;						}
 					}
 				</style>
-								<a href="https://old.audioxide.com/reviews/kelly-lee-owens-inner-song/" rel="bookmark" title="Review: Inner Song // Kelly Lee Owens">
+								<a href="https://audioxide.github.io/v1-archive/reviews/kelly-lee-owens-inner-song/" rel="bookmark" title="Review: Inner Song // Kelly Lee Owens">
 								<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2020/08/inner-song-kelly-lee-owens-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: Inner Song // Kelly Lee Owens" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/inner-song-kelly-lee-owens-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: Inner Song // Kelly Lee Owens" />
 						</div>
 					</div>
 				</div>
@@ -542,11 +542,11 @@ Click the help icon above to learn more.
 							color: #2f5000;						}
 					}
 				</style>
-								<a href="https://old.audioxide.com/reviews/nas-kings-disease/" rel="bookmark" title="Review: King&#8217;s Disease // Nas">
+								<a href="https://audioxide.github.io/v1-archive/reviews/nas-kings-disease/" rel="bookmark" title="Review: King&#8217;s Disease // Nas">
 								<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2020/08/kings-disease-nas-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: King&#8217;s Disease // Nas" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/kings-disease-nas-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: King&#8217;s Disease // Nas" />
 						</div>
 					</div>
 				</div>
@@ -589,11 +589,11 @@ Click the help icon above to learn more.
 							color: #212226;						}
 					}
 				</style>
-								<a href="https://old.audioxide.com/reviews/dead-kennedys-fresh-fruit-for-rotting-vegetables/" rel="bookmark" title="Review: Fresh Fruit for Rotting Vegetables // Dead Kennedys">
+								<a href="https://audioxide.github.io/v1-archive/reviews/dead-kennedys-fresh-fruit-for-rotting-vegetables/" rel="bookmark" title="Review: Fresh Fruit for Rotting Vegetables // Dead Kennedys">
 								<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2020/08/fresh-fruit-for-rotting-vegetables-dead-kennedys-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: Fresh Fruit for Rotting Vegetables // Dead Kennedys" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/fresh-fruit-for-rotting-vegetables-dead-kennedys-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: Fresh Fruit for Rotting Vegetables // Dead Kennedys" />
 						</div>
 					</div>
 				</div>
@@ -636,11 +636,11 @@ Click the help icon above to learn more.
 							color: #ccaeea;						}
 					}
 				</style>
-								<a href="https://old.audioxide.com/reviews/glass-animals-dreamland/" rel="bookmark" title="Review: Dreamland // Glass Animals">
+								<a href="https://audioxide.github.io/v1-archive/reviews/glass-animals-dreamland/" rel="bookmark" title="Review: Dreamland // Glass Animals">
 								<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2020/08/dreamland-glass-animals-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: Dreamland // Glass Animals" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/dreamland-glass-animals-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: Dreamland // Glass Animals" />
 						</div>
 					</div>
 				</div>
@@ -683,11 +683,11 @@ Click the help icon above to learn more.
 							color: #272226;						}
 					}
 				</style>
-								<a href="https://old.audioxide.com/reviews/neil-young-after-the-gold-rush/" rel="bookmark" title="Review: After the Gold Rush // Neil Young">
+								<a href="https://audioxide.github.io/v1-archive/reviews/neil-young-after-the-gold-rush/" rel="bookmark" title="Review: After the Gold Rush // Neil Young">
 								<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2020/07/after-the-gold-rush-neil-young-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: After the Gold Rush // Neil Young" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/07/after-the-gold-rush-neil-young-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: After the Gold Rush // Neil Young" />
 						</div>
 					</div>
 				</div>
@@ -730,11 +730,11 @@ Click the help icon above to learn more.
 							color: #595959;						}
 					}
 				</style>
-								<a href="https://old.audioxide.com/reviews/lianne-la-havas-lianne-la-havas/" rel="bookmark" title="Review: Lianne La Havas // Lianne La Havas">
+								<a href="https://audioxide.github.io/v1-archive/reviews/lianne-la-havas-lianne-la-havas/" rel="bookmark" title="Review: Lianne La Havas // Lianne La Havas">
 								<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2020/07/lianne-la-havas-lianne-la-havas-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: Lianne La Havas // Lianne La Havas" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/07/lianne-la-havas-lianne-la-havas-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: Lianne La Havas // Lianne La Havas" />
 						</div>
 					</div>
 				</div>
@@ -777,11 +777,11 @@ Click the help icon above to learn more.
 							color: #000000;						}
 					}
 				</style>
-								<a href="https://old.audioxide.com/reviews/coldplay-parachutes/" rel="bookmark" title="Review: Parachutes // Coldplay">
+								<a href="https://audioxide.github.io/v1-archive/reviews/coldplay-parachutes/" rel="bookmark" title="Review: Parachutes // Coldplay">
 								<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2020/07/parachutes-coldplay-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: Parachutes // Coldplay" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/07/parachutes-coldplay-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: Parachutes // Coldplay" />
 						</div>
 					</div>
 				</div>
@@ -824,11 +824,11 @@ Click the help icon above to learn more.
 							color: #000000;						}
 					}
 				</style>
-								<a href="https://old.audioxide.com/reviews/khruangbin-mordechai/" rel="bookmark" title="Review: Mordechai // Khruangbin">
+								<a href="https://audioxide.github.io/v1-archive/reviews/khruangbin-mordechai/" rel="bookmark" title="Review: Mordechai // Khruangbin">
 								<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2020/06/Mordechai-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: Mordechai // Khruangbin" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/06/Mordechai-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: Mordechai // Khruangbin" />
 						</div>
 					</div>
 				</div>
@@ -845,14 +845,14 @@ Click the help icon above to learn more.
 		</article>
 				<nav class="pagination"><ul class='page-numbers'>
 	<li><span aria-current='page' class='page-numbers current'>1</span></li>
-	<li><a class='page-numbers' href='https://old.audioxide.com/reviews/page/2/'>2</a></li>
-	<li><a class='page-numbers' href='https://old.audioxide.com/reviews/page/3/'>3</a></li>
-	<li><a class='page-numbers' href='https://old.audioxide.com/reviews/page/4/'>4</a></li>
+	<li><a class='page-numbers' href='https://audioxide.github.io/v1-archive/reviews/page/2/'>2</a></li>
+	<li><a class='page-numbers' href='https://audioxide.github.io/v1-archive/reviews/page/3/'>3</a></li>
+	<li><a class='page-numbers' href='https://audioxide.github.io/v1-archive/reviews/page/4/'>4</a></li>
 	<li><span class="page-numbers dots">&hellip;</span></li>
-	<li><a class='page-numbers' href='https://old.audioxide.com/reviews/page/19/'>19</a></li>
-	<li><a class='page-numbers' href='https://old.audioxide.com/reviews/page/20/'>20</a></li>
-	<li><a class='page-numbers' href='https://old.audioxide.com/reviews/page/21/'>21</a></li>
-	<li><a class="next page-numbers" href="https://old.audioxide.com/reviews/page/2/">&rarr;</a></li>
+	<li><a class='page-numbers' href='https://audioxide.github.io/v1-archive/reviews/page/19/'>19</a></li>
+	<li><a class='page-numbers' href='https://audioxide.github.io/v1-archive/reviews/page/20/'>20</a></li>
+	<li><a class='page-numbers' href='https://audioxide.github.io/v1-archive/reviews/page/21/'>21</a></li>
+	<li><a class="next page-numbers" href="https://audioxide.github.io/v1-archive/reviews/page/2/">&rarr;</a></li>
 </ul>
 </nav>
 		
@@ -893,10 +893,10 @@ Click the help icon above to learn more.
 var mctb = {"cookieLength":"365","icons":{"hide":"&#x25BC;","show":"&#x25B2;"},"position":"bottom","state":{"submitted":false,"success":false}};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/plugins/mailchimp-top-bar/assets/js/script.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/themes/audioxide/library/js/libs/jquery.quickfit.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/themes/audioxide/library/js/scripts.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/plugins/mailchimp-top-bar/assets/js/script.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/js/libs/jquery.quickfit.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/js/scripts.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-includes/js/wp-embed.min.js'></script>
 
 	</body>
 

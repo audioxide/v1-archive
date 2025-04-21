@@ -16,33 +16,33 @@
 		<meta name="MobileOptimized" content="320">
 		<meta name="viewport" content="width=device-width, initial-scale=1"/>
 
-				<link rel="apple-touch-icon" href="https://old.audioxide.com/wp-content/themes/audioxide/library/images/apple-touch-icon.png">
-		<link rel="icon" href="https://old.audioxide.com/wp-content/themes/audioxide/favicon.png">
+				<link rel="apple-touch-icon" href="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/images/apple-touch-icon.png">
+		<link rel="icon" href="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/favicon.png">
 		<!--[if IE]>
-			<link rel="shortcut icon" href="https://old.audioxide.com/wp-content/themes/audioxide/favicon.ico">
+			<link rel="shortcut icon" href="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/favicon.ico">
 		<![endif]-->
 				<meta name="msapplication-TileColor" content="#f01d4f">
-		<meta name="msapplication-TileImage" content="https://old.audioxide.com/wp-content/themes/audioxide/library/images/win8-tile-icon.png">
+		<meta name="msapplication-TileImage" content="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/images/win8-tile-icon.png">
             <meta name="theme-color" content="#121212">
 
                         <meta property="og:title" content="Review: Jarvis // Jarvis Cocker" />
                 <meta property="fb:app_id" content="950609285023482" />
-        <meta property="og:url" content="https://old.audioxide.com/reviews/jarvis-cocker-jarvis/" />
+        <meta property="og:url" content="https://audioxide.com/reviews/jarvis-cocker-jarvis/" />
         <meta property="og:site_name" content="Audioxide" />
         <meta property="og:image" content="http://audioxide.com/wp-content/uploads/2016/03/jarvis-cocker-jarvis.jpg" />
                 <meta property="og:description" content="This is essentially pop music for the mature listener; easy to consume, enjoyable enough, but carries the flimsy characteristic that so often causes pop music to become watered down and saturated." />
                 
-		<link rel="pingback" href="https://old.audioxide.com/xmlrpc.php">
+		<link rel="pingback" href="https://audioxide.github.io/v1-archive/xmlrpc.php">
 
 				
 <!-- All In One SEO Pack 3.7.1[440,491] -->
 <meta name="description"  content="This is essentially pop music for the mature listener; easy to consume, enjoyable enough, but carries the flimsy characteristic that so often causes pop music to become watered down and saturated." />
 
-<link rel="canonical" href="https://old.audioxide.com/reviews/jarvis-cocker-jarvis/" />
+<link rel="canonical" href="https://audioxide.github.io/v1-archive/reviews/jarvis-cocker-jarvis/" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Review: Jarvis // Jarvis Cocker" />
 <meta property="og:description" content="&quot;Pop music for the mature listener.&quot;" />
-<meta property="og:url" content="https://old.audioxide.com/reviews/jarvis-cocker-jarvis/" />
+<meta property="og:url" content="https://audioxide.com/reviews/jarvis-cocker-jarvis/" />
 <meta property="og:site_name" content="Audioxide" />
 <meta property="og:image" content="https://audioxide.com/wp-content/uploads/2016/03/jarvis-cocker-jarvis-1024x1024.jpg" />
 <meta property="fb:admins" content="1093489064003119" />
@@ -57,9 +57,9 @@
 <meta name="twitter:image" content="https://audioxide.com/wp-content/uploads/2016/03/jarvis-cocker-jarvis-1024x1024.jpg" />
 <!-- All In One SEO Pack -->
 <link rel='dns-prefetch' href='//s.w.org' />
-<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Feed" href="https://old.audioxide.com/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Comments Feed" href="https://old.audioxide.com/comments/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Review: Jarvis // Jarvis Cocker Comments Feed" href="https://old.audioxide.com/reviews/jarvis-cocker-jarvis/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Feed" href="https://audioxide.github.io/v1-archive/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Comments Feed" href="https://audioxide.github.io/v1-archive/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Review: Jarvis // Jarvis Cocker Comments Feed" href="https://audioxide.github.io/v1-archive/reviews/jarvis-cocker-jarvis/feed/" />
 <!-- This site uses the Google Analytics by ExactMetrics plugin v6.2.2 - Using Analytics tracking - https://www.exactmetrics.com/ -->
 <script type="text/javascript" data-cfasync="false">
 	var em_version         = '6.2.2';
@@ -164,28 +164,28 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel='stylesheet' id='mc4wp-form-themes-css'  href='https://old.audioxide.com/wp-content/plugins/mailchimp-for-wp/assets/css/form-themes.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='mailchimp-top-bar-css'  href='https://old.audioxide.com/wp-content/plugins/mailchimp-top-bar/assets/css/bar.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='addtoany-css'  href='https://old.audioxide.com/wp-content/plugins/add-to-any/addtoany.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='editor-style-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/editor-style.css' type='text/css' media='all' />
-<link rel='stylesheet' id='admin-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/admin.css' type='text/css' media='all' />
-<link rel='stylesheet' id='ie-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/ie.css' type='text/css' media='all' />
-<link rel='stylesheet' id='style-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/style.css' type='text/css' media='all' />
-<link rel='stylesheet' id='login-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/login.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mc4wp-form-themes-css'  href='https://audioxide.github.io/v1-archive/wp-content/plugins/mailchimp-for-wp/assets/css/form-themes.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mailchimp-top-bar-css'  href='https://audioxide.github.io/v1-archive/wp-content/plugins/mailchimp-top-bar/assets/css/bar.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='addtoany-css'  href='https://audioxide.github.io/v1-archive/wp-content/plugins/add-to-any/addtoany.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='editor-style-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/editor-style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/admin.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ie-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/ie.css' type='text/css' media='all' />
+<link rel='stylesheet' id='style-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='login-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/login.css' type='text/css' media='all' />
 <script type='text/javascript'>
 /* <![CDATA[ */
 var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"zip,mp3,mpeg,pdf,docx,pptx,xlsx,rar","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/old.audioxide.com","hash_tracking":"false"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/plugins/google-analytics-dashboard-for-wp/assets/js/frontend.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-includes/js/jquery/jquery.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-includes/js/jquery/jquery-migrate.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/plugins/add-to-any/addtoany.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/themes/audioxide/library/js/libs/modernizr.custom.min.js'></script>
-<link rel='https://api.w.org/' href='https://old.audioxide.com/wp-json/' />
-<link rel='shortlink' href='https://old.audioxide.com/?p=1551' />
-<link rel="alternate" type="application/json+oembed" href="https://old.audioxide.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fold.audioxide.com%2Freviews%2Fjarvis-cocker-jarvis%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://old.audioxide.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fold.audioxide.com%2Freviews%2Fjarvis-cocker-jarvis%2F&#038;format=xml" />
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/plugins/google-analytics-dashboard-for-wp/assets/js/frontend.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/plugins/add-to-any/addtoany.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/js/libs/modernizr.custom.min.js'></script>
+<link rel='https://api.w.org/' href='https://audioxide.github.io/v1-archive/wp-json/' />
+<link rel='shortlink' href='https://audioxide.github.io/v1-archive/?p=1551' />
+<link rel="alternate" type="application/json+oembed" href="https://audioxide.github.io/v1-archive/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fold.audioxide.com%2Freviews%2Fjarvis-cocker-jarvis%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://audioxide.github.io/v1-archive/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fold.audioxide.com%2Freviews%2Fjarvis-cocker-jarvis%2F&#038;format=xml" />
 
 <script data-cfasync="false">
 window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_localize = {
@@ -230,7 +230,7 @@ a2a_config.onclick=1;
             "@type": "ListItem",
             "position": 1,
             "item": {
-                "@id": "https://old.audioxide.com",
+                "@id": "https://audioxide.com",
                 "name": "Home"
             }
         },
@@ -238,9 +238,9 @@ a2a_config.onclick=1;
             "@type": "ListItem",
             "position": 2,
             "item": {
-                "@id": "https://old.audioxide.com/reviews/jarvis-cocker-jarvis/",
+                "@id": "https://audioxide.com/reviews/jarvis-cocker-jarvis/",
                 "name": "Review: Jarvis // Jarvis Cocker",
-                "image": "https://old.audioxide.com/wp-content/uploads/2016/03/jarvis-cocker-jarvis-e1520778771885.jpg"
+                "image": "https://audioxide.github.io/v1-archive/wp-content/uploads/2016/03/jarvis-cocker-jarvis-e1520778771885.jpg"
             }
         }
     ]
@@ -268,7 +268,7 @@ Click the help icon above to learn more.
 	<body class="post-template-default single single-post postid-1551 single-format-standard" itemscope itemtype="http://schema.org/WebPage">
 <header role="banner" class="sticky" itemscope itemtype="http://schema.org/WPHeader">
 	<div class="wrap">
-		<p id="logo" class="h1 logo" itemscope itemtype="http://schema.org/Organization"><a href="https://old.audioxide.com" rel="nofollow"><img src="https://old.audioxide.com/wp-content/themes/audioxide/library/images/site-logo.svg" /></a></p>
+		<p id="logo" class="h1 logo" itemscope itemtype="http://schema.org/Organization"><a href="https://audioxide.github.io/v1-archive" rel="nofollow"><img src="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/images/site-logo.svg" /></a></p>
 		<div class="social-media">
 			<a href="https://www.facebook.com/Audioxide/"><i class="fa fa-facebook-square"></i></a>
 			<a href="https://twitter.com/audioxidecom"><i class="fa fa-twitter-square"></i></a>
@@ -282,16 +282,16 @@ Click the help icon above to learn more.
 </header>
 <div id="coverartbanner" class="container coverart">
     <div class="wrapper">
-		<a href="https://old.audioxide.com/reviews/nothing-the-great-dismal/"><img src="https://old.audioxide.com/wp-content/uploads/2020/11/the-great-dismal-nothing-500x500.jpg" alt="Album cover for Nothing - The Great Dismal" /></a>
-<a href="https://old.audioxide.com/reviews/clipping-visions-of-bodies-being-burned/"><img src="https://old.audioxide.com/wp-content/uploads/2020/11/visions-of-bodies-being-burned-clipping-500x500.jpg" alt="Album cover for clipping. - Visions of Bodies Being Burned" /></a>
-<a href="https://old.audioxide.com/reviews/doves-the-universal-want/"><img src="https://old.audioxide.com/wp-content/uploads/2020/09/the-universal-want-doves-500x500.jpg" alt="Album cover for Doves - The Universal Want" /></a>
-<a href="https://old.audioxide.com/reviews/all-them-witches-nothing-as-the-ideal/"><img src="https://old.audioxide.com/wp-content/uploads/2020/09/nothing-as-the-ideal-all-them-witches-500x500.jpg" alt="Album cover for All Them Witches - Nothing as the Ideal" /></a>
-<a href="https://old.audioxide.com/reviews/kelly-lee-owens-inner-song/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/inner-song-kelly-lee-owens-500x500.jpg" alt="Album cover for Kelly Lee Owens - Inner Song" /></a>
-<a href="https://old.audioxide.com/reviews/nas-kings-disease/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/kings-disease-nas-500x500.jpg" alt="Album cover for Nas - King's Disease" /></a>
-<a href="https://old.audioxide.com/reviews/dead-kennedys-fresh-fruit-for-rotting-vegetables/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/fresh-fruit-for-rotting-vegetables-dead-kennedys-500x500.jpg" alt="Album cover for Dead Kennedys - Fresh Fruit for Rotting Vegetables" /></a>
-<a href="https://old.audioxide.com/reviews/glass-animals-dreamland/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/dreamland-glass-animals-500x500.jpg" alt="Album cover for Glass Animals - Dreamland" /></a>
-<a href="https://old.audioxide.com/reviews/neil-young-after-the-gold-rush/"><img src="https://old.audioxide.com/wp-content/uploads/2020/07/after-the-gold-rush-neil-young-500x500.jpg" alt="Album cover for Neil Young - After the Gold Rush" /></a>
-<a href="https://old.audioxide.com/reviews/lianne-la-havas-lianne-la-havas/"><img src="https://old.audioxide.com/wp-content/uploads/2020/07/lianne-la-havas-lianne-la-havas-500x500.jpg" alt="Album cover for Lianne La Havas - Lianne La Havas" /></a>
+		<a href="https://audioxide.github.io/v1-archive/reviews/nothing-the-great-dismal/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/11/the-great-dismal-nothing-500x500.jpg" alt="Album cover for Nothing - The Great Dismal" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/clipping-visions-of-bodies-being-burned/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/11/visions-of-bodies-being-burned-clipping-500x500.jpg" alt="Album cover for clipping. - Visions of Bodies Being Burned" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/doves-the-universal-want/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/09/the-universal-want-doves-500x500.jpg" alt="Album cover for Doves - The Universal Want" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/all-them-witches-nothing-as-the-ideal/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/09/nothing-as-the-ideal-all-them-witches-500x500.jpg" alt="Album cover for All Them Witches - Nothing as the Ideal" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/kelly-lee-owens-inner-song/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/inner-song-kelly-lee-owens-500x500.jpg" alt="Album cover for Kelly Lee Owens - Inner Song" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/nas-kings-disease/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/kings-disease-nas-500x500.jpg" alt="Album cover for Nas - King's Disease" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/dead-kennedys-fresh-fruit-for-rotting-vegetables/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/fresh-fruit-for-rotting-vegetables-dead-kennedys-500x500.jpg" alt="Album cover for Dead Kennedys - Fresh Fruit for Rotting Vegetables" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/glass-animals-dreamland/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/dreamland-glass-animals-500x500.jpg" alt="Album cover for Glass Animals - Dreamland" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/neil-young-after-the-gold-rush/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/07/after-the-gold-rush-neil-young-500x500.jpg" alt="Album cover for Neil Young - After the Gold Rush" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/lianne-la-havas-lianne-la-havas/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/07/lianne-la-havas-lianne-la-havas-500x500.jpg" alt="Album cover for Lianne La Havas - Lianne La Havas" /></a>
     </div>
 </div>
 	<main id="main" role="main" itemscope itemprop="mainContentOfPage" itemtype="http://schema.org/Blog">
@@ -366,11 +366,11 @@ Click the help icon above to learn more.
 ­                                          Black Magic<br />
 ­                                            Baby&#8217;s Coming Back to Me</p>
 <p>&nbsp;</p>
-<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_26 addtoany_list" data-a2a-url="https://old.audioxide.com/reviews/jarvis-cocker-jarvis/" data-a2a-title="Review: Jarvis // Jarvis Cocker"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fold.audioxide.com%2Freviews%2Fjarvis-cocker-jarvis%2F&amp;linkname=Review%3A%20Jarvis%20%2F%2F%20Jarvis%20Cocker" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fold.audioxide.com%2Freviews%2Fjarvis-cocker-jarvis%2F&amp;linkname=Review%3A%20Jarvis%20%2F%2F%20Jarvis%20Cocker" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_flipboard" href="https://www.addtoany.com/add_to/flipboard?linkurl=https%3A%2F%2Fold.audioxide.com%2Freviews%2Fjarvis-cocker-jarvis%2F&amp;linkname=Review%3A%20Jarvis%20%2F%2F%20Jarvis%20Cocker" title="Flipboard" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd a2a_counter addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div>                  </div>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_26 addtoany_list" data-a2a-url="https://audioxide.com/reviews/jarvis-cocker-jarvis/" data-a2a-title="Review: Jarvis // Jarvis Cocker"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Faudioxide.com%2Freviews%2Fjarvis-cocker-jarvis%2F&amp;linkname=Review%3A%20Jarvis%20%2F%2F%20Jarvis%20Cocker" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Faudioxide.com%2Freviews%2Fjarvis-cocker-jarvis%2F&amp;linkname=Review%3A%20Jarvis%20%2F%2F%20Jarvis%20Cocker" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_flipboard" href="https://www.addtoany.com/add_to/flipboard?linkurl=https%3A%2F%2Faudioxide.com%2Freviews%2Fjarvis-cocker-jarvis%2F&amp;linkname=Review%3A%20Jarvis%20%2F%2F%20Jarvis%20Cocker" title="Flipboard" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd a2a_counter addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div>                  </div>
                                     <aside class="entry-images m-all t-1of3 d-2of7 cf">
                                                       <div class="img-wrap-outer">
                     <div class="img-wrap-inner">
-                      <img src="https://old.audioxide.com/wp-content/uploads/2016/03/jarvis-cocker-jarvis-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: Jarvis // Jarvis Cocker" />
+                      <img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2016/03/jarvis-cocker-jarvis-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: Jarvis // Jarvis Cocker" />
                     </div>
                   </div>
                                     <div class="review-summary">
@@ -395,8 +395,8 @@ Click the help icon above to learn more.
 
                                     <h4>Related Reviews</h4>
                   <ul class="related-posts">
-                    <li><a href="https://old.audioxide.com/reviews/nothing-the-great-dismal/">
-                                                  <img src="https://old.audioxide.com/wp-content/uploads/2020/11/the-great-dismal-nothing-500x500.jpg" alt="Audioxide Review Album Review: The Great Dismal // Nothing" />
+                    <li><a href="https://audioxide.github.io/v1-archive/reviews/nothing-the-great-dismal/">
+                                                  <img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/11/the-great-dismal-nothing-500x500.jpg" alt="Audioxide Review Album Review: The Great Dismal // Nothing" />
                           <div class="info">
                           <p class="h5 fittext">&ldquo;Unabashedly grim, reassuringly gentle&rdquo;</p>
                           <div class="albuminfo">
@@ -404,8 +404,8 @@ Click the help icon above to learn more.
                           <h5>Nothing</h5>
                           </div></div>
                                                 </a>
-                      </li><li><a href="https://old.audioxide.com/reviews/nas-kings-disease/">
-                                                  <img src="https://old.audioxide.com/wp-content/uploads/2020/08/kings-disease-nas-500x500.jpg" alt="Audioxide Review Album Review: King&#8217;s Disease // Nas" />
+                      </li><li><a href="https://audioxide.github.io/v1-archive/reviews/nas-kings-disease/">
+                                                  <img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/kings-disease-nas-500x500.jpg" alt="Audioxide Review Album Review: King&#8217;s Disease // Nas" />
                           <div class="info">
                           <p class="h5 fittext">&ldquo;Nas in his element&rdquo;</p>
                           <div class="albuminfo">
@@ -413,8 +413,8 @@ Click the help icon above to learn more.
                           <h5>Nas</h5>
                           </div></div>
                                                 </a>
-                      </li><li><a href="https://old.audioxide.com/reviews/waxahatchee-saint-cloud/">
-                                                  <img src="https://old.audioxide.com/wp-content/uploads/2020/04/Saint-Cloud-500x500.jpg" alt="Audioxide Review Album Review: Saint Cloud // Waxahatchee" />
+                      </li><li><a href="https://audioxide.github.io/v1-archive/reviews/waxahatchee-saint-cloud/">
+                                                  <img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/04/Saint-Cloud-500x500.jpg" alt="Audioxide Review Album Review: Saint Cloud // Waxahatchee" />
                           <div class="info">
                           <p class="h5 fittext">&ldquo;Warm, fuzzy country&rdquo;</p>
                           <div class="albuminfo">
@@ -422,8 +422,8 @@ Click the help icon above to learn more.
                           <h5>Waxahatchee</h5>
                           </div></div>
                                                 </a>
-                      </li><li><a href="https://old.audioxide.com/reviews/tame-impala-the-slow-rush/">
-                                                  <img src="https://old.audioxide.com/wp-content/uploads/2020/02/The-Slow-Rush-500x500.jpg" alt="Audioxide Review Album Review: The Slow Rush // Tame Impala" />
+                      </li><li><a href="https://audioxide.github.io/v1-archive/reviews/tame-impala-the-slow-rush/">
+                                                  <img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/02/The-Slow-Rush-500x500.jpg" alt="Audioxide Review Album Review: The Slow Rush // Tame Impala" />
                           <div class="info">
                           <p class="h5 fittext">&ldquo;One big agreeable blur&rdquo;</p>
                           <div class="albuminfo">
@@ -432,7 +432,7 @@ Click the help icon above to learn more.
                           </div></div>
                                                 </a>
                       </li>                    </ul>
-                    <p class="readmore"><a href="https://old.audioxide.com/reviews">Read more reviews...</a></p>
+                    <p class="readmore"><a href="https://audioxide.github.io/v1-archive/reviews">Read more reviews...</a></p>
                   
                 </footer> 
                 
@@ -476,11 +476,11 @@ Click the help icon above to learn more.
 var mctb = {"cookieLength":"365","icons":{"hide":"&#x25BC;","show":"&#x25B2;"},"position":"bottom","state":{"submitted":false,"success":false}};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/plugins/mailchimp-top-bar/assets/js/script.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-includes/js/comment-reply.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/themes/audioxide/library/js/libs/jquery.quickfit.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/themes/audioxide/library/js/scripts.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/plugins/mailchimp-top-bar/assets/js/script.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-includes/js/comment-reply.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/js/libs/jquery.quickfit.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/js/scripts.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-includes/js/wp-embed.min.js'></script>
 
 	</body>
 
