@@ -16,35 +16,35 @@
 		<meta name="MobileOptimized" content="320">
 		<meta name="viewport" content="width=device-width, initial-scale=1"/>
 
-				<link rel="apple-touch-icon" href="https://old.audioxide.com/wp-content/themes/audioxide/library/images/apple-touch-icon.png">
-		<link rel="icon" href="https://old.audioxide.com/wp-content/themes/audioxide/favicon.png">
+				<link rel="apple-touch-icon" href="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/images/apple-touch-icon.png">
+		<link rel="icon" href="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/favicon.png">
 		<!--[if IE]>
-			<link rel="shortcut icon" href="https://old.audioxide.com/wp-content/themes/audioxide/favicon.ico">
+			<link rel="shortcut icon" href="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/favicon.ico">
 		<![endif]-->
 				<meta name="msapplication-TileColor" content="#f01d4f">
-		<meta name="msapplication-TileImage" content="https://old.audioxide.com/wp-content/themes/audioxide/library/images/win8-tile-icon.png">
+		<meta name="msapplication-TileImage" content="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/images/win8-tile-icon.png">
             <meta name="theme-color" content="#121212">
 
                         <meta property="og:title" content="Articles" />
                 <meta property="fb:app_id" content="950609285023482" />
-        <meta property="og:url" content="https://old.audioxide.com/articles/page/2/" />
+        <meta property="og:url" content="https://audioxide.com/articles/page/2/" />
         <meta property="og:site_name" content="Audioxide" />
-        <meta property="og:image" content="https://old.audioxide.com/wp-content/themes/audioxide/library/images/sharer-logo.png" />
+        <meta property="og:image" content="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/images/sharer-logo.png" />
                 
-		<link rel="pingback" href="https://old.audioxide.com/xmlrpc.php">
+		<link rel="pingback" href="https://audioxide.github.io/v1-archive/xmlrpc.php">
 
 				
 <!-- All In One SEO Pack 3.7.1[440,478] -->
 <meta name="robots" content="noindex,follow" />
-<link rel="prev" href="https://old.audioxide.com/articles/" />
-<link rel="next" href="https://old.audioxide.com/articles/page/3/" />
+<link rel="prev" href="https://audioxide.github.io/v1-archive/articles/" />
+<link rel="next" href="https://audioxide.github.io/v1-archive/articles/page/3/" />
 
-<link rel="canonical" href="https://old.audioxide.com/./articles/page/2/" />
+<link rel="canonical" href="https://audioxide.com/./articles/page/2/" />
 <!-- All In One SEO Pack -->
 <link rel='dns-prefetch' href='//s.w.org' />
-<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Feed" href="https://old.audioxide.com/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Comments Feed" href="https://old.audioxide.com/comments/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Articles Category Feed" href="https://old.audioxide.com/./articles/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Feed" href="https://audioxide.github.io/v1-archive/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Comments Feed" href="https://audioxide.github.io/v1-archive/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Articles Category Feed" href="https://audioxide.github.io/v1-archive/./articles/feed/" />
 <!-- This site uses the Google Analytics by ExactMetrics plugin v6.2.2 - Using Analytics tracking - https://www.exactmetrics.com/ -->
 <script type="text/javascript" data-cfasync="false">
 	var em_version         = '6.2.2';
@@ -132,7 +132,7 @@ window.ga = __gaTracker;		__gaTracker('create', 'UA-71965408-1', 'auto');
 </script>
 <!-- / Google Analytics by ExactMetrics -->
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/old.audioxide.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-includes\/js\/wp-emoji-release.min.js"}};
 			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])?!1:!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55358,56760,9792,65039],[55358,56760,8203,9792,65039])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script>
 		<style type="text/css">
@@ -149,25 +149,25 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel='stylesheet' id='mc4wp-form-themes-css'  href='https://old.audioxide.com/wp-content/plugins/mailchimp-for-wp/assets/css/form-themes.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='mailchimp-top-bar-css'  href='https://old.audioxide.com/wp-content/plugins/mailchimp-top-bar/assets/css/bar.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='addtoany-css'  href='https://old.audioxide.com/wp-content/plugins/add-to-any/addtoany.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='editor-style-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/editor-style.css' type='text/css' media='all' />
-<link rel='stylesheet' id='admin-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/admin.css' type='text/css' media='all' />
-<link rel='stylesheet' id='ie-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/ie.css' type='text/css' media='all' />
-<link rel='stylesheet' id='style-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/style.css' type='text/css' media='all' />
-<link rel='stylesheet' id='login-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/login.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mc4wp-form-themes-css'  href='https://audioxide.github.io/v1-archive/wp-content/plugins/mailchimp-for-wp/assets/css/form-themes.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mailchimp-top-bar-css'  href='https://audioxide.github.io/v1-archive/wp-content/plugins/mailchimp-top-bar/assets/css/bar.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='addtoany-css'  href='https://audioxide.github.io/v1-archive/wp-content/plugins/add-to-any/addtoany.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='editor-style-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/editor-style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/admin.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ie-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/ie.css' type='text/css' media='all' />
+<link rel='stylesheet' id='style-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='login-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/login.css' type='text/css' media='all' />
 <script type='text/javascript'>
 /* <![CDATA[ */
-var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"zip,mp3,mpeg,pdf,docx,pptx,xlsx,rar","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/old.audioxide.com","hash_tracking":"false"};
+var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"zip,mp3,mpeg,pdf,docx,pptx,xlsx,rar","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json","hash_tracking":"false"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/plugins/google-analytics-dashboard-for-wp/assets/js/frontend.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-includes/js/jquery/jquery.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-includes/js/jquery/jquery-migrate.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/plugins/add-to-any/addtoany.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/themes/audioxide/library/js/libs/modernizr.custom.min.js'></script>
-<link rel='https://api.w.org/' href='https://old.audioxide.com/wp-json/' />
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/plugins/google-analytics-dashboard-for-wp/assets/js/frontend.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/plugins/add-to-any/addtoany.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/js/libs/modernizr.custom.min.js'></script>
+<link rel='https://api.w.org/' href='https://audioxide.github.io/v1-archive/wp-json/' />
 
 <script data-cfasync="false">
 window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_localize = {
@@ -199,7 +199,7 @@ a2a_config.onclick=1;
 
 
 <!-- This site is optimized with the Schema plugin v1.7.8.3 - https://schema.press -->
-<script type="application/ld+json">{"@context":"http:\/\/schema.org\/","@type":"CollectionPage","headline":"Articles Category","description":"","url":"https:\/\/old.audioxide.com\/.\/articles\/","sameAs":[],"hasPart":[{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/articles\/how-spotify-has-changed-the-way-we-listen-to-music\/"},"url":"https:\/\/old.audioxide.com\/articles\/how-spotify-has-changed-the-way-we-listen-to-music\/","headline":"How Spotify has changed the way we listen to...","datePublished":"2019-02-11T11:00:14+00:00","dateModified":"2019-09-17T20:13:44+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2019\/01\/spencer-imbrock.jpg","width":1500,"height":1000},"articleSection":"Articles","description":"Rüya 11.02.02019 Spotify has revolutionised how we consume music. From mood playlists to machine learning algorithms, the streaming service has become the definitive tastemaker. &nbsp; Image by Spencer Imbrock from Unsplash &nbsp; From vinyls to cassettes to mp3 players, the way we access music is constantly changing. Today, instant","author":{"@type":"Person","name":"Rüya Yönak","url":"https:\/\/old.audioxide.com\/author\/ruya\/","sameAs":["https:\/\/www.ymagination.co.uk\/"]}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/articles\/top-10-albums-of-2018\/"},"url":"https:\/\/old.audioxide.com\/articles\/top-10-albums-of-2018\/","headline":"Our 10 Favourite Albums of...","datePublished":"2018-12-21T12:00:29+00:00","dateModified":"2020-03-13T13:52:01+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2018\/12\/IDLES.png","width":938,"height":624},"articleSection":"Articles","description":"21.12.02018 &nbsp; 10. American Utopia \/\/ David Byrne Andrew When David Byrne released his latest album in early 2018, it took a while to click with me, citing a shaky start and a lot of risks, I remained conflicted. Returning to it since its release, however, American Utopia has shown itself","author":{"@type":"Person","name":"admin","url":"https:\/\/old.audioxide.com\/author\/admin\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/articles\/top-10-singles-of-2018\/"},"url":"https:\/\/old.audioxide.com\/articles\/top-10-singles-of-2018\/","headline":"Our 10 Favourite Singles of...","datePublished":"2018-12-18T12:00:21+00:00","dateModified":"2020-03-14T21:35:50+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2018\/12\/This-is-America.jpg","width":696,"height":371},"articleSection":"Articles","description":"18.12.02018 10. \"EveryBody's Coming to My House\" \/\/ David Byrne ­ Fred Let’s not pretend otherwise — a lot of artists put out dreadful stuff in their autumn years. And that’s to say nothing of those who put out dross at the peak of their powers. David Byrne picks","author":{"@type":"Person","name":"admin","url":"https:\/\/old.audioxide.com\/author\/admin\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/articles\/statsioxide-our-first-150-reviews-in-numbers\/"},"url":"https:\/\/old.audioxide.com\/articles\/statsioxide-our-first-150-reviews-in-numbers\/","headline":"Statsioxide: Our First 150 Reviews in...","datePublished":"2018-08-21T12:00:14+00:00","dateModified":"2018-08-30T21:56:23+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2018\/08\/Statsioxide.jpg","width":1500,"height":1000},"articleSection":"Articles","description":"Reviews make a lot more sense when they can be put into context. After passing 150 albums reviewed we thought it was high time to look at some statistics.","author":{"@type":"Person","name":"Fred O'Brien","url":"https:\/\/old.audioxide.com\/author\/fred\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/articles\/the-80s-according-to-stewart-lee\/"},"url":"https:\/\/old.audioxide.com\/articles\/the-80s-according-to-stewart-lee\/","headline":"The '80s according to Stewart...","datePublished":"2018-04-16T12:00:36+00:00","dateModified":"2019-09-08T01:49:30+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2018\/04\/Morrissey-lets-himself-go-e1523711937859.jpg","width":1499,"height":999},"articleSection":"Articles","description":"FRED 16.04.02018 The most miserable man in comedy has five favourite albums from everyone's least favourite decade. Who could turn down a trip through '80s music in a Stewart Lee devotee vehicle? Don't answer that.  &nbsp; Stewart Lee performs in Edinburgh. Photo by Samuel Gehrke &nbsp; Stewart Lee is","author":{"@type":"Person","name":"Fred O'Brien","url":"https:\/\/old.audioxide.com\/author\/fred\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/articles\/top-10-albums-of-2017\/"},"url":"https:\/\/old.audioxide.com\/articles\/top-10-albums-of-2017\/","headline":"Our 10 Favourite Albums of...","datePublished":"2017-12-18T12:00:07+00:00","dateModified":"2020-03-13T14:03:13+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2017\/12\/wolf-alice.jpg","width":1120,"height":630},"articleSection":"Articles","description":"18.12.02017 &nbsp; 10. Last Place \/\/ Grandaddy Michael You’d be forgiven for forgetting that Grandaddy even released a record this year, given that seemingly everybody in the music press has. Indeed, though the band returned from an eleven-year hiatus to largely positive reviews, nominative determinism’s Last Place hasn’t been the subject","author":{"@type":"Person","name":"admin","url":"https:\/\/old.audioxide.com\/author\/admin\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/articles\/top-10-tracks-of-2017\/"},"url":"https:\/\/old.audioxide.com\/articles\/top-10-tracks-of-2017\/","headline":"Our 10 Favourite Tracks of...","datePublished":"2017-12-13T11:46:43+00:00","dateModified":"2020-03-14T21:32:41+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2017\/12\/Kisses.jpg","width":1000,"height":1000},"articleSection":"Articles","description":"13.12.02017 10. \"Humble.\" \/\/ Kendrick Lamar Marcus \"HUMBLE.\"’s pre-album release worked as a simultaneous bookend to the themes and musical direction of To Pimp a Butterfly, and a spectacular act of misdirection. Following “The Heart Part IV”, The Young Pope comes back into the ring in a fighting mood,","author":{"@type":"Person","name":"admin","url":"https:\/\/old.audioxide.com\/author\/admin\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/articles\/biggest-disappointments-of-2017\/"},"url":"https:\/\/old.audioxide.com\/articles\/biggest-disappointments-of-2017\/","headline":"Our Biggest Disappointments of...","datePublished":"2017-12-08T11:00:35+00:00","dateModified":"2017-12-09T10:39:55+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2017\/12\/the-flaming-lips.jpg","width":696,"height":600},"articleSection":"Articles","description":"2017 has been a wonderful year for music, but alas, it's time to put on our cynical hats. The artists featured here have set such a standard that it becomes naturally upsetting when they fall considerably short. As you read us trash your favourite artist, try to remember that","author":{"@type":"Person","name":"admin","url":"https:\/\/old.audioxide.com\/author\/admin\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/articles\/best-game-soundtracks-of-2017\/"},"url":"https:\/\/old.audioxide.com\/articles\/best-game-soundtracks-of-2017\/","headline":"My Favourite Game Soundtracks of...","datePublished":"2017-12-04T12:00:07+00:00","dateModified":"2017-12-04T22:28:43+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2017\/12\/bwah.jpg","width":800,"height":414},"articleSection":"Articles","description":"ANDRE 04.12.02017 The video game industry is a bit shit, 2017 has all but confirmed that. Still, for all the controversies -- the microtransactions, the lootboxes, EA being EA -- the past year has actually been an absolute stormer for video game releases. As a responsible adult (honest), I find myself","author":{"@type":"Person","name":"Andre Dack","url":"https:\/\/old.audioxide.com\/author\/andre\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/articles\/ranking-nine-inch-nails-studio-albums\/"},"url":"https:\/\/old.audioxide.com\/articles\/ranking-nine-inch-nails-studio-albums\/","headline":"All the Pigs, All Lined Up: Nine Inch Nails' Studio Albums...","datePublished":"2017-08-24T16:30:50+00:00","dateModified":"2020-01-31T17:11:37+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2017\/08\/Trent_Reznor-FEB2008.jpg","width":800,"height":533},"articleSection":"Articles","description":"Andre 24.08.02017 (updated 29.01.02020) Hi, my name is André and I'm a Nine Inch Nails mega-fan. For years now the music of Trent Reznor has proved to be, yes, The Perfect Drug. I'm here without my comrades at Audioxide to provide an ordered list of the NIN discography. As","author":{"@type":"Person","name":"Andre Dack","url":"https:\/\/old.audioxide.com\/author\/andre\/"}}]}</script>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org\/","@type":"CollectionPage","headline":"Articles Category","description":"","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/.\/articles\/","sameAs":[],"hasPart":[{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/how-spotify-has-changed-the-way-we-listen-to-music\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/how-spotify-has-changed-the-way-we-listen-to-music\/","headline":"How Spotify has changed the way we listen to...","datePublished":"2019-02-11T11:00:14+00:00","dateModified":"2019-09-17T20:13:44+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2019\/01\/spencer-imbrock.jpg","width":1500,"height":1000},"articleSection":"Articles","description":"Rüya 11.02.02019 Spotify has revolutionised how we consume music. From mood playlists to machine learning algorithms, the streaming service has become the definitive tastemaker. &nbsp; Image by Spencer Imbrock from Unsplash &nbsp; From vinyls to cassettes to mp3 players, the way we access music is constantly changing. Today, instant","author":{"@type":"Person","name":"Rüya Yönak","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/ruya\/","sameAs":["https:\/\/www.ymagination.co.uk\/"]}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/top-10-albums-of-2018\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/top-10-albums-of-2018\/","headline":"Our 10 Favourite Albums of...","datePublished":"2018-12-21T12:00:29+00:00","dateModified":"2020-03-13T13:52:01+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2018\/12\/IDLES.png","width":938,"height":624},"articleSection":"Articles","description":"21.12.02018 &nbsp; 10. American Utopia \/\/ David Byrne Andrew When David Byrne released his latest album in early 2018, it took a while to click with me, citing a shaky start and a lot of risks, I remained conflicted. Returning to it since its release, however, American Utopia has shown itself","author":{"@type":"Person","name":"admin","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/admin\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/top-10-singles-of-2018\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/top-10-singles-of-2018\/","headline":"Our 10 Favourite Singles of...","datePublished":"2018-12-18T12:00:21+00:00","dateModified":"2020-03-14T21:35:50+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2018\/12\/This-is-America.jpg","width":696,"height":371},"articleSection":"Articles","description":"18.12.02018 10. \"EveryBody's Coming to My House\" \/\/ David Byrne ­ Fred Let’s not pretend otherwise — a lot of artists put out dreadful stuff in their autumn years. And that’s to say nothing of those who put out dross at the peak of their powers. David Byrne picks","author":{"@type":"Person","name":"admin","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/admin\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/statsioxide-our-first-150-reviews-in-numbers\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/statsioxide-our-first-150-reviews-in-numbers\/","headline":"Statsioxide: Our First 150 Reviews in...","datePublished":"2018-08-21T12:00:14+00:00","dateModified":"2018-08-30T21:56:23+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2018\/08\/Statsioxide.jpg","width":1500,"height":1000},"articleSection":"Articles","description":"Reviews make a lot more sense when they can be put into context. After passing 150 albums reviewed we thought it was high time to look at some statistics.","author":{"@type":"Person","name":"Fred O'Brien","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/fred\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/the-80s-according-to-stewart-lee\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/the-80s-according-to-stewart-lee\/","headline":"The '80s according to Stewart...","datePublished":"2018-04-16T12:00:36+00:00","dateModified":"2019-09-08T01:49:30+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2018\/04\/Morrissey-lets-himself-go-e1523711937859.jpg","width":1499,"height":999},"articleSection":"Articles","description":"FRED 16.04.02018 The most miserable man in comedy has five favourite albums from everyone's least favourite decade. Who could turn down a trip through '80s music in a Stewart Lee devotee vehicle? Don't answer that.  &nbsp; Stewart Lee performs in Edinburgh. Photo by Samuel Gehrke &nbsp; Stewart Lee is","author":{"@type":"Person","name":"Fred O'Brien","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/fred\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/top-10-albums-of-2017\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/top-10-albums-of-2017\/","headline":"Our 10 Favourite Albums of...","datePublished":"2017-12-18T12:00:07+00:00","dateModified":"2020-03-13T14:03:13+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2017\/12\/wolf-alice.jpg","width":1120,"height":630},"articleSection":"Articles","description":"18.12.02017 &nbsp; 10. Last Place \/\/ Grandaddy Michael You’d be forgiven for forgetting that Grandaddy even released a record this year, given that seemingly everybody in the music press has. Indeed, though the band returned from an eleven-year hiatus to largely positive reviews, nominative determinism’s Last Place hasn’t been the subject","author":{"@type":"Person","name":"admin","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/admin\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/top-10-tracks-of-2017\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/top-10-tracks-of-2017\/","headline":"Our 10 Favourite Tracks of...","datePublished":"2017-12-13T11:46:43+00:00","dateModified":"2020-03-14T21:32:41+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2017\/12\/Kisses.jpg","width":1000,"height":1000},"articleSection":"Articles","description":"13.12.02017 10. \"Humble.\" \/\/ Kendrick Lamar Marcus \"HUMBLE.\"’s pre-album release worked as a simultaneous bookend to the themes and musical direction of To Pimp a Butterfly, and a spectacular act of misdirection. Following “The Heart Part IV”, The Young Pope comes back into the ring in a fighting mood,","author":{"@type":"Person","name":"admin","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/admin\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/biggest-disappointments-of-2017\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/biggest-disappointments-of-2017\/","headline":"Our Biggest Disappointments of...","datePublished":"2017-12-08T11:00:35+00:00","dateModified":"2017-12-09T10:39:55+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2017\/12\/the-flaming-lips.jpg","width":696,"height":600},"articleSection":"Articles","description":"2017 has been a wonderful year for music, but alas, it's time to put on our cynical hats. The artists featured here have set such a standard that it becomes naturally upsetting when they fall considerably short. As you read us trash your favourite artist, try to remember that","author":{"@type":"Person","name":"admin","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/admin\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/best-game-soundtracks-of-2017\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/best-game-soundtracks-of-2017\/","headline":"My Favourite Game Soundtracks of...","datePublished":"2017-12-04T12:00:07+00:00","dateModified":"2017-12-04T22:28:43+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2017\/12\/bwah.jpg","width":800,"height":414},"articleSection":"Articles","description":"ANDRE 04.12.02017 The video game industry is a bit shit, 2017 has all but confirmed that. Still, for all the controversies -- the microtransactions, the lootboxes, EA being EA -- the past year has actually been an absolute stormer for video game releases. As a responsible adult (honest), I find myself","author":{"@type":"Person","name":"Andre Dack","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/andre\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/ranking-nine-inch-nails-studio-albums\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/ranking-nine-inch-nails-studio-albums\/","headline":"All the Pigs, All Lined Up: Nine Inch Nails' Studio Albums...","datePublished":"2017-08-24T16:30:50+00:00","dateModified":"2020-01-31T17:11:37+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2017\/08\/Trent_Reznor-FEB2008.jpg","width":800,"height":533},"articleSection":"Articles","description":"Andre 24.08.02017 (updated 29.01.02020) Hi, my name is André and I'm a Nine Inch Nails mega-fan. For years now the music of Trent Reznor has proved to be, yes, The Perfect Drug. I'm here without my comrades at Audioxide to provide an ordered list of the NIN discography. As","author":{"@type":"Person","name":"Andre Dack","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/andre\/"}}]}</script>
 
 
 
@@ -220,7 +220,7 @@ a2a_config.onclick=1;
             "@type": "ListItem",
             "position": 2,
             "item": {
-                "@id": "https://old.audioxide.com/./articles/",
+                "@id": "https://audioxide.com/./articles/",
                 "name": "Articles"
             }
         }
@@ -249,7 +249,7 @@ Click the help icon above to learn more.
 	<body class="archive paged category category-articles category-1 paged-2 category-paged-2" itemscope itemtype="http://schema.org/WebPage">
 <header role="banner" class="sticky" itemscope itemtype="http://schema.org/WPHeader">
 	<div class="wrap">
-		<p id="logo" class="h1 logo" itemscope itemtype="http://schema.org/Organization"><a href="https://old.audioxide.com" rel="nofollow"><img src="https://old.audioxide.com/wp-content/themes/audioxide/library/images/site-logo.svg" /></a></p>
+		<p id="logo" class="h1 logo" itemscope itemtype="http://schema.org/Organization"><a href="https://audioxide.github.io/v1-archive" rel="nofollow"><img src="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/images/site-logo.svg" /></a></p>
 		<div class="social-media">
 			<a href="https://www.facebook.com/Audioxide/"><i class="fa fa-facebook-square"></i></a>
 			<a href="https://twitter.com/audioxidecom"><i class="fa fa-twitter-square"></i></a>
@@ -263,16 +263,16 @@ Click the help icon above to learn more.
 </header>
 <div id="coverartbanner" class="container coverart">
     <div class="wrapper">
-		<a href="https://old.audioxide.com/reviews/nothing-the-great-dismal/"><img src="https://old.audioxide.com/wp-content/uploads/2020/11/the-great-dismal-nothing-500x500.jpg" alt="Album cover for Nothing - The Great Dismal" /></a>
-<a href="https://old.audioxide.com/reviews/clipping-visions-of-bodies-being-burned/"><img src="https://old.audioxide.com/wp-content/uploads/2020/11/visions-of-bodies-being-burned-clipping-500x500.jpg" alt="Album cover for clipping. - Visions of Bodies Being Burned" /></a>
-<a href="https://old.audioxide.com/reviews/doves-the-universal-want/"><img src="https://old.audioxide.com/wp-content/uploads/2020/09/the-universal-want-doves-500x500.jpg" alt="Album cover for Doves - The Universal Want" /></a>
-<a href="https://old.audioxide.com/reviews/all-them-witches-nothing-as-the-ideal/"><img src="https://old.audioxide.com/wp-content/uploads/2020/09/nothing-as-the-ideal-all-them-witches-500x500.jpg" alt="Album cover for All Them Witches - Nothing as the Ideal" /></a>
-<a href="https://old.audioxide.com/reviews/kelly-lee-owens-inner-song/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/inner-song-kelly-lee-owens-500x500.jpg" alt="Album cover for Kelly Lee Owens - Inner Song" /></a>
-<a href="https://old.audioxide.com/reviews/nas-kings-disease/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/kings-disease-nas-500x500.jpg" alt="Album cover for Nas - King's Disease" /></a>
-<a href="https://old.audioxide.com/reviews/dead-kennedys-fresh-fruit-for-rotting-vegetables/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/fresh-fruit-for-rotting-vegetables-dead-kennedys-500x500.jpg" alt="Album cover for Dead Kennedys - Fresh Fruit for Rotting Vegetables" /></a>
-<a href="https://old.audioxide.com/reviews/glass-animals-dreamland/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/dreamland-glass-animals-500x500.jpg" alt="Album cover for Glass Animals - Dreamland" /></a>
-<a href="https://old.audioxide.com/reviews/neil-young-after-the-gold-rush/"><img src="https://old.audioxide.com/wp-content/uploads/2020/07/after-the-gold-rush-neil-young-500x500.jpg" alt="Album cover for Neil Young - After the Gold Rush" /></a>
-<a href="https://old.audioxide.com/reviews/lianne-la-havas-lianne-la-havas/"><img src="https://old.audioxide.com/wp-content/uploads/2020/07/lianne-la-havas-lianne-la-havas-500x500.jpg" alt="Album cover for Lianne La Havas - Lianne La Havas" /></a>
+		<a href="https://audioxide.github.io/v1-archive/reviews/nothing-the-great-dismal/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/11/the-great-dismal-nothing-500x500.jpg" alt="Album cover for Nothing - The Great Dismal" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/clipping-visions-of-bodies-being-burned/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/11/visions-of-bodies-being-burned-clipping-500x500.jpg" alt="Album cover for clipping. - Visions of Bodies Being Burned" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/doves-the-universal-want/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/09/the-universal-want-doves-500x500.jpg" alt="Album cover for Doves - The Universal Want" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/all-them-witches-nothing-as-the-ideal/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/09/nothing-as-the-ideal-all-them-witches-500x500.jpg" alt="Album cover for All Them Witches - Nothing as the Ideal" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/kelly-lee-owens-inner-song/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/inner-song-kelly-lee-owens-500x500.jpg" alt="Album cover for Kelly Lee Owens - Inner Song" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/nas-kings-disease/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/kings-disease-nas-500x500.jpg" alt="Album cover for Nas - King's Disease" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/dead-kennedys-fresh-fruit-for-rotting-vegetables/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/fresh-fruit-for-rotting-vegetables-dead-kennedys-500x500.jpg" alt="Album cover for Dead Kennedys - Fresh Fruit for Rotting Vegetables" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/glass-animals-dreamland/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/dreamland-glass-animals-500x500.jpg" alt="Album cover for Glass Animals - Dreamland" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/neil-young-after-the-gold-rush/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/07/after-the-gold-rush-neil-young-500x500.jpg" alt="Album cover for Neil Young - After the Gold Rush" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/lianne-la-havas-lianne-la-havas/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/07/lianne-la-havas-lianne-la-havas-500x500.jpg" alt="Album cover for Lianne La Havas - Lianne La Havas" /></a>
     </div>
 </div>
 	<main id="main" class="cf wrap standard-list" role="main" itemscope itemprop="mainContentOfPage" itemtype="http://schema.org/Blog">
@@ -281,7 +281,7 @@ Click the help icon above to learn more.
 		
 		<article id="post-7356" class="cf bg post-7356 post type-post status-publish format-standard has-post-thumbnail hentry category-articles" role="article">
 
-			 				<a href="https://old.audioxide.com/articles/how-spotify-has-changed-the-way-we-listen-to-music/" rel="bookmark" title="How Spotify has changed the way we listen to music">
+			 				<a href="https://audioxide.github.io/v1-archive/articles/how-spotify-has-changed-the-way-we-listen-to-music/" rel="bookmark" title="How Spotify has changed the way we listen to music">
 							<section class="entry-content cf">
 				<header class="entry-header article-header info">
 				<h3 class="h2 entry-title">How Spotify has changed the way we listen to music</h3>
@@ -292,12 +292,12 @@ Click the help icon above to learn more.
 							<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2019/01/spencer-imbrock-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for How Spotify has changed the way we listen to music" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2019/01/spencer-imbrock-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for How Spotify has changed the way we listen to music" />
 						</div>
 					</div>
 				</div>
 
-				<p>Rüya 11.02.02019 Spotify has revolutionised how we consume music. From mood playlists to machine learning algorithms, the streaming service has become the definitive tastemaker. &nbsp; &nbsp; From vinyls to cassettes to mp3 players, the way we access music is constantly changing. Today, instant music streaming services like Spotify are making it easier to find and&#8230;  <a class="excerpt-read-more" href="https://old.audioxide.com/articles/how-spotify-has-changed-the-way-we-listen-to-music/" title="Read How Spotify has changed the way we listen to music">Read more &raquo;</a></p>
+				<p>Rüya 11.02.02019 Spotify has revolutionised how we consume music. From mood playlists to machine learning algorithms, the streaming service has become the definitive tastemaker. &nbsp; &nbsp; From vinyls to cassettes to mp3 players, the way we access music is constantly changing. Today, instant music streaming services like Spotify are making it easier to find and&#8230;  <a class="excerpt-read-more" href="https://audioxide.github.io/v1-archive/articles/how-spotify-has-changed-the-way-we-listen-to-music/" title="Read How Spotify has changed the way we listen to music">Read more &raquo;</a></p>
 
 			</section>			<header class="entry-header article-header info">
 
@@ -307,7 +307,7 @@ Click the help icon above to learn more.
 			</a>
 		</article><article id="post-7289" class="cf bg post-7289 post type-post status-publish format-standard has-post-thumbnail hentry category-articles tag-all-them-witches tag-arctic-monkeys tag-daughters tag-david-byrne tag-idles tag-janelle-monae tag-kurt-vile tag-nine-inch-nails tag-robyn tag-vince-staples" role="article">
 
-			 				<a href="https://old.audioxide.com/articles/top-10-albums-of-2018/" rel="bookmark" title="Our 10 Favourite Albums of 2018">
+			 				<a href="https://audioxide.github.io/v1-archive/articles/top-10-albums-of-2018/" rel="bookmark" title="Our 10 Favourite Albums of 2018">
 							<section class="entry-content cf">
 				<header class="entry-header article-header info">
 				<h3 class="h2 entry-title">Our 10 Favourite Albums of 2018</h3>
@@ -318,12 +318,12 @@ Click the help icon above to learn more.
 							<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2018/12/IDLES-300x100.png" class="attachment-full wp-post-image" alt="Featured images for Our 10 Favourite Albums of 2018" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2018/12/IDLES-300x100.png" class="attachment-full wp-post-image" alt="Featured images for Our 10 Favourite Albums of 2018" />
 						</div>
 					</div>
 				</div>
 
-				<p>21.12.02018 &nbsp; 10. American Utopia // David Byrne Andrew When David Byrne released his latest album in early 2018, it took a while to click with me, citing a shaky start and a lot of risks, I remained conflicted. Returning to it since its release, however, American Utopia has shown itself as a real grower. Harking back&#8230;  <a class="excerpt-read-more" href="https://old.audioxide.com/articles/top-10-albums-of-2018/" title="Read Our 10 Favourite Albums of 2018">Read more &raquo;</a></p>
+				<p>21.12.02018 &nbsp; 10. American Utopia // David Byrne Andrew When David Byrne released his latest album in early 2018, it took a while to click with me, citing a shaky start and a lot of risks, I remained conflicted. Returning to it since its release, however, American Utopia has shown itself as a real grower. Harking back&#8230;  <a class="excerpt-read-more" href="https://audioxide.github.io/v1-archive/articles/top-10-albums-of-2018/" title="Read Our 10 Favourite Albums of 2018">Read more &raquo;</a></p>
 
 			</section>			<header class="entry-header article-header info">
 
@@ -333,7 +333,7 @@ Click the help icon above to learn more.
 			</a>
 		</article><article id="post-7288" class="cf bg post-7288 post type-post status-publish format-standard has-post-thumbnail hentry category-articles" role="article">
 
-			 				<a href="https://old.audioxide.com/articles/top-10-singles-of-2018/" rel="bookmark" title="Our 10 Favourite Singles of 2018">
+			 				<a href="https://audioxide.github.io/v1-archive/articles/top-10-singles-of-2018/" rel="bookmark" title="Our 10 Favourite Singles of 2018">
 							<section class="entry-content cf">
 				<header class="entry-header article-header info">
 				<h3 class="h2 entry-title">Our 10 Favourite Singles of 2018</h3>
@@ -344,12 +344,12 @@ Click the help icon above to learn more.
 							<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2018/12/This-is-America-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for Our 10 Favourite Singles of 2018" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2018/12/This-is-America-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for Our 10 Favourite Singles of 2018" />
 						</div>
 					</div>
 				</div>
 
-				<p>18.12.02018 10. &#8220;EveryBody&#8217;s Coming to My House&#8221; // David Byrne ­ Fred Let’s not pretend otherwise — a lot of artists put out dreadful stuff in their autumn years. And that’s to say nothing of those who put out dross at the peak of their powers. David Byrne picks and chooses his moments, and it&#8230;  <a class="excerpt-read-more" href="https://old.audioxide.com/articles/top-10-singles-of-2018/" title="Read Our 10 Favourite Singles of 2018">Read more &raquo;</a></p>
+				<p>18.12.02018 10. &#8220;EveryBody&#8217;s Coming to My House&#8221; // David Byrne ­ Fred Let’s not pretend otherwise — a lot of artists put out dreadful stuff in their autumn years. And that’s to say nothing of those who put out dross at the peak of their powers. David Byrne picks and chooses his moments, and it&#8230;  <a class="excerpt-read-more" href="https://audioxide.github.io/v1-archive/articles/top-10-singles-of-2018/" title="Read Our 10 Favourite Singles of 2018">Read more &raquo;</a></p>
 
 			</section>			<header class="entry-header article-header info">
 
@@ -359,7 +359,7 @@ Click the help icon above to learn more.
 			</a>
 		</article><article id="post-6714" class="cf bg post-6714 post type-post status-publish format-standard has-post-thumbnail hentry category-articles" role="article">
 
-			 				<a href="https://old.audioxide.com/articles/statsioxide-our-first-150-reviews-in-numbers/" rel="bookmark" title="Statsioxide: Our First 150 Reviews in Numbers">
+			 				<a href="https://audioxide.github.io/v1-archive/articles/statsioxide-our-first-150-reviews-in-numbers/" rel="bookmark" title="Statsioxide: Our First 150 Reviews in Numbers">
 							<section class="entry-content cf">
 				<header class="entry-header article-header info">
 				<h3 class="h2 entry-title">Statsioxide: Our First 150 Reviews in Numbers</h3>
@@ -370,7 +370,7 @@ Click the help icon above to learn more.
 							<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2018/08/Statsioxide-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for Statsioxide: Our First 150 Reviews in Numbers" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2018/08/Statsioxide-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for Statsioxide: Our First 150 Reviews in Numbers" />
 						</div>
 					</div>
 				</div>
@@ -385,7 +385,7 @@ Click the help icon above to learn more.
 			</a>
 		</article><article id="post-6590" class="cf bg post-6590 post type-post status-publish format-standard has-post-thumbnail hentry category-articles tag-stewart-lee tag-the-fall tag-the-nightingales" role="article">
 
-			 				<a href="https://old.audioxide.com/articles/the-80s-according-to-stewart-lee/" rel="bookmark" title="The &#8217;80s according to Stewart Lee">
+			 				<a href="https://audioxide.github.io/v1-archive/articles/the-80s-according-to-stewart-lee/" rel="bookmark" title="The &#8217;80s according to Stewart Lee">
 							<section class="entry-content cf">
 				<header class="entry-header article-header info">
 				<h3 class="h2 entry-title">The &#8217;80s according to Stewart Lee</h3>
@@ -396,12 +396,12 @@ Click the help icon above to learn more.
 							<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2018/04/Morrissey-lets-himself-go-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for The &#8217;80s according to Stewart Lee" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2018/04/Morrissey-lets-himself-go-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for The &#8217;80s according to Stewart Lee" />
 						</div>
 					</div>
 				</div>
 
-				<p>FRED 16.04.02018 The most miserable man in comedy has five favourite albums from everyone&#8217;s least favourite decade. Who could turn down a trip through &#8217;80s music in a Stewart Lee devotee vehicle? Don&#8217;t answer that.  &nbsp; &nbsp; Stewart Lee is a fat British comedian known for his unfunny routines and holding audiences in contempt. As&#8230;  <a class="excerpt-read-more" href="https://old.audioxide.com/articles/the-80s-according-to-stewart-lee/" title="Read The &#8217;80s according to Stewart Lee">Read more &raquo;</a></p>
+				<p>FRED 16.04.02018 The most miserable man in comedy has five favourite albums from everyone&#8217;s least favourite decade. Who could turn down a trip through &#8217;80s music in a Stewart Lee devotee vehicle? Don&#8217;t answer that.  &nbsp; &nbsp; Stewart Lee is a fat British comedian known for his unfunny routines and holding audiences in contempt. As&#8230;  <a class="excerpt-read-more" href="https://audioxide.github.io/v1-archive/articles/the-80s-according-to-stewart-lee/" title="Read The &#8217;80s according to Stewart Lee">Read more &raquo;</a></p>
 
 			</section>			<header class="entry-header article-header info">
 
@@ -411,7 +411,7 @@ Click the help icon above to learn more.
 			</a>
 		</article><article id="post-5902" class="cf bg post-5902 post type-post status-publish format-standard has-post-thumbnail hentry category-articles tag-death-from-above tag-four-tet tag-grandaddy tag-kendrick-lamar tag-laura-marling tag-mogwai tag-queens-of-the-stone-age tag-run-the-jewels tag-tyler-the-creator tag-wolf-alice" role="article">
 
-			 				<a href="https://old.audioxide.com/articles/top-10-albums-of-2017/" rel="bookmark" title="Our 10 Favourite Albums of 2017">
+			 				<a href="https://audioxide.github.io/v1-archive/articles/top-10-albums-of-2017/" rel="bookmark" title="Our 10 Favourite Albums of 2017">
 							<section class="entry-content cf">
 				<header class="entry-header article-header info">
 				<h3 class="h2 entry-title">Our 10 Favourite Albums of 2017</h3>
@@ -422,12 +422,12 @@ Click the help icon above to learn more.
 							<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2017/12/wolf-alice-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for Our 10 Favourite Albums of 2017" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2017/12/wolf-alice-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for Our 10 Favourite Albums of 2017" />
 						</div>
 					</div>
 				</div>
 
-				<p>18.12.02017 &nbsp; 10. Last Place // Grandaddy Michael You’d be forgiven for forgetting that Grandaddy even released a record this year, given that seemingly everybody in the music press has. Indeed, though the band returned from an eleven-year hiatus to largely positive reviews, nominative determinism’s Last Place hasn’t been the subject of much end-of-year discussion. This speaks&#8230;  <a class="excerpt-read-more" href="https://old.audioxide.com/articles/top-10-albums-of-2017/" title="Read Our 10 Favourite Albums of 2017">Read more &raquo;</a></p>
+				<p>18.12.02017 &nbsp; 10. Last Place // Grandaddy Michael You’d be forgiven for forgetting that Grandaddy even released a record this year, given that seemingly everybody in the music press has. Indeed, though the band returned from an eleven-year hiatus to largely positive reviews, nominative determinism’s Last Place hasn’t been the subject of much end-of-year discussion. This speaks&#8230;  <a class="excerpt-read-more" href="https://audioxide.github.io/v1-archive/articles/top-10-albums-of-2017/" title="Read Our 10 Favourite Albums of 2017">Read more &raquo;</a></p>
 
 			</section>			<header class="entry-header article-header info">
 
@@ -437,7 +437,7 @@ Click the help icon above to learn more.
 			</a>
 		</article><article id="post-5904" class="cf bg post-5904 post type-post status-publish format-standard has-post-thumbnail hentry category-articles tag-death-from-above tag-four-tet tag-godspeed-you-black-emperor tag-kendrick-lamar tag-laura-marling tag-queens-of-the-stone-age tag-quelle-chris tag-richard-dawson tag-wolf-alice" role="article">
 
-			 				<a href="https://old.audioxide.com/articles/top-10-tracks-of-2017/" rel="bookmark" title="Our 10 Favourite Tracks of 2017">
+			 				<a href="https://audioxide.github.io/v1-archive/articles/top-10-tracks-of-2017/" rel="bookmark" title="Our 10 Favourite Tracks of 2017">
 							<section class="entry-content cf">
 				<header class="entry-header article-header info">
 				<h3 class="h2 entry-title">Our 10 Favourite Tracks of 2017</h3>
@@ -448,12 +448,12 @@ Click the help icon above to learn more.
 							<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2017/12/Kisses-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for Our 10 Favourite Tracks of 2017" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2017/12/Kisses-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for Our 10 Favourite Tracks of 2017" />
 						</div>
 					</div>
 				</div>
 
-				<p>13.12.02017 10. &#8220;Humble.&#8221; // Kendrick Lamar Marcus &#8220;HUMBLE.&#8221;’s pre-album release worked as a simultaneous bookend to the themes and musical direction of To Pimp a Butterfly, and a spectacular act of misdirection. Following “The Heart Part IV”, The Young Pope comes back into the ring in a fighting mood, looking to throw weight behind his&#8230;  <a class="excerpt-read-more" href="https://old.audioxide.com/articles/top-10-tracks-of-2017/" title="Read Our 10 Favourite Tracks of 2017">Read more &raquo;</a></p>
+				<p>13.12.02017 10. &#8220;Humble.&#8221; // Kendrick Lamar Marcus &#8220;HUMBLE.&#8221;’s pre-album release worked as a simultaneous bookend to the themes and musical direction of To Pimp a Butterfly, and a spectacular act of misdirection. Following “The Heart Part IV”, The Young Pope comes back into the ring in a fighting mood, looking to throw weight behind his&#8230;  <a class="excerpt-read-more" href="https://audioxide.github.io/v1-archive/articles/top-10-tracks-of-2017/" title="Read Our 10 Favourite Tracks of 2017">Read more &raquo;</a></p>
 
 			</section>			<header class="entry-header article-header info">
 
@@ -463,7 +463,7 @@ Click the help icon above to learn more.
 			</a>
 		</article><article id="post-5907" class="cf bg post-5907 post type-post status-publish format-standard has-post-thumbnail hentry category-articles tag-arcade-fire tag-bonobo tag-the-flaming-lips" role="article">
 
-			 				<a href="https://old.audioxide.com/articles/biggest-disappointments-of-2017/" rel="bookmark" title="Our Biggest Disappointments of 2017">
+			 				<a href="https://audioxide.github.io/v1-archive/articles/biggest-disappointments-of-2017/" rel="bookmark" title="Our Biggest Disappointments of 2017">
 							<section class="entry-content cf">
 				<header class="entry-header article-header info">
 				<h3 class="h2 entry-title">Our Biggest Disappointments of 2017</h3>
@@ -474,12 +474,12 @@ Click the help icon above to learn more.
 							<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2017/12/the-flaming-lips-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for Our Biggest Disappointments of 2017" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2017/12/the-flaming-lips-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for Our Biggest Disappointments of 2017" />
 						</div>
 					</div>
 				</div>
 
-				<p>2017 has been a wonderful year for music, but alas, it&#8217;s time to put on our cynical hats. The artists featured here have set such a standard that it becomes naturally upsetting when they fall considerably short. As you read us trash your favourite artist, try to remember that we are all fans here. Besides,&#8230;  <a class="excerpt-read-more" href="https://old.audioxide.com/articles/biggest-disappointments-of-2017/" title="Read Our Biggest Disappointments of 2017">Read more &raquo;</a></p>
+				<p>2017 has been a wonderful year for music, but alas, it&#8217;s time to put on our cynical hats. The artists featured here have set such a standard that it becomes naturally upsetting when they fall considerably short. As you read us trash your favourite artist, try to remember that we are all fans here. Besides,&#8230;  <a class="excerpt-read-more" href="https://audioxide.github.io/v1-archive/articles/biggest-disappointments-of-2017/" title="Read Our Biggest Disappointments of 2017">Read more &raquo;</a></p>
 
 			</section>			<header class="entry-header article-header info">
 
@@ -489,7 +489,7 @@ Click the help icon above to learn more.
 			</a>
 		</article><article id="post-5400" class="cf bg post-5400 post type-post status-publish format-standard has-post-thumbnail hentry category-articles tag-mario tag-sonic tag-zelda" role="article">
 
-			 				<a href="https://old.audioxide.com/articles/best-game-soundtracks-of-2017/" rel="bookmark" title="My Favourite Game Soundtracks of 2017">
+			 				<a href="https://audioxide.github.io/v1-archive/articles/best-game-soundtracks-of-2017/" rel="bookmark" title="My Favourite Game Soundtracks of 2017">
 							<section class="entry-content cf">
 				<header class="entry-header article-header info">
 				<h3 class="h2 entry-title">My Favourite Game Soundtracks of 2017</h3>
@@ -500,12 +500,12 @@ Click the help icon above to learn more.
 							<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2017/12/bwah-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for My Favourite Game Soundtracks of 2017" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2017/12/bwah-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for My Favourite Game Soundtracks of 2017" />
 						</div>
 					</div>
 				</div>
 
-				<p>ANDRE 04.12.02017 The video game industry is a bit shit, 2017 has all but confirmed that. Still, for all the controversies &#8212; the microtransactions, the lootboxes, EA being EA &#8212; the past year has actually been an absolute stormer for video game releases. As a responsible adult (honest), I find myself with less time to play video&#8230;  <a class="excerpt-read-more" href="https://old.audioxide.com/articles/best-game-soundtracks-of-2017/" title="Read My Favourite Game Soundtracks of 2017">Read more &raquo;</a></p>
+				<p>ANDRE 04.12.02017 The video game industry is a bit shit, 2017 has all but confirmed that. Still, for all the controversies &#8212; the microtransactions, the lootboxes, EA being EA &#8212; the past year has actually been an absolute stormer for video game releases. As a responsible adult (honest), I find myself with less time to play video&#8230;  <a class="excerpt-read-more" href="https://audioxide.github.io/v1-archive/articles/best-game-soundtracks-of-2017/" title="Read My Favourite Game Soundtracks of 2017">Read more &raquo;</a></p>
 
 			</section>			<header class="entry-header article-header info">
 
@@ -515,7 +515,7 @@ Click the help icon above to learn more.
 			</a>
 		</article><article id="post-4525" class="cf bg post-4525 post type-post status-publish format-standard has-post-thumbnail hentry category-articles tag-nine-inch-nails tag-trent-reznor" role="article">
 
-			 				<a href="https://old.audioxide.com/articles/ranking-nine-inch-nails-studio-albums/" rel="bookmark" title="All the Pigs, All Lined Up: Nine Inch Nails&#8217; Studio Albums Ranked">
+			 				<a href="https://audioxide.github.io/v1-archive/articles/ranking-nine-inch-nails-studio-albums/" rel="bookmark" title="All the Pigs, All Lined Up: Nine Inch Nails&#8217; Studio Albums Ranked">
 							<section class="entry-content cf">
 				<header class="entry-header article-header info">
 				<h3 class="h2 entry-title">All the Pigs, All Lined Up: Nine Inch Nails&#8217; Studio Albums Ranked</h3>
@@ -526,12 +526,12 @@ Click the help icon above to learn more.
 							<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2017/08/Trent_Reznor-FEB2008-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for All the Pigs, All Lined Up: Nine Inch Nails&#8217; Studio Albums Ranked" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2017/08/Trent_Reznor-FEB2008-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for All the Pigs, All Lined Up: Nine Inch Nails&#8217; Studio Albums Ranked" />
 						</div>
 					</div>
 				</div>
 
-				<p>Andre 24.08.02017 (updated 29.01.02020) Hi, my name is André and I&#8217;m a Nine Inch Nails mega-fan. For years now the music of Trent Reznor has proved to be, yes, The Perfect Drug. I&#8217;m here without my comrades at Audioxide to provide an ordered list of the NIN discography. As most fans are aware, there are&#8230;  <a class="excerpt-read-more" href="https://old.audioxide.com/articles/ranking-nine-inch-nails-studio-albums/" title="Read All the Pigs, All Lined Up: Nine Inch Nails&#8217; Studio Albums Ranked">Read more &raquo;</a></p>
+				<p>Andre 24.08.02017 (updated 29.01.02020) Hi, my name is André and I&#8217;m a Nine Inch Nails mega-fan. For years now the music of Trent Reznor has proved to be, yes, The Perfect Drug. I&#8217;m here without my comrades at Audioxide to provide an ordered list of the NIN discography. As most fans are aware, there are&#8230;  <a class="excerpt-read-more" href="https://audioxide.github.io/v1-archive/articles/ranking-nine-inch-nails-studio-albums/" title="Read All the Pigs, All Lined Up: Nine Inch Nails&#8217; Studio Albums Ranked">Read more &raquo;</a></p>
 
 			</section>			<header class="entry-header article-header info">
 
@@ -541,14 +541,14 @@ Click the help icon above to learn more.
 			</a>
 		</article>
 				<nav class="pagination"><ul class='page-numbers'>
-	<li><a class="prev page-numbers" href="https://old.audioxide.com/articles/page/1/">&larr;</a></li>
-	<li><a class='page-numbers' href='https://old.audioxide.com/articles/page/1/'>1</a></li>
+	<li><a class="prev page-numbers" href="https://audioxide.github.io/v1-archive/articles/page/1/">&larr;</a></li>
+	<li><a class='page-numbers' href='https://audioxide.github.io/v1-archive/articles/page/1/'>1</a></li>
 	<li><span aria-current='page' class='page-numbers current'>2</span></li>
-	<li><a class='page-numbers' href='https://old.audioxide.com/articles/page/3/'>3</a></li>
-	<li><a class='page-numbers' href='https://old.audioxide.com/articles/page/4/'>4</a></li>
-	<li><a class='page-numbers' href='https://old.audioxide.com/articles/page/5/'>5</a></li>
-	<li><a class='page-numbers' href='https://old.audioxide.com/articles/page/6/'>6</a></li>
-	<li><a class="next page-numbers" href="https://old.audioxide.com/articles/page/3/">&rarr;</a></li>
+	<li><a class='page-numbers' href='https://audioxide.github.io/v1-archive/articles/page/3/'>3</a></li>
+	<li><a class='page-numbers' href='https://audioxide.github.io/v1-archive/articles/page/4/'>4</a></li>
+	<li><a class='page-numbers' href='https://audioxide.github.io/v1-archive/articles/page/5/'>5</a></li>
+	<li><a class='page-numbers' href='https://audioxide.github.io/v1-archive/articles/page/6/'>6</a></li>
+	<li><a class="next page-numbers" href="https://audioxide.github.io/v1-archive/articles/page/3/">&rarr;</a></li>
 </ul>
 </nav>
 		
@@ -589,10 +589,10 @@ Click the help icon above to learn more.
 var mctb = {"cookieLength":"365","icons":{"hide":"&#x25BC;","show":"&#x25B2;"},"position":"bottom","state":{"submitted":false,"success":false}};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/plugins/mailchimp-top-bar/assets/js/script.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/themes/audioxide/library/js/libs/jquery.quickfit.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/themes/audioxide/library/js/scripts.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/plugins/mailchimp-top-bar/assets/js/script.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/js/libs/jquery.quickfit.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/js/scripts.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-includes/js/wp-embed.min.js'></script>
 
 	</body>
 

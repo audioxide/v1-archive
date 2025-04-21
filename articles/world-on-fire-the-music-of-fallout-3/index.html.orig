@@ -16,32 +16,32 @@
 		<meta name="MobileOptimized" content="320">
 		<meta name="viewport" content="width=device-width, initial-scale=1"/>
 
-				<link rel="apple-touch-icon" href="https://old.audioxide.com/wp-content/themes/audioxide/library/images/apple-touch-icon.png">
-		<link rel="icon" href="https://old.audioxide.com/wp-content/themes/audioxide/favicon.png">
+				<link rel="apple-touch-icon" href="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/images/apple-touch-icon.png">
+		<link rel="icon" href="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/favicon.png">
 		<!--[if IE]>
-			<link rel="shortcut icon" href="https://old.audioxide.com/wp-content/themes/audioxide/favicon.ico">
+			<link rel="shortcut icon" href="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/favicon.ico">
 		<![endif]-->
 				<meta name="msapplication-TileColor" content="#f01d4f">
-		<meta name="msapplication-TileImage" content="https://old.audioxide.com/wp-content/themes/audioxide/library/images/win8-tile-icon.png">
+		<meta name="msapplication-TileImage" content="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/images/win8-tile-icon.png">
             <meta name="theme-color" content="#121212">
 
                         <meta property="og:title" content="World On Fire: the Music of Fallout 3" />
                 <meta property="fb:app_id" content="950609285023482" />
-        <meta property="og:url" content="https://old.audioxide.com/articles/world-on-fire-the-music-of-fallout-3/" />
+        <meta property="og:url" content="https://audioxide.com/articles/world-on-fire-the-music-of-fallout-3/" />
         <meta property="og:site_name" content="Audioxide" />
-        <meta property="og:image" content="https://old.audioxide.com/wp-content/uploads/2017/08/vault-boy-shadow-500x500.jpg" />
+        <meta property="og:image" content="https://audioxide.github.io/v1-archive/wp-content/uploads/2017/08/vault-boy-shadow-500x500.jpg" />
                 
-		<link rel="pingback" href="https://old.audioxide.com/xmlrpc.php">
+		<link rel="pingback" href="https://audioxide.github.io/v1-archive/xmlrpc.php">
 
 				
 <!-- All In One SEO Pack 3.7.1[440,497] -->
 <meta name="description"  content="From Galaxy News Radio to the old-school homages of Inon Zur&#039;s ambient soundtrack, Fallout 3 owes much of its brilliance to its music. Haunting ambience and crackling tunes together provided the perfect accompaniment to the fresh, terrifying possibilities of the Wasteland" />
 
-<link rel="canonical" href="https://old.audioxide.com/articles/world-on-fire-the-music-of-fallout-3/" />
+<link rel="canonical" href="https://audioxide.com/articles/world-on-fire-the-music-of-fallout-3/" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="World On Fire: the Music of Fallout 3" />
 <meta property="og:description" content="From Galaxy News Radio to the old-school homages of Inon Zur&#039;s ambient soundtrack, Fallout 3 owes much of its brilliance to its music." />
-<meta property="og:url" content="https://old.audioxide.com/articles/world-on-fire-the-music-of-fallout-3/" />
+<meta property="og:url" content="https://audioxide.com/articles/world-on-fire-the-music-of-fallout-3/" />
 <meta property="og:site_name" content="Audioxide" />
 <meta property="og:image" content="https://audioxide.com/wp-content/uploads/2017/08/vault-boy-shadow-1024x910.jpg" />
 <meta property="fb:admins" content="1093489064003119" />
@@ -56,9 +56,9 @@
 <meta name="twitter:image" content="https://audioxide.com/wp-content/uploads/2017/08/vault-boy-shadow-1024x910.jpg" />
 <!-- All In One SEO Pack -->
 <link rel='dns-prefetch' href='//s.w.org' />
-<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Feed" href="https://old.audioxide.com/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Comments Feed" href="https://old.audioxide.com/comments/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; World On Fire: the Music of Fallout 3 Comments Feed" href="https://old.audioxide.com/articles/world-on-fire-the-music-of-fallout-3/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Feed" href="https://audioxide.github.io/v1-archive/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Comments Feed" href="https://audioxide.github.io/v1-archive/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; World On Fire: the Music of Fallout 3 Comments Feed" href="https://audioxide.github.io/v1-archive/articles/world-on-fire-the-music-of-fallout-3/feed/" />
 <!-- This site uses the Google Analytics by ExactMetrics plugin v6.2.2 - Using Analytics tracking - https://www.exactmetrics.com/ -->
 <script type="text/javascript" data-cfasync="false">
 	var em_version         = '6.2.2';
@@ -146,7 +146,7 @@ window.ga = __gaTracker;		__gaTracker('create', 'UA-71965408-1', 'auto');
 </script>
 <!-- / Google Analytics by ExactMetrics -->
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/old.audioxide.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-includes\/js\/wp-emoji-release.min.js"}};
 			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])?!1:!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55358,56760,9792,65039],[55358,56760,8203,9792,65039])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script>
 		<style type="text/css">
@@ -163,28 +163,28 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel='stylesheet' id='mc4wp-form-themes-css'  href='https://old.audioxide.com/wp-content/plugins/mailchimp-for-wp/assets/css/form-themes.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='mailchimp-top-bar-css'  href='https://old.audioxide.com/wp-content/plugins/mailchimp-top-bar/assets/css/bar.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='addtoany-css'  href='https://old.audioxide.com/wp-content/plugins/add-to-any/addtoany.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='editor-style-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/editor-style.css' type='text/css' media='all' />
-<link rel='stylesheet' id='admin-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/admin.css' type='text/css' media='all' />
-<link rel='stylesheet' id='ie-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/ie.css' type='text/css' media='all' />
-<link rel='stylesheet' id='style-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/style.css' type='text/css' media='all' />
-<link rel='stylesheet' id='login-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/login.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mc4wp-form-themes-css'  href='https://audioxide.github.io/v1-archive/wp-content/plugins/mailchimp-for-wp/assets/css/form-themes.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mailchimp-top-bar-css'  href='https://audioxide.github.io/v1-archive/wp-content/plugins/mailchimp-top-bar/assets/css/bar.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='addtoany-css'  href='https://audioxide.github.io/v1-archive/wp-content/plugins/add-to-any/addtoany.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='editor-style-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/editor-style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/admin.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ie-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/ie.css' type='text/css' media='all' />
+<link rel='stylesheet' id='style-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='login-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/login.css' type='text/css' media='all' />
 <script type='text/javascript'>
 /* <![CDATA[ */
-var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"zip,mp3,mpeg,pdf,docx,pptx,xlsx,rar","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/old.audioxide.com","hash_tracking":"false"};
+var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"zip,mp3,mpeg,pdf,docx,pptx,xlsx,rar","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json","hash_tracking":"false"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/plugins/google-analytics-dashboard-for-wp/assets/js/frontend.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-includes/js/jquery/jquery.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-includes/js/jquery/jquery-migrate.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/plugins/add-to-any/addtoany.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/themes/audioxide/library/js/libs/modernizr.custom.min.js'></script>
-<link rel='https://api.w.org/' href='https://old.audioxide.com/wp-json/' />
-<link rel='shortlink' href='https://old.audioxide.com/?p=4920' />
-<link rel="alternate" type="application/json+oembed" href="https://old.audioxide.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fold.audioxide.com%2Farticles%2Fworld-on-fire-the-music-of-fallout-3%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://old.audioxide.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fold.audioxide.com%2Farticles%2Fworld-on-fire-the-music-of-fallout-3%2F&#038;format=xml" />
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/plugins/google-analytics-dashboard-for-wp/assets/js/frontend.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/plugins/add-to-any/addtoany.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/js/libs/modernizr.custom.min.js'></script>
+<link rel='https://api.w.org/' href='https://audioxide.github.io/v1-archive/wp-json/' />
+<link rel='shortlink' href='https://audioxide.github.io/v1-archive/?p=4920' />
+<link rel="alternate" type="application/json+oembed" href="https://audioxide.github.io/v1-archive/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fold.audioxide.com%2Farticles%2Fworld-on-fire-the-music-of-fallout-3%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://audioxide.github.io/v1-archive/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fold.audioxide.com%2Farticles%2Fworld-on-fire-the-music-of-fallout-3%2F&#038;format=xml" />
 
 <script data-cfasync="false">
 window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_localize = {
@@ -216,7 +216,7 @@ a2a_config.onclick=1;
 
 
 <!-- This site is optimized with the Schema plugin v1.7.8.3 - https://schema.press -->
-<script type="application/ld+json">{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/articles\/world-on-fire-the-music-of-fallout-3\/"},"url":"https:\/\/old.audioxide.com\/articles\/world-on-fire-the-music-of-fallout-3\/","headline":"World On Fire: the Music of Fallout...","datePublished":"2017-08-11T15:00:33+00:00","dateModified":"2018-03-13T22:18:21+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2017\/08\/vault-boy-shadow.jpg","width":1256,"height":1116},"articleSection":"Articles","description":"Fred 11.08.02017 This is part of a series of articles in which we reflect on video game soundtracks. The pieces examine the musical content of the score and analyse the effects it has on the game. Fallout 3 is a unique beast, something taken for granted sometimes. Generally -- though not quite","author":{"@type":"Person","name":"Fred O'Brien","url":"https:\/\/old.audioxide.com\/author\/fred\/"}}</script>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/world-on-fire-the-music-of-fallout-3\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/world-on-fire-the-music-of-fallout-3\/","headline":"World On Fire: the Music of Fallout...","datePublished":"2017-08-11T15:00:33+00:00","dateModified":"2018-03-13T22:18:21+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2017\/08\/vault-boy-shadow.jpg","width":1256,"height":1116},"articleSection":"Articles","description":"Fred 11.08.02017 This is part of a series of articles in which we reflect on video game soundtracks. The pieces examine the musical content of the score and analyse the effects it has on the game. Fallout 3 is a unique beast, something taken for granted sometimes. Generally -- though not quite","author":{"@type":"Person","name":"Fred O'Brien","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/fred\/"}}</script>
 
 
 
@@ -237,9 +237,9 @@ a2a_config.onclick=1;
             "@type": "ListItem",
             "position": 2,
             "item": {
-                "@id": "https://old.audioxide.com/articles/world-on-fire-the-music-of-fallout-3/",
+                "@id": "https://audioxide.com/articles/world-on-fire-the-music-of-fallout-3/",
                 "name": "World On Fire: the Music of Fallout 3",
-                "image": "https://old.audioxide.com/wp-content/uploads/2017/08/vault-boy-shadow.jpg"
+                "image": "https://audioxide.github.io/v1-archive/wp-content/uploads/2017/08/vault-boy-shadow.jpg"
             }
         }
     ]
@@ -267,7 +267,7 @@ Click the help icon above to learn more.
 	<body class="post-template-default single single-post postid-4920 single-format-standard" itemscope itemtype="http://schema.org/WebPage">
 <header role="banner" class="sticky" itemscope itemtype="http://schema.org/WPHeader">
 	<div class="wrap">
-		<p id="logo" class="h1 logo" itemscope itemtype="http://schema.org/Organization"><a href="https://old.audioxide.com" rel="nofollow"><img src="https://old.audioxide.com/wp-content/themes/audioxide/library/images/site-logo.svg" /></a></p>
+		<p id="logo" class="h1 logo" itemscope itemtype="http://schema.org/Organization"><a href="https://audioxide.github.io/v1-archive" rel="nofollow"><img src="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/images/site-logo.svg" /></a></p>
 		<div class="social-media">
 			<a href="https://www.facebook.com/Audioxide/"><i class="fa fa-facebook-square"></i></a>
 			<a href="https://twitter.com/audioxidecom"><i class="fa fa-twitter-square"></i></a>
@@ -281,16 +281,16 @@ Click the help icon above to learn more.
 </header>
 <div id="coverartbanner" class="container coverart">
     <div class="wrapper">
-		<a href="https://old.audioxide.com/reviews/nothing-the-great-dismal/"><img src="https://old.audioxide.com/wp-content/uploads/2020/11/the-great-dismal-nothing-500x500.jpg" alt="Album cover for Nothing - The Great Dismal" /></a>
-<a href="https://old.audioxide.com/reviews/clipping-visions-of-bodies-being-burned/"><img src="https://old.audioxide.com/wp-content/uploads/2020/11/visions-of-bodies-being-burned-clipping-500x500.jpg" alt="Album cover for clipping. - Visions of Bodies Being Burned" /></a>
-<a href="https://old.audioxide.com/reviews/doves-the-universal-want/"><img src="https://old.audioxide.com/wp-content/uploads/2020/09/the-universal-want-doves-500x500.jpg" alt="Album cover for Doves - The Universal Want" /></a>
-<a href="https://old.audioxide.com/reviews/all-them-witches-nothing-as-the-ideal/"><img src="https://old.audioxide.com/wp-content/uploads/2020/09/nothing-as-the-ideal-all-them-witches-500x500.jpg" alt="Album cover for All Them Witches - Nothing as the Ideal" /></a>
-<a href="https://old.audioxide.com/reviews/kelly-lee-owens-inner-song/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/inner-song-kelly-lee-owens-500x500.jpg" alt="Album cover for Kelly Lee Owens - Inner Song" /></a>
-<a href="https://old.audioxide.com/reviews/nas-kings-disease/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/kings-disease-nas-500x500.jpg" alt="Album cover for Nas - King's Disease" /></a>
-<a href="https://old.audioxide.com/reviews/dead-kennedys-fresh-fruit-for-rotting-vegetables/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/fresh-fruit-for-rotting-vegetables-dead-kennedys-500x500.jpg" alt="Album cover for Dead Kennedys - Fresh Fruit for Rotting Vegetables" /></a>
-<a href="https://old.audioxide.com/reviews/glass-animals-dreamland/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/dreamland-glass-animals-500x500.jpg" alt="Album cover for Glass Animals - Dreamland" /></a>
-<a href="https://old.audioxide.com/reviews/neil-young-after-the-gold-rush/"><img src="https://old.audioxide.com/wp-content/uploads/2020/07/after-the-gold-rush-neil-young-500x500.jpg" alt="Album cover for Neil Young - After the Gold Rush" /></a>
-<a href="https://old.audioxide.com/reviews/lianne-la-havas-lianne-la-havas/"><img src="https://old.audioxide.com/wp-content/uploads/2020/07/lianne-la-havas-lianne-la-havas-500x500.jpg" alt="Album cover for Lianne La Havas - Lianne La Havas" /></a>
+		<a href="https://audioxide.github.io/v1-archive/reviews/nothing-the-great-dismal/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/11/the-great-dismal-nothing-500x500.jpg" alt="Album cover for Nothing - The Great Dismal" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/clipping-visions-of-bodies-being-burned/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/11/visions-of-bodies-being-burned-clipping-500x500.jpg" alt="Album cover for clipping. - Visions of Bodies Being Burned" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/doves-the-universal-want/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/09/the-universal-want-doves-500x500.jpg" alt="Album cover for Doves - The Universal Want" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/all-them-witches-nothing-as-the-ideal/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/09/nothing-as-the-ideal-all-them-witches-500x500.jpg" alt="Album cover for All Them Witches - Nothing as the Ideal" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/kelly-lee-owens-inner-song/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/inner-song-kelly-lee-owens-500x500.jpg" alt="Album cover for Kelly Lee Owens - Inner Song" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/nas-kings-disease/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/kings-disease-nas-500x500.jpg" alt="Album cover for Nas - King's Disease" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/dead-kennedys-fresh-fruit-for-rotting-vegetables/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/fresh-fruit-for-rotting-vegetables-dead-kennedys-500x500.jpg" alt="Album cover for Dead Kennedys - Fresh Fruit for Rotting Vegetables" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/glass-animals-dreamland/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/dreamland-glass-animals-500x500.jpg" alt="Album cover for Glass Animals - Dreamland" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/neil-young-after-the-gold-rush/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/07/after-the-gold-rush-neil-young-500x500.jpg" alt="Album cover for Neil Young - After the Gold Rush" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/lianne-la-havas-lianne-la-havas/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/07/lianne-la-havas-lianne-la-havas-500x500.jpg" alt="Album cover for Lianne La Havas - Lianne La Havas" /></a>
     </div>
 </div>
 	<main id="main" role="main" itemscope itemprop="mainContentOfPage" itemtype="http://schema.org/Blog">
@@ -313,12 +313,12 @@ Click the help icon above to learn more.
 <hr />
 <p><em>This is part of <a href="https://audioxide.com/themusicofgames/" target="_blank" rel="noopener noreferrer">a series of articles</a> in which we reflect on video game soundtracks. The pieces examine the musical content of the score and analyse the effects it has on the game.</em></p>
 <hr />
-<img class="aligncenter wp-image-4938 size-large" title="Vault Boy enjoying the 'Fallout 3' soundtrack" src="https://audioxide.com/wp-content/uploads/2017/08/vault-boy-shadow-1024x910.jpg" alt="Vault Boy enjoying the 'Fallout 3' soundtrack" width="680" height="604" srcset="https://old.audioxide.com/wp-content/uploads/2017/08/vault-boy-shadow-1024x910.jpg 1024w, https://old.audioxide.com/wp-content/uploads/2017/08/vault-boy-shadow-300x267.jpg 300w, https://old.audioxide.com/wp-content/uploads/2017/08/vault-boy-shadow-768x682.jpg 768w, https://old.audioxide.com/wp-content/uploads/2017/08/vault-boy-shadow-800x711.jpg 800w, https://old.audioxide.com/wp-content/uploads/2017/08/vault-boy-shadow.jpg 1256w" sizes="(max-width: 680px) 100vw, 680px" />
+<img class="aligncenter wp-image-4938 size-large" title="Vault Boy enjoying the 'Fallout 3' soundtrack" src="https://audioxide.com/wp-content/uploads/2017/08/vault-boy-shadow-1024x910.jpg" alt="Vault Boy enjoying the 'Fallout 3' soundtrack" width="680" height="604" srcset="https://audioxide.github.io/v1-archive/wp-content/uploads/2017/08/vault-boy-shadow-1024x910.jpg 1024w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/08/vault-boy-shadow-300x267.jpg 300w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/08/vault-boy-shadow-768x682.jpg 768w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/08/vault-boy-shadow-800x711.jpg 800w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/08/vault-boy-shadow.jpg 1256w" sizes="(max-width: 680px) 100vw, 680px" />
 <hr />
 <p><em>Fallout 3</em> is a unique beast, something taken for granted sometimes. Generally &#8212; <a href="https://www.youtube.com/watch?v=mLJ1gyIzg78&amp;t=154s" target="_blank" rel="noopener">though not quite universally</a> &#8212; adored, the game occupies a peculiar space between continuity and innovation. Inheriting the legacy of an acquired franchise, yet announcing itself to millions of console players, <a href="https://www.youtube.com/watch?v=Q0D5IB3C14E" target="_blank" rel="noopener"><em>Fallout 3</em>’s soundtrack</a> is crucial to both the game’s atmosphere and its lasting impact. Composer Inon Zur’s ambient work, juxtaposed with the warm, crackling tunes of Galaxy News Radio, provided the perfect accompaniment to the fresh, terrifying possibilities of the Wasteland.</p>
 <p>To fully understand the game’s soundtrack, you need to look where it came from. <em>Fallout 3</em>, obviously, exists in the context of the <em>Fallout </em>franchise. Not everyone likes where it wandered after its acquisition by Bethesda, but the continuity in soundtracks between <em>2 </em>and <em>3 </em>is unmistakable. Mark Morgan, who composed for <em>Fallout </em>and <em>Fallout 2</em>, said that, <a href="http://www.game-ost.com/articles.php?id=24&amp;action=view" target="_blank" rel="noopener">“The challenge to me was to blend a kind of odd ethnic and industrial sound design into something not only musical, but emotional.”</a> This is clear to hear if you listen through <a href="https://www.youtube.com/watch?v=vGyB093QOIo" target="_blank" rel="noopener">his two soundtracks</a>. There is something mystical about them, suggestive of a newly discovered planet &#8212; vast, hostile, untameable. Morgan’s music feels like an ode to the Wasteland itself; in <em>Fallout 3,</em> Zur uses those ethnic/industrial components to explore the player’s place in it.</p>
 <p>&nbsp;</p>
-<div id="attachment_4962" style="width: 1034px" class="wp-caption aligncenter"><img class="wp-image-4962 size-full" title="Concept art of the Capital Wasteland for 'Fallout 3'" src="https://audioxide.com/wp-content/uploads/2017/08/51580_1_1.jpg" alt="Concept art of the Capital Wasteland for 'Fallout 3'" width="1024" height="460" srcset="https://old.audioxide.com/wp-content/uploads/2017/08/51580_1_1.jpg 1024w, https://old.audioxide.com/wp-content/uploads/2017/08/51580_1_1-300x135.jpg 300w, https://old.audioxide.com/wp-content/uploads/2017/08/51580_1_1-768x345.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><p class="wp-caption-text">Beneath the rubble, the game hints at a clean slate</p></div>
+<div id="attachment_4962" style="width: 1034px" class="wp-caption aligncenter"><img class="wp-image-4962 size-full" title="Concept art of the Capital Wasteland for 'Fallout 3'" src="https://audioxide.com/wp-content/uploads/2017/08/51580_1_1.jpg" alt="Concept art of the Capital Wasteland for 'Fallout 3'" width="1024" height="460" srcset="https://audioxide.github.io/v1-archive/wp-content/uploads/2017/08/51580_1_1.jpg 1024w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/08/51580_1_1-300x135.jpg 300w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/08/51580_1_1-768x345.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><p class="wp-caption-text">Beneath the rubble, the game hints at a clean slate</p></div>
 <p>&nbsp;</p>
 <p>The ‘feel’ of <em>Fallout 3 </em>is a commonly cited appeal. A major strength of the game is that it crafts a kind of psychological ambience around its players. The soundtrack explores the human potential of the Capital Wasteland: the likely thoughts, fears, and responses of the player. Talking to IGN in 2008, Zur said he was <a href="http://uk.ign.com/articles/2008/11/03/inon-zur-talks-fallout-3" target="_blank" rel="noopener">“going for more of the psychological effects rather than describing what&#8217;s going on on the screen.”</a> The soundtrack is generally ambient in nature, but it has an edge that colours the in-game experience. Whereas the nature of Morgan’s music seems synonymous with that of the Wasteland, Zur’s work explores humanity’s place within it. The coarsely mystic undertones remain, but they are overlaid with thematic motifs consistent with the game’s story.</p>
 <p>When you tune in to it, the OST is markedly eclectic. There are shades of sci-fi in tracks like <a href="https://www.youtube.com/watch?v=omQ7OpC4mfA" target="_blank" rel="noopener">“Forgotten”</a> and <a href="https://www.youtube.com/watch?v=hu9j5ZDyBCk" target="_blank" rel="noopener">“Out of Service”</a>, the latter veering into psychological horror territory. The fantastical flights of <a href="https://www.youtube.com/watch?v=lsDnMg5lTtE" target="_blank" rel="noopener">“Wandering the Wastes”</a> could just as easily make for an <em>Elder Scrolls </em>track as a <em>Fallout </em>one. Visually speaking, <em>Fallout 3 </em>is probably one of the granddaddies of seventh generation gaming’s grey, desaturated dirge, but it certainly doesn&#8217;t feel dull when you play it. Like the Capital Wasteland&#8217;s post-war society, Zur’s soundtrack sounds as if it’s been pieced together in a rusty laboratory out of god knows what.</p>
@@ -328,7 +328,7 @@ Click the help icon above to learn more.
 <p>In contrast, tracks like <a href="https://www.youtube.com/watch?v=8mk43b8XnRE" target="_blank" rel="noopener">“Fortress”</a> dabble in blowing horns, wedding the rigid order of modern military practice with sounds more suggestive of hunter-gatherer societies. Pan flutes haunt <a href="https://www.youtube.com/watch?v=hj0tYzTi-4E" target="_blank" rel="noopener">“Ambush”</a> and <a href="https://www.youtube.com/watch?v=oBm3aC9wpy8" target="_blank" rel="noopener">“Metal on Metal”</a>, while didgeridoos turn up all over the place. The contrast is striking. Dense, rusty industrial beasts rub shoulders with flutes, horns, Greek choruses, and goodness knows what else. I’m almost certain I heard a harpsichord in <a href="https://www.youtube.com/watch?v=cTqrb6VdCtY" target="_blank" rel="noopener">“Chance to Hit”</a>. Classical and ‘primitive’ sounds recur repeatedly, almost serving as pied pipers for the blundering thunder of modern machinery that ostensibly dominates Zur’s work. “Metal on Metal”, one of the OST’s most powerful tracks, listens like a savage dance between two ages – Bronze and Nuclear.</p>
 <p>These kinds of juxtapositions are threaded throughout the game’s soundtrack, though they’re seldom in your face. Zur’s work is, ultimately, ambient. It isn&#8217;t strictly meant to be noticed. As he recently put it in an interview with GamesIndustry.biz last May, <a href="http://www.gamesindustry.biz/articles/2017-05-18-inon-zur-in-video-games-you-dont-need-to-hear-the-music-you-need-to-feel-it" target="_blank" rel="noopener">&#8220;In video games, you don&#8217;t need to hear the music &#8211; you need to feel it … you don&#8217;t need to notice the music but it needs to be part of the whole experience on an emotional level.”</a> Agree or not, it’s safe to say Zur’s soundtrack is the furthest thing from intrusive. Instead it drifts, lapping at the listener’s mind just enough to tint his or her experience. For the game’s more overt sounds, the player needs to turn to the wireless.</p>
 <p>&nbsp;</p>
-<div id="attachment_4963" style="width: 1034px" class="wp-caption aligncenter"><img class="wp-image-4963 size-full" title="Concept art of Paradise Falls for 'Fallout 3'" src="https://audioxide.com/wp-content/uploads/2017/08/51798_1_1.jpg" alt="Concept art of Paradise Falls for 'Fallout 3'" width="1024" height="460" srcset="https://old.audioxide.com/wp-content/uploads/2017/08/51798_1_1.jpg 1024w, https://old.audioxide.com/wp-content/uploads/2017/08/51798_1_1-300x135.jpg 300w, https://old.audioxide.com/wp-content/uploads/2017/08/51798_1_1-768x345.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><p class="wp-caption-text">What&#8217;s a post-apocalyptic world without people to ruin it all over again?</p></div>
+<div id="attachment_4963" style="width: 1034px" class="wp-caption aligncenter"><img class="wp-image-4963 size-full" title="Concept art of Paradise Falls for 'Fallout 3'" src="https://audioxide.com/wp-content/uploads/2017/08/51798_1_1.jpg" alt="Concept art of Paradise Falls for 'Fallout 3'" width="1024" height="460" srcset="https://audioxide.github.io/v1-archive/wp-content/uploads/2017/08/51798_1_1.jpg 1024w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/08/51798_1_1-300x135.jpg 300w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/08/51798_1_1-768x345.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><p class="wp-caption-text">What&#8217;s a post-apocalyptic world without people to ruin it all over again?</p></div>
 <p>&nbsp;</p>
 <p>It&#8217;s impossible to talk about <em>Fallout 3</em>’s soundtrack without mentioning Galaxy News Radio. Its cheerful, crackling tunes are a haven for players &#8212; tellingly, <a href="https://www.youtube.com/watch?v=WGmHaMRAXuI" target="_blank" rel="noopener">the GNR Soundtrack</a> has enjoyed much more playtime on YouTube than the OST has &#8212; but they also reinforce the same themes explored by Morgan and Zur. The Capital Wasteland is a product of the same world that produced the Ink Spots and Billie Holiday. The songs Three Dog plays are remnants of the same past, one the players themselves share given that the songs are ‘real’. Billie Holiday and Co. didn’t cause the war, obviously (that particular DLC was shelved), but their prevalence creates clear parallels with the ambient soundtrack’s tone. The weapons of <em>Fallout 3</em>’s past salt the earth; its melodies hold up the sky.</p>
 <p>The interplay is subtle, but undeniable. It is crucial to <em>Fallout 3</em>’s atmosphere. Concerning video game soundtracks, Inon Zur argues that implementation <a href="http://uk.ign.com/articles/2008/11/03/inon-zur-talks-fallout-3" target="_blank" rel="noopener">“is as important as the quality of the music itself. At least 50%.”</a> The OST is constant, unobtrusive, and, most importantly, true to the uncertainty of the player’s position. GNR overlays a sense of certainty paradoxically derived from the pre-war world it so derides. Together they create something really quite special. Exploring the Wasteland is not a leisurely affair, but it is absorbing. Zur’s work sits underneath like a heartbeat, rising to meet the quiet, sublime potential of the Wasteland. Everyone who has played <em>Fallout 3 </em>remembers leaving Vault 101 for the first time and realising how alone they really were. I doubt as many remember turning on their radio and learning they had company.</p>
@@ -347,16 +347,16 @@ Click the help icon above to learn more.
 
                                     <h4>Related Posts</h4>
                   <ul class="related-posts">
-                    <li><a href="https://old.audioxide.com/reviews/nothing-the-great-dismal/">
+                    <li><a href="https://audioxide.github.io/v1-archive/reviews/nothing-the-great-dismal/">
                         <h5>Reviews:<span class='oneline'>Review: The Great Dismal // Nothing</span></h5>                        </a>
-                      </li><li><a href="https://old.audioxide.com/reviews/clipping-visions-of-bodies-being-burned/">
+                      </li><li><a href="https://audioxide.github.io/v1-archive/reviews/clipping-visions-of-bodies-being-burned/">
                         <h5>Reviews:<span class='oneline'>Review: Visions of Bodies Being Burned // clipping.</span></h5>                        </a>
-                      </li><li><a href="https://old.audioxide.com/reviews/doves-the-universal-want/">
+                      </li><li><a href="https://audioxide.github.io/v1-archive/reviews/doves-the-universal-want/">
                         <h5>Reviews:<span class='oneline'>Review: The Universal Want // Doves</span></h5>                        </a>
-                      </li><li><a href="https://old.audioxide.com/reviews/all-them-witches-nothing-as-the-ideal/">
+                      </li><li><a href="https://audioxide.github.io/v1-archive/reviews/all-them-witches-nothing-as-the-ideal/">
                         <h5>Reviews:<span class='oneline'>Review: Nothing as the Ideal // All Them Witches</span></h5>                        </a>
                       </li>                    </ul>
-                    <p class="readmore"><a href="https://old.audioxide.com/articles">Read more articles...</a></p>
+                    <p class="readmore"><a href="https://audioxide.github.io/v1-archive/articles">Read more articles...</a></p>
                   
                 </footer> 
                 
@@ -400,11 +400,11 @@ Click the help icon above to learn more.
 var mctb = {"cookieLength":"365","icons":{"hide":"&#x25BC;","show":"&#x25B2;"},"position":"bottom","state":{"submitted":false,"success":false}};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/plugins/mailchimp-top-bar/assets/js/script.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-includes/js/comment-reply.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/themes/audioxide/library/js/libs/jquery.quickfit.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/themes/audioxide/library/js/scripts.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/plugins/mailchimp-top-bar/assets/js/script.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-includes/js/comment-reply.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/js/libs/jquery.quickfit.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/js/scripts.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-includes/js/wp-embed.min.js'></script>
 
 	</body>
 

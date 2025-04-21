@@ -16,32 +16,32 @@
 		<meta name="MobileOptimized" content="320">
 		<meta name="viewport" content="width=device-width, initial-scale=1"/>
 
-				<link rel="apple-touch-icon" href="https://old.audioxide.com/wp-content/themes/audioxide/library/images/apple-touch-icon.png">
-		<link rel="icon" href="https://old.audioxide.com/wp-content/themes/audioxide/favicon.png">
+				<link rel="apple-touch-icon" href="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/images/apple-touch-icon.png">
+		<link rel="icon" href="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/favicon.png">
 		<!--[if IE]>
-			<link rel="shortcut icon" href="https://old.audioxide.com/wp-content/themes/audioxide/favicon.ico">
+			<link rel="shortcut icon" href="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/favicon.ico">
 		<![endif]-->
 				<meta name="msapplication-TileColor" content="#f01d4f">
-		<meta name="msapplication-TileImage" content="https://old.audioxide.com/wp-content/themes/audioxide/library/images/win8-tile-icon.png">
+		<meta name="msapplication-TileImage" content="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/images/win8-tile-icon.png">
             <meta name="theme-color" content="#121212">
 
                         <meta property="og:title" content="Statsioxide: Our First 150 Reviews in Numbers" />
                 <meta property="fb:app_id" content="950609285023482" />
-        <meta property="og:url" content="https://old.audioxide.com/articles/statsioxide-our-first-150-reviews-in-numbers/" />
+        <meta property="og:url" content="https://audioxide.com/articles/statsioxide-our-first-150-reviews-in-numbers/" />
         <meta property="og:site_name" content="Audioxide" />
-        <meta property="og:image" content="https://old.audioxide.com/wp-content/uploads/2018/08/Statsioxide-500x500.jpg" />
+        <meta property="og:image" content="https://audioxide.github.io/v1-archive/wp-content/uploads/2018/08/Statsioxide-500x500.jpg" />
                 
-		<link rel="pingback" href="https://old.audioxide.com/xmlrpc.php">
+		<link rel="pingback" href="https://audioxide.github.io/v1-archive/xmlrpc.php">
 
 				
 <!-- All In One SEO Pack 3.7.1[440,505] -->
 <meta name="description"  content="Reviews make a lot more sense when they can be put into context. After passing 150 albums reviewed we thought it was high time to look at some statistics." />
 
-<link rel="canonical" href="https://old.audioxide.com/articles/statsioxide-our-first-150-reviews-in-numbers/" />
+<link rel="canonical" href="https://audioxide.com/articles/statsioxide-our-first-150-reviews-in-numbers/" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Statsioxide: Our First 150 Reviews in Numbers" />
 <meta property="og:description" content="Reviews make a lot more sense when put into context. Find out just how miserable we really are." />
-<meta property="og:url" content="https://old.audioxide.com/articles/statsioxide-our-first-150-reviews-in-numbers/" />
+<meta property="og:url" content="https://audioxide.com/articles/statsioxide-our-first-150-reviews-in-numbers/" />
 <meta property="og:site_name" content="Audioxide" />
 <meta property="og:image" content="https://audioxide.com/wp-content/uploads/2018/08/Statsioxide-1024x683.jpg" />
 <meta property="fb:admins" content="1093489064003119" />
@@ -56,9 +56,9 @@
 <meta name="twitter:image" content="https://audioxide.com/wp-content/uploads/2018/08/Statsioxide-1024x683.jpg" />
 <!-- All In One SEO Pack -->
 <link rel='dns-prefetch' href='//s.w.org' />
-<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Feed" href="https://old.audioxide.com/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Comments Feed" href="https://old.audioxide.com/comments/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Statsioxide: Our First 150 Reviews in Numbers Comments Feed" href="https://old.audioxide.com/articles/statsioxide-our-first-150-reviews-in-numbers/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Feed" href="https://audioxide.github.io/v1-archive/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Comments Feed" href="https://audioxide.github.io/v1-archive/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Statsioxide: Our First 150 Reviews in Numbers Comments Feed" href="https://audioxide.github.io/v1-archive/articles/statsioxide-our-first-150-reviews-in-numbers/feed/" />
 <!-- This site uses the Google Analytics by ExactMetrics plugin v6.2.2 - Using Analytics tracking - https://www.exactmetrics.com/ -->
 <script type="text/javascript" data-cfasync="false">
 	var em_version         = '6.2.2';
@@ -146,7 +146,7 @@ window.ga = __gaTracker;		__gaTracker('create', 'UA-71965408-1', 'auto');
 </script>
 <!-- / Google Analytics by ExactMetrics -->
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/old.audioxide.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-includes\/js\/wp-emoji-release.min.js"}};
 			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])?!1:!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55358,56760,9792,65039],[55358,56760,8203,9792,65039])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script>
 		<style type="text/css">
@@ -163,28 +163,28 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel='stylesheet' id='mc4wp-form-themes-css'  href='https://old.audioxide.com/wp-content/plugins/mailchimp-for-wp/assets/css/form-themes.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='mailchimp-top-bar-css'  href='https://old.audioxide.com/wp-content/plugins/mailchimp-top-bar/assets/css/bar.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='addtoany-css'  href='https://old.audioxide.com/wp-content/plugins/add-to-any/addtoany.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='editor-style-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/editor-style.css' type='text/css' media='all' />
-<link rel='stylesheet' id='admin-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/admin.css' type='text/css' media='all' />
-<link rel='stylesheet' id='ie-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/ie.css' type='text/css' media='all' />
-<link rel='stylesheet' id='style-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/style.css' type='text/css' media='all' />
-<link rel='stylesheet' id='login-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/login.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mc4wp-form-themes-css'  href='https://audioxide.github.io/v1-archive/wp-content/plugins/mailchimp-for-wp/assets/css/form-themes.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mailchimp-top-bar-css'  href='https://audioxide.github.io/v1-archive/wp-content/plugins/mailchimp-top-bar/assets/css/bar.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='addtoany-css'  href='https://audioxide.github.io/v1-archive/wp-content/plugins/add-to-any/addtoany.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='editor-style-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/editor-style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/admin.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ie-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/ie.css' type='text/css' media='all' />
+<link rel='stylesheet' id='style-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='login-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/login.css' type='text/css' media='all' />
 <script type='text/javascript'>
 /* <![CDATA[ */
-var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"zip,mp3,mpeg,pdf,docx,pptx,xlsx,rar","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/old.audioxide.com","hash_tracking":"false"};
+var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"zip,mp3,mpeg,pdf,docx,pptx,xlsx,rar","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json","hash_tracking":"false"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/plugins/google-analytics-dashboard-for-wp/assets/js/frontend.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-includes/js/jquery/jquery.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-includes/js/jquery/jquery-migrate.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/plugins/add-to-any/addtoany.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/themes/audioxide/library/js/libs/modernizr.custom.min.js'></script>
-<link rel='https://api.w.org/' href='https://old.audioxide.com/wp-json/' />
-<link rel='shortlink' href='https://old.audioxide.com/?p=6714' />
-<link rel="alternate" type="application/json+oembed" href="https://old.audioxide.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fold.audioxide.com%2Farticles%2Fstatsioxide-our-first-150-reviews-in-numbers%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://old.audioxide.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fold.audioxide.com%2Farticles%2Fstatsioxide-our-first-150-reviews-in-numbers%2F&#038;format=xml" />
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/plugins/google-analytics-dashboard-for-wp/assets/js/frontend.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/plugins/add-to-any/addtoany.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/js/libs/modernizr.custom.min.js'></script>
+<link rel='https://api.w.org/' href='https://audioxide.github.io/v1-archive/wp-json/' />
+<link rel='shortlink' href='https://audioxide.github.io/v1-archive/?p=6714' />
+<link rel="alternate" type="application/json+oembed" href="https://audioxide.github.io/v1-archive/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fold.audioxide.com%2Farticles%2Fstatsioxide-our-first-150-reviews-in-numbers%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://audioxide.github.io/v1-archive/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fold.audioxide.com%2Farticles%2Fstatsioxide-our-first-150-reviews-in-numbers%2F&#038;format=xml" />
 
 <script data-cfasync="false">
 window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_localize = {
@@ -216,7 +216,7 @@ a2a_config.onclick=1;
 
 
 <!-- This site is optimized with the Schema plugin v1.7.8.3 - https://schema.press -->
-<script type="application/ld+json">{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/articles\/statsioxide-our-first-150-reviews-in-numbers\/"},"url":"https:\/\/old.audioxide.com\/articles\/statsioxide-our-first-150-reviews-in-numbers\/","headline":"Statsioxide: Our First 150 Reviews in...","datePublished":"2018-08-21T12:00:14+00:00","dateModified":"2018-08-30T21:56:23+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2018\/08\/Statsioxide.jpg","width":1500,"height":1000},"articleSection":"Articles","description":"Reviews make a lot more sense when they can be put into context. After passing 150 albums reviewed we thought it was high time to look at some statistics.","author":{"@type":"Person","name":"Fred O'Brien","url":"https:\/\/old.audioxide.com\/author\/fred\/"}}</script>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/statsioxide-our-first-150-reviews-in-numbers\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/statsioxide-our-first-150-reviews-in-numbers\/","headline":"Statsioxide: Our First 150 Reviews in...","datePublished":"2018-08-21T12:00:14+00:00","dateModified":"2018-08-30T21:56:23+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2018\/08\/Statsioxide.jpg","width":1500,"height":1000},"articleSection":"Articles","description":"Reviews make a lot more sense when they can be put into context. After passing 150 albums reviewed we thought it was high time to look at some statistics.","author":{"@type":"Person","name":"Fred O'Brien","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/fred\/"}}</script>
 
 
 
@@ -237,9 +237,9 @@ a2a_config.onclick=1;
             "@type": "ListItem",
             "position": 2,
             "item": {
-                "@id": "https://old.audioxide.com/articles/statsioxide-our-first-150-reviews-in-numbers/",
+                "@id": "https://audioxide.com/articles/statsioxide-our-first-150-reviews-in-numbers/",
                 "name": "Statsioxide: Our First 150 Reviews in Numbers",
-                "image": "https://old.audioxide.com/wp-content/uploads/2018/08/Statsioxide.jpg"
+                "image": "https://audioxide.github.io/v1-archive/wp-content/uploads/2018/08/Statsioxide.jpg"
             }
         }
     ]
@@ -267,7 +267,7 @@ Click the help icon above to learn more.
 	<body class="post-template-default single single-post postid-6714 single-format-standard" itemscope itemtype="http://schema.org/WebPage">
 <header role="banner" class="sticky" itemscope itemtype="http://schema.org/WPHeader">
 	<div class="wrap">
-		<p id="logo" class="h1 logo" itemscope itemtype="http://schema.org/Organization"><a href="https://old.audioxide.com" rel="nofollow"><img src="https://old.audioxide.com/wp-content/themes/audioxide/library/images/site-logo.svg" /></a></p>
+		<p id="logo" class="h1 logo" itemscope itemtype="http://schema.org/Organization"><a href="https://audioxide.github.io/v1-archive" rel="nofollow"><img src="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/images/site-logo.svg" /></a></p>
 		<div class="social-media">
 			<a href="https://www.facebook.com/Audioxide/"><i class="fa fa-facebook-square"></i></a>
 			<a href="https://twitter.com/audioxidecom"><i class="fa fa-twitter-square"></i></a>
@@ -281,16 +281,16 @@ Click the help icon above to learn more.
 </header>
 <div id="coverartbanner" class="container coverart">
     <div class="wrapper">
-		<a href="https://old.audioxide.com/reviews/nothing-the-great-dismal/"><img src="https://old.audioxide.com/wp-content/uploads/2020/11/the-great-dismal-nothing-500x500.jpg" alt="Album cover for Nothing - The Great Dismal" /></a>
-<a href="https://old.audioxide.com/reviews/clipping-visions-of-bodies-being-burned/"><img src="https://old.audioxide.com/wp-content/uploads/2020/11/visions-of-bodies-being-burned-clipping-500x500.jpg" alt="Album cover for clipping. - Visions of Bodies Being Burned" /></a>
-<a href="https://old.audioxide.com/reviews/doves-the-universal-want/"><img src="https://old.audioxide.com/wp-content/uploads/2020/09/the-universal-want-doves-500x500.jpg" alt="Album cover for Doves - The Universal Want" /></a>
-<a href="https://old.audioxide.com/reviews/all-them-witches-nothing-as-the-ideal/"><img src="https://old.audioxide.com/wp-content/uploads/2020/09/nothing-as-the-ideal-all-them-witches-500x500.jpg" alt="Album cover for All Them Witches - Nothing as the Ideal" /></a>
-<a href="https://old.audioxide.com/reviews/kelly-lee-owens-inner-song/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/inner-song-kelly-lee-owens-500x500.jpg" alt="Album cover for Kelly Lee Owens - Inner Song" /></a>
-<a href="https://old.audioxide.com/reviews/nas-kings-disease/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/kings-disease-nas-500x500.jpg" alt="Album cover for Nas - King's Disease" /></a>
-<a href="https://old.audioxide.com/reviews/dead-kennedys-fresh-fruit-for-rotting-vegetables/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/fresh-fruit-for-rotting-vegetables-dead-kennedys-500x500.jpg" alt="Album cover for Dead Kennedys - Fresh Fruit for Rotting Vegetables" /></a>
-<a href="https://old.audioxide.com/reviews/glass-animals-dreamland/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/dreamland-glass-animals-500x500.jpg" alt="Album cover for Glass Animals - Dreamland" /></a>
-<a href="https://old.audioxide.com/reviews/neil-young-after-the-gold-rush/"><img src="https://old.audioxide.com/wp-content/uploads/2020/07/after-the-gold-rush-neil-young-500x500.jpg" alt="Album cover for Neil Young - After the Gold Rush" /></a>
-<a href="https://old.audioxide.com/reviews/lianne-la-havas-lianne-la-havas/"><img src="https://old.audioxide.com/wp-content/uploads/2020/07/lianne-la-havas-lianne-la-havas-500x500.jpg" alt="Album cover for Lianne La Havas - Lianne La Havas" /></a>
+		<a href="https://audioxide.github.io/v1-archive/reviews/nothing-the-great-dismal/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/11/the-great-dismal-nothing-500x500.jpg" alt="Album cover for Nothing - The Great Dismal" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/clipping-visions-of-bodies-being-burned/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/11/visions-of-bodies-being-burned-clipping-500x500.jpg" alt="Album cover for clipping. - Visions of Bodies Being Burned" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/doves-the-universal-want/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/09/the-universal-want-doves-500x500.jpg" alt="Album cover for Doves - The Universal Want" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/all-them-witches-nothing-as-the-ideal/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/09/nothing-as-the-ideal-all-them-witches-500x500.jpg" alt="Album cover for All Them Witches - Nothing as the Ideal" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/kelly-lee-owens-inner-song/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/inner-song-kelly-lee-owens-500x500.jpg" alt="Album cover for Kelly Lee Owens - Inner Song" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/nas-kings-disease/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/kings-disease-nas-500x500.jpg" alt="Album cover for Nas - King's Disease" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/dead-kennedys-fresh-fruit-for-rotting-vegetables/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/fresh-fruit-for-rotting-vegetables-dead-kennedys-500x500.jpg" alt="Album cover for Dead Kennedys - Fresh Fruit for Rotting Vegetables" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/glass-animals-dreamland/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/dreamland-glass-animals-500x500.jpg" alt="Album cover for Glass Animals - Dreamland" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/neil-young-after-the-gold-rush/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/07/after-the-gold-rush-neil-young-500x500.jpg" alt="Album cover for Neil Young - After the Gold Rush" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/lianne-la-havas-lianne-la-havas/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/07/lianne-la-havas-lianne-la-havas-500x500.jpg" alt="Album cover for Lianne La Havas - Lianne La Havas" /></a>
     </div>
 </div>
 	<main id="main" role="main" itemscope itemprop="mainContentOfPage" itemtype="http://schema.org/Blog">
@@ -313,7 +313,7 @@ Click the help icon above to learn more.
 <p><em>Reviews make a lot more sense when they&#8217;re put into context. Having recently passed a bit of a milestone, we thought it was high time for some statistics. What&#8217;s our favourite genre? Which records cracked the 27+ Club? Who&#8217;s the most miserable reviewer? All will be revealed below.</em></p>
 <hr />
 <p>&nbsp;</p>
-<img class="aligncenter size-full wp-image-7051" src="https://audioxide.com/wp-content/uploads/2018/08/Statsioxide.jpg" alt="Collage of the first 150 albums we've reviewed" width="1500" height="1000" srcset="https://old.audioxide.com/wp-content/uploads/2018/08/Statsioxide.jpg 1500w, https://old.audioxide.com/wp-content/uploads/2018/08/Statsioxide-300x200.jpg 300w, https://old.audioxide.com/wp-content/uploads/2018/08/Statsioxide-768x512.jpg 768w, https://old.audioxide.com/wp-content/uploads/2018/08/Statsioxide-1024x683.jpg 1024w" sizes="(max-width: 1500px) 100vw, 1500px" />
+<img class="aligncenter size-full wp-image-7051" src="https://audioxide.com/wp-content/uploads/2018/08/Statsioxide.jpg" alt="Collage of the first 150 albums we've reviewed" width="1500" height="1000" srcset="https://audioxide.github.io/v1-archive/wp-content/uploads/2018/08/Statsioxide.jpg 1500w, https://audioxide.github.io/v1-archive/wp-content/uploads/2018/08/Statsioxide-300x200.jpg 300w, https://audioxide.github.io/v1-archive/wp-content/uploads/2018/08/Statsioxide-768x512.jpg 768w, https://audioxide.github.io/v1-archive/wp-content/uploads/2018/08/Statsioxide-1024x683.jpg 1024w" sizes="(max-width: 1500px) 100vw, 1500px" />
 <p>&nbsp;</p>
 <hr />
 <p>We&#8217;ve been <a href="https://audioxide.com/reviews/">reviewing an album a week for over three years now</a>. There have been lulls, bumps in the road, but we&#8217;ve finally got 150 under our belt. To celebrate the milestone we took some cues from <a href="http://www.statstano.com/">Statstano</a> and dug into the numbers. Between individual scores, combined scores, genre, album length, release dates, and regions we had close to 1000 data points to mess around with.</p>
@@ -321,16 +321,16 @@ Click the help icon above to learn more.
 <h2>Average scores</h2>
 <p>First things first: average scores. The three of us each assign a personal score out of 10 to the album we&#8217;re reviewing. Those three are then combined into an overall score out of 30. We all need to like an album for it to score well. It also takes more than one of us disliking an album for it to do badly.</p>
 <p>Below you can see the breakdown of scores across our first 150 reviews:</p>
-<img class="aligncenter size-full wp-image-7060" src="https://audioxide.com/wp-content/uploads/2018/08/Overall-review-scores.png" alt="Overall review scores" width="1340" height="659" srcset="https://old.audioxide.com/wp-content/uploads/2018/08/Overall-review-scores.png 1340w, https://old.audioxide.com/wp-content/uploads/2018/08/Overall-review-scores-300x148.png 300w, https://old.audioxide.com/wp-content/uploads/2018/08/Overall-review-scores-768x378.png 768w, https://old.audioxide.com/wp-content/uploads/2018/08/Overall-review-scores-1024x504.png 1024w" sizes="(max-width: 1340px) 100vw, 1340px" />
+<img class="aligncenter size-full wp-image-7060" src="https://audioxide.com/wp-content/uploads/2018/08/Overall-review-scores.png" alt="Overall review scores" width="1340" height="659" srcset="https://audioxide.github.io/v1-archive/wp-content/uploads/2018/08/Overall-review-scores.png 1340w, https://audioxide.github.io/v1-archive/wp-content/uploads/2018/08/Overall-review-scores-300x148.png 300w, https://audioxide.github.io/v1-archive/wp-content/uploads/2018/08/Overall-review-scores-768x378.png 768w, https://audioxide.github.io/v1-archive/wp-content/uploads/2018/08/Overall-review-scores-1024x504.png 1024w" sizes="(max-width: 1340px) 100vw, 1340px" />
 <p>Without getting into the types of reviews, the average score of our first 150 reviews has been <strong>21.53 out of 30</strong> (or 7.18 out of 10).</p>
 <p>Of the 150 albums we’ve reviewed, 77 were new releases. The average of new releases on Audioxide has been <strong>19.92 out of 30</strong> (or 6.64 out of 10).</p>
 <p>The remaining 73 were oldies &#8212; retrospective reviews of old favourites, supposed classics, and random picks. The average score of oldie reviews was <strong>23.22 out of 30</strong> (or 7.74 out of 10).</p>
-<img class="aligncenter size-full wp-image-7062" src="https://audioxide.com/wp-content/uploads/2018/08/New-release-scores-by-year.png" alt="New release scores by year" width="1441" height="676" srcset="https://old.audioxide.com/wp-content/uploads/2018/08/New-release-scores-by-year.png 1441w, https://old.audioxide.com/wp-content/uploads/2018/08/New-release-scores-by-year-300x141.png 300w, https://old.audioxide.com/wp-content/uploads/2018/08/New-release-scores-by-year-768x360.png 768w, https://old.audioxide.com/wp-content/uploads/2018/08/New-release-scores-by-year-1024x480.png 1024w" sizes="(max-width: 1441px) 100vw, 1441px" />
+<img class="aligncenter size-full wp-image-7062" src="https://audioxide.com/wp-content/uploads/2018/08/New-release-scores-by-year.png" alt="New release scores by year" width="1441" height="676" srcset="https://audioxide.github.io/v1-archive/wp-content/uploads/2018/08/New-release-scores-by-year.png 1441w, https://audioxide.github.io/v1-archive/wp-content/uploads/2018/08/New-release-scores-by-year-300x141.png 300w, https://audioxide.github.io/v1-archive/wp-content/uploads/2018/08/New-release-scores-by-year-768x360.png 768w, https://audioxide.github.io/v1-archive/wp-content/uploads/2018/08/New-release-scores-by-year-1024x480.png 1024w" sizes="(max-width: 1441px) 100vw, 1441px" />
 <p>How does that see us compare to the likes of <a href="https://pitchfork.com/"><em>Pitchfork</em></a> and Anthony Fantano of <a href="https://www.youtube.com/theneedledrop">The Needle Drop</a>? Our overall average is almost exactly the same as <i>Pitchfork</i>’s 7.19, but it’s comfortably higher than Fantano’s 6.25. That said, given Fantano only assigns scores to new releases, our own new releases score is a fairer comparison. On that front Fantano still scores lower on average than we do, but only by 0.4.</p>
 <p>&nbsp;</p>
 <h2>We happy three</h2>
 <p>Our individual scores are where things start to fragment a little. We’ve each settled into a role of sorts for our reviews, and that bears out in the numbers.</p>
-<img class="aligncenter size-full wp-image-7058" src="https://audioxide.com/wp-content/uploads/2018/08/Individual-review-score-averages.png" alt="Individual review score averages" width="1146" height="588" srcset="https://old.audioxide.com/wp-content/uploads/2018/08/Individual-review-score-averages.png 1146w, https://old.audioxide.com/wp-content/uploads/2018/08/Individual-review-score-averages-300x154.png 300w, https://old.audioxide.com/wp-content/uploads/2018/08/Individual-review-score-averages-768x394.png 768w, https://old.audioxide.com/wp-content/uploads/2018/08/Individual-review-score-averages-1024x525.png 1024w" sizes="(max-width: 1146px) 100vw, 1146px" />
+<img class="aligncenter size-full wp-image-7058" src="https://audioxide.com/wp-content/uploads/2018/08/Individual-review-score-averages.png" alt="Individual review score averages" width="1146" height="588" srcset="https://audioxide.github.io/v1-archive/wp-content/uploads/2018/08/Individual-review-score-averages.png 1146w, https://audioxide.github.io/v1-archive/wp-content/uploads/2018/08/Individual-review-score-averages-300x154.png 300w, https://audioxide.github.io/v1-archive/wp-content/uploads/2018/08/Individual-review-score-averages-768x394.png 768w, https://audioxide.github.io/v1-archive/wp-content/uploads/2018/08/Individual-review-score-averages-1024x525.png 1024w" sizes="(max-width: 1146px) 100vw, 1146px" />
 <p><a href="https://twitter.com/andredack">André</a> is the most forgiving of new releases, while <a href="https://twitter.com/andrewbridge">Andrew</a> has the highest average for oldies. Andrew also has the highest overall average: 7.26. <a href="https://twitter.com/thewhalelines">Fred</a> confirmed his status as resident grinch by having the lowest average score across the board.</p>
 <p>Andrew gave a score of nine or higher in 17.93% of his reviews, André 13.60%, and Fred 9.02%. We’ve each given two perfect scores so far:</p>
 <ul>
@@ -340,7 +340,7 @@ Click the help icon above to learn more.
 </ul>
 <p>All worthy works to be sure.</p>
 <p>The three of us accounted for 425 of the first 450 individual summaries on the site, but sometimes life gets in the way. When one of us couldn’t make it, friends would step in. Our guest writers contributed as follows:</p>
-<img class="aligncenter size-full wp-image-7075" src="https://audioxide.com/wp-content/uploads/2018/08/Guest-writers.png" alt="Guest writers" width="768" height="246" srcset="https://old.audioxide.com/wp-content/uploads/2018/08/Guest-writers.png 768w, https://old.audioxide.com/wp-content/uploads/2018/08/Guest-writers-300x96.png 300w" sizes="(max-width: 768px) 100vw, 768px" />
+<img class="aligncenter size-full wp-image-7075" src="https://audioxide.com/wp-content/uploads/2018/08/Guest-writers.png" alt="Guest writers" width="768" height="246" srcset="https://audioxide.github.io/v1-archive/wp-content/uploads/2018/08/Guest-writers.png 768w, https://audioxide.github.io/v1-archive/wp-content/uploads/2018/08/Guest-writers-300x96.png 300w" sizes="(max-width: 768px) 100vw, 768px" />
 <p>Most of the absences were Fred, who disappeared for four months in early 2017. As far as we can tell he enjoyed his time away, but it didn’t do much to improve his scores.</p>
 <p>&nbsp;</p>
 <h2>Time spent listening</h2>
@@ -373,9 +373,9 @@ Click the help icon above to learn more.
 <p>&nbsp;</p>
 <h2>Genres &amp; geography</h2>
 <p>Rock has been by far and away our favourite genre to review. <strong>81 of our first 150 albums were rock albums. </strong>The second highest genre was electronic clocking in with 23, with hip hop in third with 15.</p>
-<img class="aligncenter size-full wp-image-7066" src="https://audioxide.com/wp-content/uploads/2018/08/Genres-reviewed.png" alt="Genres reviewed" width="1085" height="668" srcset="https://old.audioxide.com/wp-content/uploads/2018/08/Genres-reviewed.png 1085w, https://old.audioxide.com/wp-content/uploads/2018/08/Genres-reviewed-300x185.png 300w, https://old.audioxide.com/wp-content/uploads/2018/08/Genres-reviewed-768x473.png 768w, https://old.audioxide.com/wp-content/uploads/2018/08/Genres-reviewed-1024x630.png 1024w" sizes="(max-width: 1085px) 100vw, 1085px" />
+<img class="aligncenter size-full wp-image-7066" src="https://audioxide.com/wp-content/uploads/2018/08/Genres-reviewed.png" alt="Genres reviewed" width="1085" height="668" srcset="https://audioxide.github.io/v1-archive/wp-content/uploads/2018/08/Genres-reviewed.png 1085w, https://audioxide.github.io/v1-archive/wp-content/uploads/2018/08/Genres-reviewed-300x185.png 300w, https://audioxide.github.io/v1-archive/wp-content/uploads/2018/08/Genres-reviewed-768x473.png 768w, https://audioxide.github.io/v1-archive/wp-content/uploads/2018/08/Genres-reviewed-1024x630.png 1024w" sizes="(max-width: 1085px) 100vw, 1085px" />
 <p>Rock was also our highest rated genre, with an average score of 21.94. Hip hop was a close second with 21.73, while the mishmash of &#8216;other&#8217; genres came third with 21.98. Electronic did comparatively poorly, which was a little surprising. A good few of our favourite albums so far have been electronic. Our snobbishness was laid bare in regard to pop albums, which averaged 19.42.</p>
-<img class="aligncenter size-full wp-image-7070" src="https://audioxide.com/wp-content/uploads/2018/08/Average-Score-by-Genre.png" alt="Average score by genre" width="1295" height="632" srcset="https://old.audioxide.com/wp-content/uploads/2018/08/Average-Score-by-Genre.png 1295w, https://old.audioxide.com/wp-content/uploads/2018/08/Average-Score-by-Genre-300x146.png 300w, https://old.audioxide.com/wp-content/uploads/2018/08/Average-Score-by-Genre-768x375.png 768w, https://old.audioxide.com/wp-content/uploads/2018/08/Average-Score-by-Genre-1024x500.png 1024w" sizes="(max-width: 1295px) 100vw, 1295px" />
+<img class="aligncenter size-full wp-image-7070" src="https://audioxide.com/wp-content/uploads/2018/08/Average-Score-by-Genre.png" alt="Average score by genre" width="1295" height="632" srcset="https://audioxide.github.io/v1-archive/wp-content/uploads/2018/08/Average-Score-by-Genre.png 1295w, https://audioxide.github.io/v1-archive/wp-content/uploads/2018/08/Average-Score-by-Genre-300x146.png 300w, https://audioxide.github.io/v1-archive/wp-content/uploads/2018/08/Average-Score-by-Genre-768x375.png 768w, https://audioxide.github.io/v1-archive/wp-content/uploads/2018/08/Average-Score-by-Genre-1024x500.png 1024w" sizes="(max-width: 1295px) 100vw, 1295px" />
 <p>As for region, 50% of albums reviewed were by artists from the United States (averaging 21.55) with a further 34.7% from England (averaging 21.46). The remaining 15.3% were a mix of Canada, Scotland, Australia, France, Iceland (read: <a href="https://audioxide.com/reviews/bjork-homogenic/">Bjork</a>), Ireland, Norway, Jamaica, New Zealand, Belgium, and Sweden.</p>
 <p>&nbsp;</p>
 <h2>Postscript</h2>
@@ -411,16 +411,16 @@ Click the help icon above to learn more.
 
                                     <h4>Related Posts</h4>
                   <ul class="related-posts">
-                    <li><a href="https://old.audioxide.com/reviews/nothing-the-great-dismal/">
+                    <li><a href="https://audioxide.github.io/v1-archive/reviews/nothing-the-great-dismal/">
                         <h5>Reviews:<span class='oneline'>Review: The Great Dismal // Nothing</span></h5>                        </a>
-                      </li><li><a href="https://old.audioxide.com/reviews/clipping-visions-of-bodies-being-burned/">
+                      </li><li><a href="https://audioxide.github.io/v1-archive/reviews/clipping-visions-of-bodies-being-burned/">
                         <h5>Reviews:<span class='oneline'>Review: Visions of Bodies Being Burned // clipping.</span></h5>                        </a>
-                      </li><li><a href="https://old.audioxide.com/reviews/doves-the-universal-want/">
+                      </li><li><a href="https://audioxide.github.io/v1-archive/reviews/doves-the-universal-want/">
                         <h5>Reviews:<span class='oneline'>Review: The Universal Want // Doves</span></h5>                        </a>
-                      </li><li><a href="https://old.audioxide.com/reviews/all-them-witches-nothing-as-the-ideal/">
+                      </li><li><a href="https://audioxide.github.io/v1-archive/reviews/all-them-witches-nothing-as-the-ideal/">
                         <h5>Reviews:<span class='oneline'>Review: Nothing as the Ideal // All Them Witches</span></h5>                        </a>
                       </li>                    </ul>
-                    <p class="readmore"><a href="https://old.audioxide.com/articles">Read more articles...</a></p>
+                    <p class="readmore"><a href="https://audioxide.github.io/v1-archive/articles">Read more articles...</a></p>
                   
                 </footer> 
                 
@@ -476,12 +476,12 @@ if (urlFields) {
 var mctb = {"cookieLength":"365","icons":{"hide":"&#x25BC;","show":"&#x25B2;"},"position":"bottom","state":{"submitted":false,"success":false}};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/plugins/mailchimp-top-bar/assets/js/script.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-includes/js/comment-reply.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/themes/audioxide/library/js/libs/jquery.quickfit.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/themes/audioxide/library/js/scripts.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-includes/js/wp-embed.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/plugins/mailchimp-for-wp/assets/js/forms.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/plugins/mailchimp-top-bar/assets/js/script.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-includes/js/comment-reply.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/js/libs/jquery.quickfit.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/js/scripts.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/plugins/mailchimp-for-wp/assets/js/forms.min.js'></script>
 
 	</body>
 

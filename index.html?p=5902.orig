@@ -16,32 +16,32 @@
 		<meta name="MobileOptimized" content="320">
 		<meta name="viewport" content="width=device-width, initial-scale=1"/>
 
-				<link rel="apple-touch-icon" href="https://old.audioxide.com/wp-content/themes/audioxide/library/images/apple-touch-icon.png">
-		<link rel="icon" href="https://old.audioxide.com/wp-content/themes/audioxide/favicon.png">
+				<link rel="apple-touch-icon" href="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/images/apple-touch-icon.png">
+		<link rel="icon" href="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/favicon.png">
 		<!--[if IE]>
-			<link rel="shortcut icon" href="https://old.audioxide.com/wp-content/themes/audioxide/favicon.ico">
+			<link rel="shortcut icon" href="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/favicon.ico">
 		<![endif]-->
 				<meta name="msapplication-TileColor" content="#f01d4f">
-		<meta name="msapplication-TileImage" content="https://old.audioxide.com/wp-content/themes/audioxide/library/images/win8-tile-icon.png">
+		<meta name="msapplication-TileImage" content="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/images/win8-tile-icon.png">
             <meta name="theme-color" content="#121212">
 
                         <meta property="og:title" content="Our 10 Favourite Albums of 2017" />
                 <meta property="fb:app_id" content="950609285023482" />
-        <meta property="og:url" content="https://old.audioxide.com/articles/top-10-albums-of-2017/" />
+        <meta property="og:url" content="https://audioxide.com/articles/top-10-albums-of-2017/" />
         <meta property="og:site_name" content="Audioxide" />
-        <meta property="og:image" content="https://old.audioxide.com/wp-content/uploads/2017/12/wolf-alice-500x500.jpg" />
+        <meta property="og:image" content="https://audioxide.github.io/v1-archive/wp-content/uploads/2017/12/wolf-alice-500x500.jpg" />
                 
-		<link rel="pingback" href="https://old.audioxide.com/xmlrpc.php">
+		<link rel="pingback" href="https://audioxide.github.io/v1-archive/xmlrpc.php">
 
 				
 <!-- All In One SEO Pack 3.7.1[440,491] -->
 <meta name="description"  content="It&#039;s the end of the year, and that means it&#039;s time for fond remembrances. From hip-hop to folk, and R&amp;B to rock, here lies our favourite albums of 2017." />
 
-<link rel="canonical" href="https://old.audioxide.com/articles/top-10-albums-of-2017/" />
+<link rel="canonical" href="https://audioxide.com/articles/top-10-albums-of-2017/" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Audioxide&#039;s 10 Favourite Albums of 2017" />
 <meta property="og:description" content="It&#039;s the end of the year, and that means it&#039;s time for fond remembrances. From hip-hop to folk, and R&amp;B to rock, here lies our favourite albums of 2017." />
-<meta property="og:url" content="https://old.audioxide.com/articles/top-10-albums-of-2017/" />
+<meta property="og:url" content="https://audioxide.com/articles/top-10-albums-of-2017/" />
 <meta property="og:site_name" content="Audioxide" />
 <meta property="og:image" content="https://audioxide.com/wp-content/uploads/2017/12/wolf-alice-1024x576.jpg" />
 <meta property="fb:admins" content="1093489064003119" />
@@ -56,9 +56,9 @@
 <meta name="twitter:image" content="https://audioxide.com/wp-content/uploads/2017/12/wolf-alice-1024x576.jpg" />
 <!-- All In One SEO Pack -->
 <link rel='dns-prefetch' href='//s.w.org' />
-<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Feed" href="https://old.audioxide.com/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Comments Feed" href="https://old.audioxide.com/comments/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Our 10 Favourite Albums of 2017 Comments Feed" href="https://old.audioxide.com/articles/top-10-albums-of-2017/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Feed" href="https://audioxide.github.io/v1-archive/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Comments Feed" href="https://audioxide.github.io/v1-archive/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Our 10 Favourite Albums of 2017 Comments Feed" href="https://audioxide.github.io/v1-archive/articles/top-10-albums-of-2017/feed/" />
 <!-- This site uses the Google Analytics by ExactMetrics plugin v6.2.2 - Using Analytics tracking - https://www.exactmetrics.com/ -->
 <script type="text/javascript" data-cfasync="false">
 	var em_version         = '6.2.2';
@@ -146,7 +146,7 @@ window.ga = __gaTracker;		__gaTracker('create', 'UA-71965408-1', 'auto');
 </script>
 <!-- / Google Analytics by ExactMetrics -->
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/old.audioxide.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-includes\/js\/wp-emoji-release.min.js"}};
 			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])?!1:!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55358,56760,9792,65039],[55358,56760,8203,9792,65039])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script>
 		<style type="text/css">
@@ -163,28 +163,28 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel='stylesheet' id='mc4wp-form-themes-css'  href='https://old.audioxide.com/wp-content/plugins/mailchimp-for-wp/assets/css/form-themes.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='mailchimp-top-bar-css'  href='https://old.audioxide.com/wp-content/plugins/mailchimp-top-bar/assets/css/bar.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='addtoany-css'  href='https://old.audioxide.com/wp-content/plugins/add-to-any/addtoany.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='editor-style-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/editor-style.css' type='text/css' media='all' />
-<link rel='stylesheet' id='admin-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/admin.css' type='text/css' media='all' />
-<link rel='stylesheet' id='ie-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/ie.css' type='text/css' media='all' />
-<link rel='stylesheet' id='style-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/style.css' type='text/css' media='all' />
-<link rel='stylesheet' id='login-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/login.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mc4wp-form-themes-css'  href='https://audioxide.github.io/v1-archive/wp-content/plugins/mailchimp-for-wp/assets/css/form-themes.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mailchimp-top-bar-css'  href='https://audioxide.github.io/v1-archive/wp-content/plugins/mailchimp-top-bar/assets/css/bar.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='addtoany-css'  href='https://audioxide.github.io/v1-archive/wp-content/plugins/add-to-any/addtoany.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='editor-style-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/editor-style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/admin.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ie-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/ie.css' type='text/css' media='all' />
+<link rel='stylesheet' id='style-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='login-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/login.css' type='text/css' media='all' />
 <script type='text/javascript'>
 /* <![CDATA[ */
-var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"zip,mp3,mpeg,pdf,docx,pptx,xlsx,rar","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/old.audioxide.com","hash_tracking":"false"};
+var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"zip,mp3,mpeg,pdf,docx,pptx,xlsx,rar","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json","hash_tracking":"false"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/plugins/google-analytics-dashboard-for-wp/assets/js/frontend.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-includes/js/jquery/jquery.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-includes/js/jquery/jquery-migrate.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/plugins/add-to-any/addtoany.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/themes/audioxide/library/js/libs/modernizr.custom.min.js'></script>
-<link rel='https://api.w.org/' href='https://old.audioxide.com/wp-json/' />
-<link rel='shortlink' href='https://old.audioxide.com/?p=5902' />
-<link rel="alternate" type="application/json+oembed" href="https://old.audioxide.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fold.audioxide.com%2Farticles%2Ftop-10-albums-of-2017%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://old.audioxide.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fold.audioxide.com%2Farticles%2Ftop-10-albums-of-2017%2F&#038;format=xml" />
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/plugins/google-analytics-dashboard-for-wp/assets/js/frontend.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/plugins/add-to-any/addtoany.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/js/libs/modernizr.custom.min.js'></script>
+<link rel='https://api.w.org/' href='https://audioxide.github.io/v1-archive/wp-json/' />
+<link rel='shortlink' href='https://audioxide.github.io/v1-archive/?p=5902' />
+<link rel="alternate" type="application/json+oembed" href="https://audioxide.github.io/v1-archive/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fold.audioxide.com%2Farticles%2Ftop-10-albums-of-2017%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://audioxide.github.io/v1-archive/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fold.audioxide.com%2Farticles%2Ftop-10-albums-of-2017%2F&#038;format=xml" />
 
 <script data-cfasync="false">
 window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_localize = {
@@ -216,7 +216,7 @@ a2a_config.onclick=1;
 
 
 <!-- This site is optimized with the Schema plugin v1.7.8.3 - https://schema.press -->
-<script type="application/ld+json">{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/articles\/top-10-albums-of-2017\/"},"url":"https:\/\/old.audioxide.com\/articles\/top-10-albums-of-2017\/","headline":"Our 10 Favourite Albums of...","datePublished":"2017-12-18T12:00:07+00:00","dateModified":"2020-03-13T14:03:13+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2017\/12\/wolf-alice.jpg","width":1120,"height":630},"articleSection":"Articles","description":"18.12.02017 &nbsp; 10. Last Place \/\/ Grandaddy Michael You’d be forgiven for forgetting that Grandaddy even released a record this year, given that seemingly everybody in the music press has. Indeed, though the band returned from an eleven-year hiatus to largely positive reviews, nominative determinism’s Last Place hasn’t been the subject","author":{"@type":"Person","name":"admin","url":"https:\/\/old.audioxide.com\/author\/admin\/"}}</script>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/top-10-albums-of-2017\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/top-10-albums-of-2017\/","headline":"Our 10 Favourite Albums of...","datePublished":"2017-12-18T12:00:07+00:00","dateModified":"2020-03-13T14:03:13+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2017\/12\/wolf-alice.jpg","width":1120,"height":630},"articleSection":"Articles","description":"18.12.02017 &nbsp; 10. Last Place \/\/ Grandaddy Michael You’d be forgiven for forgetting that Grandaddy even released a record this year, given that seemingly everybody in the music press has. Indeed, though the band returned from an eleven-year hiatus to largely positive reviews, nominative determinism’s Last Place hasn’t been the subject","author":{"@type":"Person","name":"admin","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/admin\/"}}</script>
 
 
 
@@ -237,9 +237,9 @@ a2a_config.onclick=1;
             "@type": "ListItem",
             "position": 2,
             "item": {
-                "@id": "https://old.audioxide.com/articles/top-10-albums-of-2017/",
+                "@id": "https://audioxide.com/articles/top-10-albums-of-2017/",
                 "name": "Our 10 Favourite Albums of 2017",
-                "image": "https://old.audioxide.com/wp-content/uploads/2017/12/wolf-alice.jpg"
+                "image": "https://audioxide.github.io/v1-archive/wp-content/uploads/2017/12/wolf-alice.jpg"
             }
         }
     ]
@@ -267,7 +267,7 @@ Click the help icon above to learn more.
 	<body class="post-template-default single single-post postid-5902 single-format-standard" itemscope itemtype="http://schema.org/WebPage">
 <header role="banner" class="sticky" itemscope itemtype="http://schema.org/WPHeader">
 	<div class="wrap">
-		<p id="logo" class="h1 logo" itemscope itemtype="http://schema.org/Organization"><a href="https://old.audioxide.com" rel="nofollow"><img src="https://old.audioxide.com/wp-content/themes/audioxide/library/images/site-logo.svg" /></a></p>
+		<p id="logo" class="h1 logo" itemscope itemtype="http://schema.org/Organization"><a href="https://audioxide.github.io/v1-archive" rel="nofollow"><img src="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/images/site-logo.svg" /></a></p>
 		<div class="social-media">
 			<a href="https://www.facebook.com/Audioxide/"><i class="fa fa-facebook-square"></i></a>
 			<a href="https://twitter.com/audioxidecom"><i class="fa fa-twitter-square"></i></a>
@@ -281,16 +281,16 @@ Click the help icon above to learn more.
 </header>
 <div id="coverartbanner" class="container coverart">
     <div class="wrapper">
-		<a href="https://old.audioxide.com/reviews/nothing-the-great-dismal/"><img src="https://old.audioxide.com/wp-content/uploads/2020/11/the-great-dismal-nothing-500x500.jpg" alt="Album cover for Nothing - The Great Dismal" /></a>
-<a href="https://old.audioxide.com/reviews/clipping-visions-of-bodies-being-burned/"><img src="https://old.audioxide.com/wp-content/uploads/2020/11/visions-of-bodies-being-burned-clipping-500x500.jpg" alt="Album cover for clipping. - Visions of Bodies Being Burned" /></a>
-<a href="https://old.audioxide.com/reviews/doves-the-universal-want/"><img src="https://old.audioxide.com/wp-content/uploads/2020/09/the-universal-want-doves-500x500.jpg" alt="Album cover for Doves - The Universal Want" /></a>
-<a href="https://old.audioxide.com/reviews/all-them-witches-nothing-as-the-ideal/"><img src="https://old.audioxide.com/wp-content/uploads/2020/09/nothing-as-the-ideal-all-them-witches-500x500.jpg" alt="Album cover for All Them Witches - Nothing as the Ideal" /></a>
-<a href="https://old.audioxide.com/reviews/kelly-lee-owens-inner-song/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/inner-song-kelly-lee-owens-500x500.jpg" alt="Album cover for Kelly Lee Owens - Inner Song" /></a>
-<a href="https://old.audioxide.com/reviews/nas-kings-disease/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/kings-disease-nas-500x500.jpg" alt="Album cover for Nas - King's Disease" /></a>
-<a href="https://old.audioxide.com/reviews/dead-kennedys-fresh-fruit-for-rotting-vegetables/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/fresh-fruit-for-rotting-vegetables-dead-kennedys-500x500.jpg" alt="Album cover for Dead Kennedys - Fresh Fruit for Rotting Vegetables" /></a>
-<a href="https://old.audioxide.com/reviews/glass-animals-dreamland/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/dreamland-glass-animals-500x500.jpg" alt="Album cover for Glass Animals - Dreamland" /></a>
-<a href="https://old.audioxide.com/reviews/neil-young-after-the-gold-rush/"><img src="https://old.audioxide.com/wp-content/uploads/2020/07/after-the-gold-rush-neil-young-500x500.jpg" alt="Album cover for Neil Young - After the Gold Rush" /></a>
-<a href="https://old.audioxide.com/reviews/lianne-la-havas-lianne-la-havas/"><img src="https://old.audioxide.com/wp-content/uploads/2020/07/lianne-la-havas-lianne-la-havas-500x500.jpg" alt="Album cover for Lianne La Havas - Lianne La Havas" /></a>
+		<a href="https://audioxide.github.io/v1-archive/reviews/nothing-the-great-dismal/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/11/the-great-dismal-nothing-500x500.jpg" alt="Album cover for Nothing - The Great Dismal" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/clipping-visions-of-bodies-being-burned/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/11/visions-of-bodies-being-burned-clipping-500x500.jpg" alt="Album cover for clipping. - Visions of Bodies Being Burned" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/doves-the-universal-want/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/09/the-universal-want-doves-500x500.jpg" alt="Album cover for Doves - The Universal Want" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/all-them-witches-nothing-as-the-ideal/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/09/nothing-as-the-ideal-all-them-witches-500x500.jpg" alt="Album cover for All Them Witches - Nothing as the Ideal" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/kelly-lee-owens-inner-song/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/inner-song-kelly-lee-owens-500x500.jpg" alt="Album cover for Kelly Lee Owens - Inner Song" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/nas-kings-disease/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/kings-disease-nas-500x500.jpg" alt="Album cover for Nas - King's Disease" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/dead-kennedys-fresh-fruit-for-rotting-vegetables/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/fresh-fruit-for-rotting-vegetables-dead-kennedys-500x500.jpg" alt="Album cover for Dead Kennedys - Fresh Fruit for Rotting Vegetables" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/glass-animals-dreamland/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/dreamland-glass-animals-500x500.jpg" alt="Album cover for Glass Animals - Dreamland" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/neil-young-after-the-gold-rush/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/07/after-the-gold-rush-neil-young-500x500.jpg" alt="Album cover for Neil Young - After the Gold Rush" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/lianne-la-havas-lianne-la-havas/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/07/lianne-la-havas-lianne-la-havas-500x500.jpg" alt="Album cover for Lianne La Havas - Lianne La Havas" /></a>
     </div>
 </div>
 	<main id="main" role="main" itemscope itemprop="mainContentOfPage" itemtype="http://schema.org/Blog">
@@ -311,7 +311,7 @@ Click the help icon above to learn more.
                   <h4>18.12.02017</h4>
 <p>&nbsp;</p>
 <h3>10. <em>Last Place </em>//<em> </em>Grandaddy</h3>
-<img class="aligncenter size-audioxide-album wp-image-4153" src="https://audioxide.com/wp-content/uploads/2017/03/Last-Place-500x500.jpg" alt="Album artwork of 'Last Place' by Grandaddy" width="500" height="500" srcset="https://old.audioxide.com/wp-content/uploads/2017/03/Last-Place-500x500.jpg 500w, https://old.audioxide.com/wp-content/uploads/2017/03/Last-Place-150x150.jpg 150w, https://old.audioxide.com/wp-content/uploads/2017/03/Last-Place-300x300.jpg 300w, https://old.audioxide.com/wp-content/uploads/2017/03/Last-Place-768x768.jpg 768w, https://old.audioxide.com/wp-content/uploads/2017/03/Last-Place-125x125.jpg 125w, https://old.audioxide.com/wp-content/uploads/2017/03/Last-Place.jpg 800w" sizes="(max-width: 500px) 100vw, 500px" />
+<img class="aligncenter size-audioxide-album wp-image-4153" src="https://audioxide.com/wp-content/uploads/2017/03/Last-Place-500x500.jpg" alt="Album artwork of 'Last Place' by Grandaddy" width="500" height="500" srcset="https://audioxide.github.io/v1-archive/wp-content/uploads/2017/03/Last-Place-500x500.jpg 500w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/03/Last-Place-150x150.jpg 150w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/03/Last-Place-300x300.jpg 300w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/03/Last-Place-768x768.jpg 768w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/03/Last-Place-125x125.jpg 125w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/03/Last-Place.jpg 800w" sizes="(max-width: 500px) 100vw, 500px" />
 <h4><a href="https://twitter.com/Pixleh">Michael</a></h4>
 <p>You’d be forgiven for forgetting that Grandaddy even released a record this year, given that seemingly everybody in the music press has. Indeed, though the band returned from an eleven-year hiatus to largely positive reviews, nominative determinism’s <em>Last Place</em> hasn’t been the subject of much end-of-year discussion. This speaks more to the unassuming nature of Grandaddy’s music than it does to the quality of <em>Last Place</em>, which is both gorgeously composed and deeply affecting. Certainly, there is nothing particularly urgent about the record; one would be hard pressed to describe it as The Album We Need Right Now, and it’s even somewhat anachronistic, considering that the band employs the sonic palette and songwriting quirks that served them so well during the indie-rock boom of the nineties and noughts. As with their previous work, however, it’s a deceptively easy-going thing, guided by a slacker’s charm and nonchalance that are gradually revealed to be a weariness, as a deeply ingrained and wonderfully articulated sadness. There are no Grand Gestures or Profound Statements, no self-importance or whininess, just a pervasive, relatable, unpretentious sense of melancholy &#8212; a catharsis that I certainly needed this year. It would be a damn shame if it really were to be forgotten about.</p>
 <p><strong><a href="https://audioxide.com/reviews/grandaddy-last-place/">Read our full review of <em>Last Place</em></a> →</strong></p>
@@ -324,7 +324,7 @@ Click the help icon above to learn more.
 <p><strong><a href="https://audioxide.com/reviews/mogwai-every-countrys-sun/">Read our full review of <em>Every Country&#8217;s Sun</em></a> →</strong></p>
 <p>&nbsp;</p>
 <h3>8. <em>Villains </em>// Queens of the Stone Age</h3>
-<img class="aligncenter size-full wp-image-5109" src="https://audioxide.com/wp-content/uploads/2017/08/villains.jpg" alt="Album artwork of 'Villains' by Queens of the Stone Age" width="500" height="500" srcset="https://old.audioxide.com/wp-content/uploads/2017/08/villains.jpg 500w, https://old.audioxide.com/wp-content/uploads/2017/08/villains-150x150.jpg 150w, https://old.audioxide.com/wp-content/uploads/2017/08/villains-300x300.jpg 300w, https://old.audioxide.com/wp-content/uploads/2017/08/villains-125x125.jpg 125w" sizes="(max-width: 500px) 100vw, 500px" />
+<img class="aligncenter size-full wp-image-5109" src="https://audioxide.com/wp-content/uploads/2017/08/villains.jpg" alt="Album artwork of 'Villains' by Queens of the Stone Age" width="500" height="500" srcset="https://audioxide.github.io/v1-archive/wp-content/uploads/2017/08/villains.jpg 500w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/08/villains-150x150.jpg 150w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/08/villains-300x300.jpg 300w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/08/villains-125x125.jpg 125w" sizes="(max-width: 500px) 100vw, 500px" />
 <p>&nbsp;</p>
 <h4><a href="https://twitter.com/GabrielPSutton" target="_blank" rel="noopener"><strong>Gabriel</strong></a></h4>
 <p class="p1"><em>Villains</em> may not be my favourite Queens of the Stone Age album, but it has plenty of fantastic moments. Joshua Homme certainly took a different direction by employing notable pop producer Mark Ronson, a move that was met with some dubious eye squints. But as many pointed out, Homme often writes riffs that fit well with pop sensibilities, albeit over the crunch of a drop C tuning and countless guitar pedals. There&#8217;s no doubt that <em>Villains</em> is missing a lot of the punch and low end that QotSA listeners have come to expect. However, it still offers a fair amount to chew on. There’s playfulness in songs like “The Way You Used To Do” but also a sombreness to tracks like “Villains of Circumstance”. <em>Villains</em> is a rather thematic album, with each song carrying a visual narrative. <a href="https://artistwaves.com/the-artwork-of-queens-of-the-stone-age-villains-in-10-stunning-photos-78fc9a103a62" target="_blank" rel="noopener">The visuals that Boneface created for the album</a> really jump out: the puppeteer, the devil and the outlaw are so symbolic of the tracks they represent. There’s been little in 2017 to scratch my rock&#8217;n&#8217;roll itch, but alongside Death From Above&#8217;s latest offering, <em>Villains</em> has really hit the spot. Still to this day, no-one does it quite like Queens of the Stone Age.</p>
@@ -338,37 +338,37 @@ Click the help icon above to learn more.
 <p><strong><a href="https://audioxide.com/reviews/tyler-the-creator-flower-boy/">Read our full review of <em>Flower Boy </em></a>→</strong></p>
 <p>&nbsp;</p>
 <h3>6. <em>Semper Femina </em>// Laura Marling</h3>
-<img class="aligncenter size-full wp-image-4157" src="https://audioxide.com/wp-content/uploads/2017/03/Semper-Femina.jpg" alt="Album artwork of 'Semper Femina' by Laura Marling" width="500" height="500" srcset="https://old.audioxide.com/wp-content/uploads/2017/03/Semper-Femina.jpg 500w, https://old.audioxide.com/wp-content/uploads/2017/03/Semper-Femina-150x150.jpg 150w, https://old.audioxide.com/wp-content/uploads/2017/03/Semper-Femina-300x300.jpg 300w, https://old.audioxide.com/wp-content/uploads/2017/03/Semper-Femina-125x125.jpg 125w" sizes="(max-width: 500px) 100vw, 500px" />
+<img class="aligncenter size-full wp-image-4157" src="https://audioxide.com/wp-content/uploads/2017/03/Semper-Femina.jpg" alt="Album artwork of 'Semper Femina' by Laura Marling" width="500" height="500" srcset="https://audioxide.github.io/v1-archive/wp-content/uploads/2017/03/Semper-Femina.jpg 500w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/03/Semper-Femina-150x150.jpg 150w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/03/Semper-Femina-300x300.jpg 300w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/03/Semper-Femina-125x125.jpg 125w" sizes="(max-width: 500px) 100vw, 500px" />
 <h4><a href="https://twitter.com/andrewbridge" target="_blank" rel="noopener">ANDrew</a></h4>
 <p>Semper<em> Femina</em> looks to have been one of the more understated releases of the year. However, <a href="https://audioxide.com/reviews/laura-marling-semper-femina/" target="_blank" rel="noopener">Laura Marling&#8217;s latest record has seen a lot of love on Audioxide</a>, achieving the highest score of a new release since Kendrick Lamar&#8217;s <a href="https://audioxide.com/reviews/kendrick-lamar-to-pimp-a-butterfly/" target="_blank" rel="noopener"><em>To Pimp a Butterfly.</em></a> Since its release back in March, Semper Femina has continued to make a big part of my listening throughout the year. I cannot deny that I often come to the album for its opener: &#8220;Soothing&#8221; is a silky smooth song, showcasing Marling&#8217;s delicate vocals and wrapping them in warm washes of strings and bass. While I would adore an album of &#8220;Soothing&#8221;-esque tracks, <em>Semper Femina</em> shines in its distinctive tracks, each with their own character and atmosphere that wind their way through the forty minute tracklist without a moment of mundanity. Although some listeners have criticised the colder nature of certain tracks, there&#8217;s an abundance of heart to be found here too. The balance is just right. <em>Semper Femina</em> is a gorgeous album that I&#8217;ll no doubt continue to fawn over for the foreseeable future.</p>
 <p><strong><a href="https://audioxide.com/reviews/laura-marling-semper-femina/">Read our full review of <em>Semper Femina</em></a> →</strong></p>
 <p>&nbsp;</p>
 <h3>5. <em>New Energy </em>// Four Tet</h3>
-<img class="aligncenter size-audioxide-album wp-image-6022" src="https://audioxide.com/wp-content/uploads/2017/12/New-Energy-500x500.jpg" alt="" width="500" height="500" srcset="https://old.audioxide.com/wp-content/uploads/2017/12/New-Energy-500x500.jpg 500w, https://old.audioxide.com/wp-content/uploads/2017/12/New-Energy-150x150.jpg 150w, https://old.audioxide.com/wp-content/uploads/2017/12/New-Energy-300x300.jpg 300w, https://old.audioxide.com/wp-content/uploads/2017/12/New-Energy-768x768.jpg 768w, https://old.audioxide.com/wp-content/uploads/2017/12/New-Energy-1024x1024.jpg 1024w, https://old.audioxide.com/wp-content/uploads/2017/12/New-Energy-1000x1000.jpg 1000w, https://old.audioxide.com/wp-content/uploads/2017/12/New-Energy-125x125.jpg 125w, https://old.audioxide.com/wp-content/uploads/2017/12/New-Energy.jpg 1200w" sizes="(max-width: 500px) 100vw, 500px" />
+<img class="aligncenter size-audioxide-album wp-image-6022" src="https://audioxide.com/wp-content/uploads/2017/12/New-Energy-500x500.jpg" alt="" width="500" height="500" srcset="https://audioxide.github.io/v1-archive/wp-content/uploads/2017/12/New-Energy-500x500.jpg 500w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/12/New-Energy-150x150.jpg 150w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/12/New-Energy-300x300.jpg 300w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/12/New-Energy-768x768.jpg 768w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/12/New-Energy-1024x1024.jpg 1024w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/12/New-Energy-1000x1000.jpg 1000w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/12/New-Energy-125x125.jpg 125w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/12/New-Energy.jpg 1200w" sizes="(max-width: 500px) 100vw, 500px" />
 <h4><a href="https://twitter.com/AndreDack" target="_blank" rel="noopener">André</a></h4>
 <p>&nbsp;</p>
 <p>After years of low social presence and a mild degree of secrecy, Kieran Hebden now finds himself as one of the imperative faces of electronic music. Hebden&#8217;s approach has always been progressive, dynamic, and sometimes mildly abstruse, but his recent exercises in club music have revealed a new direction. With his latest album <em>New Energy</em>, Hebden opts almost completely out of the abstract and captures the sweet spot between the two contrasting sides of his work. This has all the warmth and vibrancy of early Four Tet records, as it elegantly switches between subtle, downtempo streams and bold, animated bangers. It has a similar organic quality to that of a Boards of Canada record, and it connects with the listener on a similar level of humanity. There is something very soulful about <em>New Energy</em>, almost spiritual. Hebden limited himself to a small range of instruments and soft-synths, which runs the risk of repetitiveness, but ultimately only brings a degree of comfort. The scuttering string-plucks that bring “Two Thousand and Seventeen” to life are wistful and dreamy, whereas later on “Lush” a similar instrument emerges in a more spirited and frisky fashion. It’s not until the latter half of the album where the club-orientated tracks begin to surface, with “SW9 9SL” and “Planets” being particular favourites, both of which profit from being surrounded by beautiful, short interludes. Four Tet has always shown an exquisite level of expertise, and with <em>New Energy</em>, he has fashioned the greatest electronic album of 2017.</p>
 <p>&nbsp;</p>
 <h3>4. <em>Damn. </em>//<em> </em>Kendrick Lamar</h3>
-<img class="aligncenter size-audioxide-album wp-image-4262" src="https://audioxide.com/wp-content/uploads/2017/04/Cover-500x500.jpg" alt="Album artwork of 'DAMN.' by Kendrick Lamar" width="500" height="500" srcset="https://old.audioxide.com/wp-content/uploads/2017/04/Cover-500x500.jpg 500w, https://old.audioxide.com/wp-content/uploads/2017/04/Cover-150x150.jpg 150w, https://old.audioxide.com/wp-content/uploads/2017/04/Cover-300x300.jpg 300w, https://old.audioxide.com/wp-content/uploads/2017/04/Cover-125x125.jpg 125w, https://old.audioxide.com/wp-content/uploads/2017/04/Cover.jpg 600w" sizes="(max-width: 500px) 100vw, 500px" />
+<img class="aligncenter size-audioxide-album wp-image-4262" src="https://audioxide.com/wp-content/uploads/2017/04/Cover-500x500.jpg" alt="Album artwork of 'DAMN.' by Kendrick Lamar" width="500" height="500" srcset="https://audioxide.github.io/v1-archive/wp-content/uploads/2017/04/Cover-500x500.jpg 500w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/04/Cover-150x150.jpg 150w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/04/Cover-300x300.jpg 300w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/04/Cover-125x125.jpg 125w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/04/Cover.jpg 600w" sizes="(max-width: 500px) 100vw, 500px" />
 <h4>Marcus</h4>
 <p>Like <em>Section.80</em>, <em>good kid m.A.A.d city</em>, and <a href="https://audioxide.com/reviews/kendrick-lamar-to-pimp-a-butterfly/" target="_blank" rel="noopener"><em>To Pimp a Butterfly</em></a> before it, the sheer depth of <em>DAMN.</em> is not only difficult to express in its boundlessness, but remarkably consistent in its provision of seemingly fresh impressions upon each listen. Thematically, one of the most significant aspects of this latest opus is that which subverts the general air surrounding Kendrick Lamar since 2015; while we as fans had been basking in the glow of <em>TPaB</em>, its progenitor’s experiences of the landmark album’s fallout had gone largely unconsidered. In <em>DAMN.</em>, Kendrick launches an anchor back to Earth, and brings us back with him. Whether he’s sampling Geraldo Rivera’s obtuse misappropriations, or reminding us of his own human fallibilities by asking &#8216;who the fuck prayin’ for me?&#8217;, Kendrick is bearing fresh anguishes of his fame. Sagely contextualizing aspects of his own reality &#8212; the man that extends far beyond the near-messianic persona and reputation he’s accidentally gained &#8212; and the frustration and anger of feeling misunderstood, or incapable of bearing the weight of the faith and expectations of so many, Kendrick’s account is immensely cogent and personal. The album’s myriad complex and intertwined discussions are compounded by once again gorgeously warm production, and an organic flexibility of tempo and rhythm that maintains an excitement in the act of listening. While <em>DAMN.</em> can feel a tad scattershot in its broader range of focuses, it’s no less a deliciously meta continuation of the narrative that can be traced across each of his remarkable albums.</p>
 <p><strong><a href="https://audioxide.com/reviews/kendrick-lamar-damn/">Read our full review of <em>DAMN.</em></a> →</strong></p>
 <p>&nbsp;</p>
 <h3>3. <em>Run the jewels 3 </em>// Run the Jewels</h3>
-<img class="aligncenter size-audioxide-album wp-image-6023" src="https://audioxide.com/wp-content/uploads/2017/12/RTJ3-500x500.jpg" alt="Album artwork of Run the Jewels 3" width="500" height="500" srcset="https://old.audioxide.com/wp-content/uploads/2017/12/RTJ3-500x500.jpg 500w, https://old.audioxide.com/wp-content/uploads/2017/12/RTJ3-150x150.jpg 150w, https://old.audioxide.com/wp-content/uploads/2017/12/RTJ3-300x300.jpg 300w, https://old.audioxide.com/wp-content/uploads/2017/12/RTJ3-768x768.jpg 768w, https://old.audioxide.com/wp-content/uploads/2017/12/RTJ3-1024x1024.jpg 1024w, https://old.audioxide.com/wp-content/uploads/2017/12/RTJ3-1000x1000.jpg 1000w, https://old.audioxide.com/wp-content/uploads/2017/12/RTJ3-125x125.jpg 125w, https://old.audioxide.com/wp-content/uploads/2017/12/RTJ3.jpg 1200w" sizes="(max-width: 500px) 100vw, 500px" />
+<img class="aligncenter size-audioxide-album wp-image-6023" src="https://audioxide.com/wp-content/uploads/2017/12/RTJ3-500x500.jpg" alt="Album artwork of Run the Jewels 3" width="500" height="500" srcset="https://audioxide.github.io/v1-archive/wp-content/uploads/2017/12/RTJ3-500x500.jpg 500w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/12/RTJ3-150x150.jpg 150w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/12/RTJ3-300x300.jpg 300w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/12/RTJ3-768x768.jpg 768w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/12/RTJ3-1024x1024.jpg 1024w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/12/RTJ3-1000x1000.jpg 1000w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/12/RTJ3-125x125.jpg 125w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/12/RTJ3.jpg 1200w" sizes="(max-width: 500px) 100vw, 500px" />
 <h4><a href="https://twitter.com/andrewbridge" target="_blank" rel="noopener">Andrew</a></h4>
 <p>Run the Jewels have released two distinctive and equally excellent albums in previous years, and <em>Run the Jewels 3</em> doesn&#8217;t do anything to change that upward trend. With a consistent tracklist comprised of superb instrumentals and vocal lines that sit perfectly above them, <em>RTJ3</em> is an utter joy to experience. As with previous albums, the duo thrive on spirited energy, with sub soaked beats and catchy hook after catchy hook. The interplay between verses from El-P and Killer Mike is both satisfying and seemingly effortless, and the production feels particularly slick this time around on <em>RTJ3</em>. Having the chance to see the duo live several times this year has only improved my impressions of this album, with much of this new material making up the highlights of their shows. Features from Danny Brown and Kamasi Washington make for some of the most memorable moments here too, each adding their own styles to the mix without overshadowing the rap duo themselves. I&#8217;ve had a whole lot of fun with <em>RTJ3</em>, and in a year that has been inundated with high profile, excellent hip-hop, it&#8217;s an impressive feat to still be this relevant at the end of 2017.</p>
 <p>&nbsp;</p>
 <h3>2. <em>Outrage! Is Now //</em> Death From Above</h3>
-<img class="aligncenter size-audioxide-album wp-image-6024" src="https://audioxide.com/wp-content/uploads/2017/12/outrage-is-now-500x500.jpg" alt="Album artwork of Outrage is Now" width="500" height="500" srcset="https://old.audioxide.com/wp-content/uploads/2017/12/outrage-is-now-500x500.jpg 500w, https://old.audioxide.com/wp-content/uploads/2017/12/outrage-is-now-150x150.jpg 150w, https://old.audioxide.com/wp-content/uploads/2017/12/outrage-is-now-300x300.jpg 300w, https://old.audioxide.com/wp-content/uploads/2017/12/outrage-is-now-125x125.jpg 125w, https://old.audioxide.com/wp-content/uploads/2017/12/outrage-is-now.jpg 600w" sizes="(max-width: 500px) 100vw, 500px" />
+<img class="aligncenter size-audioxide-album wp-image-6024" src="https://audioxide.com/wp-content/uploads/2017/12/outrage-is-now-500x500.jpg" alt="Album artwork of Outrage is Now" width="500" height="500" srcset="https://audioxide.github.io/v1-archive/wp-content/uploads/2017/12/outrage-is-now-500x500.jpg 500w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/12/outrage-is-now-150x150.jpg 150w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/12/outrage-is-now-300x300.jpg 300w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/12/outrage-is-now-125x125.jpg 125w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/12/outrage-is-now.jpg 600w" sizes="(max-width: 500px) 100vw, 500px" />
 <h4><a href="https://twitter.com/AndreDack" target="_blank" rel="noopener">André</a></h4>
 <p>&nbsp;</p>
 <p>In a year full of pleasant surprises, <em>Outrage! Is Now</em> may be the most unexpected of them all. Whilst I seemingly enjoyed 2014’s <em>The Physical World</em> more than most, I wasn’t exactly excited coming into the release of the bands third studio album. Lead single “Freeze Me” left me appropriately cold, with its predictable piano lead that seemed more accustomed to a house track than a DFA cut, and I wasn’t exactly enthused by the monotony of “Never Swim Alone” either. Such apprehension was soon to be extinguished however, as <em>Outrage</em> turned out to be a miniature wonder. With a slight name change comes a big alteration of sound &#8212; this record is far closer to heavy metal than anything comparable to dance-punk. Jesse Keeler’s riffs have never sounded so vast and vibrant, whilst Sebastien Grainger’s drumming takes some clear inspiration from the likes of Bonham and Grohl. The duo sound irresistible together, particularly on catchier cuts “Caught Up”, “Statues” and “NVR 4EVR”, and what’s more, they sound important again. The album is relentless with hooks, and it’s produced with exquisite finesse. It’s an exhilarating experience that incites multiple listens, and after all my initial groaning, it could well be my favourite DFA record yet.</p>
 <p>&nbsp;</p>
 <p>­</p>
 <h3>1. <em>Visions of a Life </em>// Wolf Alice</h3>
-<img class="aligncenter wp-image-6025" src="https://audioxide.com/wp-content/uploads/2017/12/Visions-of-a-Life.jpg" alt="" width="1000" height="1000" srcset="https://old.audioxide.com/wp-content/uploads/2017/12/Visions-of-a-Life.jpg 1000w, https://old.audioxide.com/wp-content/uploads/2017/12/Visions-of-a-Life-150x150.jpg 150w, https://old.audioxide.com/wp-content/uploads/2017/12/Visions-of-a-Life-300x300.jpg 300w, https://old.audioxide.com/wp-content/uploads/2017/12/Visions-of-a-Life-768x768.jpg 768w, https://old.audioxide.com/wp-content/uploads/2017/12/Visions-of-a-Life-500x500.jpg 500w, https://old.audioxide.com/wp-content/uploads/2017/12/Visions-of-a-Life-125x125.jpg 125w" sizes="(max-width: 1000px) 100vw, 1000px" />
+<img class="aligncenter wp-image-6025" src="https://audioxide.com/wp-content/uploads/2017/12/Visions-of-a-Life.jpg" alt="" width="1000" height="1000" srcset="https://audioxide.github.io/v1-archive/wp-content/uploads/2017/12/Visions-of-a-Life.jpg 1000w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/12/Visions-of-a-Life-150x150.jpg 150w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/12/Visions-of-a-Life-300x300.jpg 300w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/12/Visions-of-a-Life-768x768.jpg 768w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/12/Visions-of-a-Life-500x500.jpg 500w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/12/Visions-of-a-Life-125x125.jpg 125w" sizes="(max-width: 1000px) 100vw, 1000px" />
 <h4><a href="https://twitter.com/AndreDack" target="_blank" rel="noopener">ANDRÉ</a></h4>
 <p>There’s been a lot of talk about rock being dead in the UK. Again. Though such a declaration is ever so slightly hyperbolic, I’ve found myself struggling to disprove the overall sentiment. Of course there are hundreds of good rock bands scattered around the country, but rarely do they attain the success they deserve. Wolf Alice were one of many bands who had the scope to get there, and to my absolute delight, they’ve pulled it off in just a few years. The potential of Wolf Alice was evident from the early EP’s and <a href="https://audioxide.com/reviews/wolf-alice-my-love-is-cool/" target="_blank" rel="noopener">debut studio album</a>, but I don’t think anyone expected them to rise as one of the finest bands in the UK at such a rate. <em>Visions of a Life</em> is, quite simply, a stunning record, and a major advancement from 2015’s <em>My Love is Cool</em>. The band uncover momentous growth and maturity whilst keeping the sensation of nostalgia intact. Whereas “Yuk Foo” and “Space and Time” retain the youthful charm of earlier work, songs such as “Planet Hunter” and “Sadboy” demonstrate the band’s progression not only as musicians, but as human beings too. Whilst still only at the age of 25, Ellie Rowsell sounds wiser and at times enlightened, though she still finds herself winding back down to teenage cliché’s and romanticisms. And thank goodness for that, because those glimpses of naiveté are often what makes the music so special, balancing sweetly with the band’s ever-growing experience.<em> Visions</em>’ title track is the stunning exemplification of all these qualities: a beautiful behemoth that is musically and logically vast, preserving focus throughout its 8-minute duration. It’s the type of achievement you’d come to expect in considerable time after a decent debut album, but Wolf Alice deliver such a thing in only two years. They continue to defy expectation, such is the level of their success. <em>Visions of a Life</em> is an outstanding record; performed, produced and paced to perfection. It’s my treasure of 2017, and I can’t wait to hear what’s next.</p>
 <h4><a href="https://twitter.com/mazukl" target="_blank" rel="noopener">FRED</a></h4>
@@ -384,16 +384,16 @@ Click the help icon above to learn more.
 
                                     <h4>Related Posts</h4>
                   <ul class="related-posts">
-                    <li><a href="https://old.audioxide.com/reviews/nothing-the-great-dismal/">
+                    <li><a href="https://audioxide.github.io/v1-archive/reviews/nothing-the-great-dismal/">
                         <h5>Reviews:<span class='oneline'>Review: The Great Dismal // Nothing</span></h5>                        </a>
-                      </li><li><a href="https://old.audioxide.com/reviews/clipping-visions-of-bodies-being-burned/">
+                      </li><li><a href="https://audioxide.github.io/v1-archive/reviews/clipping-visions-of-bodies-being-burned/">
                         <h5>Reviews:<span class='oneline'>Review: Visions of Bodies Being Burned // clipping.</span></h5>                        </a>
-                      </li><li><a href="https://old.audioxide.com/reviews/doves-the-universal-want/">
+                      </li><li><a href="https://audioxide.github.io/v1-archive/reviews/doves-the-universal-want/">
                         <h5>Reviews:<span class='oneline'>Review: The Universal Want // Doves</span></h5>                        </a>
-                      </li><li><a href="https://old.audioxide.com/reviews/all-them-witches-nothing-as-the-ideal/">
+                      </li><li><a href="https://audioxide.github.io/v1-archive/reviews/all-them-witches-nothing-as-the-ideal/">
                         <h5>Reviews:<span class='oneline'>Review: Nothing as the Ideal // All Them Witches</span></h5>                        </a>
                       </li>                    </ul>
-                    <p class="readmore"><a href="https://old.audioxide.com/articles">Read more articles...</a></p>
+                    <p class="readmore"><a href="https://audioxide.github.io/v1-archive/articles">Read more articles...</a></p>
                   
                 </footer> 
                 
@@ -437,11 +437,11 @@ Click the help icon above to learn more.
 var mctb = {"cookieLength":"365","icons":{"hide":"&#x25BC;","show":"&#x25B2;"},"position":"bottom","state":{"submitted":false,"success":false}};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/plugins/mailchimp-top-bar/assets/js/script.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-includes/js/comment-reply.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/themes/audioxide/library/js/libs/jquery.quickfit.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/themes/audioxide/library/js/scripts.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/plugins/mailchimp-top-bar/assets/js/script.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-includes/js/comment-reply.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/js/libs/jquery.quickfit.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/js/scripts.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-includes/js/wp-embed.min.js'></script>
 
 	</body>
 

@@ -16,32 +16,32 @@
 		<meta name="MobileOptimized" content="320">
 		<meta name="viewport" content="width=device-width, initial-scale=1"/>
 
-				<link rel="apple-touch-icon" href="https://old.audioxide.com/wp-content/themes/audioxide/library/images/apple-touch-icon.png">
-		<link rel="icon" href="https://old.audioxide.com/wp-content/themes/audioxide/favicon.png">
+				<link rel="apple-touch-icon" href="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/images/apple-touch-icon.png">
+		<link rel="icon" href="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/favicon.png">
 		<!--[if IE]>
-			<link rel="shortcut icon" href="https://old.audioxide.com/wp-content/themes/audioxide/favicon.ico">
+			<link rel="shortcut icon" href="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/favicon.ico">
 		<![endif]-->
 				<meta name="msapplication-TileColor" content="#f01d4f">
-		<meta name="msapplication-TileImage" content="https://old.audioxide.com/wp-content/themes/audioxide/library/images/win8-tile-icon.png">
+		<meta name="msapplication-TileImage" content="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/images/win8-tile-icon.png">
             <meta name="theme-color" content="#121212">
 
                         <meta property="og:title" content="My Favourite Game Soundtracks of 2017" />
                 <meta property="fb:app_id" content="950609285023482" />
-        <meta property="og:url" content="https://old.audioxide.com/articles/best-game-soundtracks-of-2017/" />
+        <meta property="og:url" content="https://audioxide.com/articles/best-game-soundtracks-of-2017/" />
         <meta property="og:site_name" content="Audioxide" />
-        <meta property="og:image" content="https://old.audioxide.com/wp-content/uploads/2017/12/bwah-500x414.jpg" />
+        <meta property="og:image" content="https://audioxide.github.io/v1-archive/wp-content/uploads/2017/12/bwah-500x414.jpg" />
                 
-		<link rel="pingback" href="https://old.audioxide.com/xmlrpc.php">
+		<link rel="pingback" href="https://audioxide.github.io/v1-archive/xmlrpc.php">
 
 				
 <!-- All In One SEO Pack 3.7.1[440,497] -->
 <meta name="description"  content="The video game industry sucks. Luckily, its music doesn&#039;t. 2017 produced some terrific game soundtracks, and here lies my pick of the bunch." />
 
-<link rel="canonical" href="https://old.audioxide.com/articles/best-game-soundtracks-of-2017/" />
+<link rel="canonical" href="https://audioxide.com/articles/best-game-soundtracks-of-2017/" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="My Favourite Game Soundtracks of 2017 | Audioxide" />
 <meta property="og:description" content="The video game industry sucks. Luckily, its music doesn&#039;t. 2017 produced some terrific game soundtracks, and here lies my pick of the bunch." />
-<meta property="og:url" content="https://old.audioxide.com/articles/best-game-soundtracks-of-2017/" />
+<meta property="og:url" content="https://audioxide.com/articles/best-game-soundtracks-of-2017/" />
 <meta property="og:site_name" content="Audioxide" />
 <meta property="og:image" content="https://audioxide.com/wp-content/uploads/2017/10/bannerlogoblack.png" />
 <meta property="fb:admins" content="1093489064003119" />
@@ -56,9 +56,9 @@
 <meta name="twitter:image" content="https://audioxide.com/wp-content/uploads/2017/10/bannerlogoblack.png" />
 <!-- All In One SEO Pack -->
 <link rel='dns-prefetch' href='//s.w.org' />
-<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Feed" href="https://old.audioxide.com/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Comments Feed" href="https://old.audioxide.com/comments/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; My Favourite Game Soundtracks of 2017 Comments Feed" href="https://old.audioxide.com/articles/best-game-soundtracks-of-2017/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Feed" href="https://audioxide.github.io/v1-archive/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Comments Feed" href="https://audioxide.github.io/v1-archive/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; My Favourite Game Soundtracks of 2017 Comments Feed" href="https://audioxide.github.io/v1-archive/articles/best-game-soundtracks-of-2017/feed/" />
 <!-- This site uses the Google Analytics by ExactMetrics plugin v6.2.2 - Using Analytics tracking - https://www.exactmetrics.com/ -->
 <script type="text/javascript" data-cfasync="false">
 	var em_version         = '6.2.2';
@@ -146,7 +146,7 @@ window.ga = __gaTracker;		__gaTracker('create', 'UA-71965408-1', 'auto');
 </script>
 <!-- / Google Analytics by ExactMetrics -->
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/old.audioxide.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-includes\/js\/wp-emoji-release.min.js"}};
 			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])?!1:!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55358,56760,9792,65039],[55358,56760,8203,9792,65039])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script>
 		<style type="text/css">
@@ -163,28 +163,28 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel='stylesheet' id='mc4wp-form-themes-css'  href='https://old.audioxide.com/wp-content/plugins/mailchimp-for-wp/assets/css/form-themes.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='mailchimp-top-bar-css'  href='https://old.audioxide.com/wp-content/plugins/mailchimp-top-bar/assets/css/bar.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='addtoany-css'  href='https://old.audioxide.com/wp-content/plugins/add-to-any/addtoany.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='editor-style-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/editor-style.css' type='text/css' media='all' />
-<link rel='stylesheet' id='admin-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/admin.css' type='text/css' media='all' />
-<link rel='stylesheet' id='ie-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/ie.css' type='text/css' media='all' />
-<link rel='stylesheet' id='style-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/style.css' type='text/css' media='all' />
-<link rel='stylesheet' id='login-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/login.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mc4wp-form-themes-css'  href='https://audioxide.github.io/v1-archive/wp-content/plugins/mailchimp-for-wp/assets/css/form-themes.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mailchimp-top-bar-css'  href='https://audioxide.github.io/v1-archive/wp-content/plugins/mailchimp-top-bar/assets/css/bar.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='addtoany-css'  href='https://audioxide.github.io/v1-archive/wp-content/plugins/add-to-any/addtoany.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='editor-style-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/editor-style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/admin.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ie-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/ie.css' type='text/css' media='all' />
+<link rel='stylesheet' id='style-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='login-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/login.css' type='text/css' media='all' />
 <script type='text/javascript'>
 /* <![CDATA[ */
-var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"zip,mp3,mpeg,pdf,docx,pptx,xlsx,rar","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/old.audioxide.com","hash_tracking":"false"};
+var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"zip,mp3,mpeg,pdf,docx,pptx,xlsx,rar","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json","hash_tracking":"false"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/plugins/google-analytics-dashboard-for-wp/assets/js/frontend.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-includes/js/jquery/jquery.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-includes/js/jquery/jquery-migrate.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/plugins/add-to-any/addtoany.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/themes/audioxide/library/js/libs/modernizr.custom.min.js'></script>
-<link rel='https://api.w.org/' href='https://old.audioxide.com/wp-json/' />
-<link rel='shortlink' href='https://old.audioxide.com/?p=5400' />
-<link rel="alternate" type="application/json+oembed" href="https://old.audioxide.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fold.audioxide.com%2Farticles%2Fbest-game-soundtracks-of-2017%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://old.audioxide.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fold.audioxide.com%2Farticles%2Fbest-game-soundtracks-of-2017%2F&#038;format=xml" />
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/plugins/google-analytics-dashboard-for-wp/assets/js/frontend.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/plugins/add-to-any/addtoany.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/js/libs/modernizr.custom.min.js'></script>
+<link rel='https://api.w.org/' href='https://audioxide.github.io/v1-archive/wp-json/' />
+<link rel='shortlink' href='https://audioxide.github.io/v1-archive/?p=5400' />
+<link rel="alternate" type="application/json+oembed" href="https://audioxide.github.io/v1-archive/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fold.audioxide.com%2Farticles%2Fbest-game-soundtracks-of-2017%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://audioxide.github.io/v1-archive/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fold.audioxide.com%2Farticles%2Fbest-game-soundtracks-of-2017%2F&#038;format=xml" />
 
 <script data-cfasync="false">
 window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_localize = {
@@ -216,7 +216,7 @@ a2a_config.onclick=1;
 
 
 <!-- This site is optimized with the Schema plugin v1.7.8.3 - https://schema.press -->
-<script type="application/ld+json">{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/articles\/best-game-soundtracks-of-2017\/"},"url":"https:\/\/old.audioxide.com\/articles\/best-game-soundtracks-of-2017\/","headline":"My Favourite Game Soundtracks of...","datePublished":"2017-12-04T12:00:07+00:00","dateModified":"2017-12-04T22:28:43+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2017\/12\/bwah.jpg","width":800,"height":414},"articleSection":"Articles","description":"ANDRE 04.12.02017 The video game industry is a bit shit, 2017 has all but confirmed that. Still, for all the controversies -- the microtransactions, the lootboxes, EA being EA -- the past year has actually been an absolute stormer for video game releases. As a responsible adult (honest), I find myself","author":{"@type":"Person","name":"Andre Dack","url":"https:\/\/old.audioxide.com\/author\/andre\/"}}</script>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/best-game-soundtracks-of-2017\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/best-game-soundtracks-of-2017\/","headline":"My Favourite Game Soundtracks of...","datePublished":"2017-12-04T12:00:07+00:00","dateModified":"2017-12-04T22:28:43+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2017\/12\/bwah.jpg","width":800,"height":414},"articleSection":"Articles","description":"ANDRE 04.12.02017 The video game industry is a bit shit, 2017 has all but confirmed that. Still, for all the controversies -- the microtransactions, the lootboxes, EA being EA -- the past year has actually been an absolute stormer for video game releases. As a responsible adult (honest), I find myself","author":{"@type":"Person","name":"Andre Dack","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/andre\/"}}</script>
 
 
 
@@ -237,9 +237,9 @@ a2a_config.onclick=1;
             "@type": "ListItem",
             "position": 2,
             "item": {
-                "@id": "https://old.audioxide.com/articles/best-game-soundtracks-of-2017/",
+                "@id": "https://audioxide.com/articles/best-game-soundtracks-of-2017/",
                 "name": "My Favourite Game Soundtracks of 2017",
-                "image": "https://old.audioxide.com/wp-content/uploads/2017/12/bwah.jpg"
+                "image": "https://audioxide.github.io/v1-archive/wp-content/uploads/2017/12/bwah.jpg"
             }
         }
     ]
@@ -267,7 +267,7 @@ Click the help icon above to learn more.
 	<body class="post-template-default single single-post postid-5400 single-format-standard" itemscope itemtype="http://schema.org/WebPage">
 <header role="banner" class="sticky" itemscope itemtype="http://schema.org/WPHeader">
 	<div class="wrap">
-		<p id="logo" class="h1 logo" itemscope itemtype="http://schema.org/Organization"><a href="https://old.audioxide.com" rel="nofollow"><img src="https://old.audioxide.com/wp-content/themes/audioxide/library/images/site-logo.svg" /></a></p>
+		<p id="logo" class="h1 logo" itemscope itemtype="http://schema.org/Organization"><a href="https://audioxide.github.io/v1-archive" rel="nofollow"><img src="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/images/site-logo.svg" /></a></p>
 		<div class="social-media">
 			<a href="https://www.facebook.com/Audioxide/"><i class="fa fa-facebook-square"></i></a>
 			<a href="https://twitter.com/audioxidecom"><i class="fa fa-twitter-square"></i></a>
@@ -281,16 +281,16 @@ Click the help icon above to learn more.
 </header>
 <div id="coverartbanner" class="container coverart">
     <div class="wrapper">
-		<a href="https://old.audioxide.com/reviews/nothing-the-great-dismal/"><img src="https://old.audioxide.com/wp-content/uploads/2020/11/the-great-dismal-nothing-500x500.jpg" alt="Album cover for Nothing - The Great Dismal" /></a>
-<a href="https://old.audioxide.com/reviews/clipping-visions-of-bodies-being-burned/"><img src="https://old.audioxide.com/wp-content/uploads/2020/11/visions-of-bodies-being-burned-clipping-500x500.jpg" alt="Album cover for clipping. - Visions of Bodies Being Burned" /></a>
-<a href="https://old.audioxide.com/reviews/doves-the-universal-want/"><img src="https://old.audioxide.com/wp-content/uploads/2020/09/the-universal-want-doves-500x500.jpg" alt="Album cover for Doves - The Universal Want" /></a>
-<a href="https://old.audioxide.com/reviews/all-them-witches-nothing-as-the-ideal/"><img src="https://old.audioxide.com/wp-content/uploads/2020/09/nothing-as-the-ideal-all-them-witches-500x500.jpg" alt="Album cover for All Them Witches - Nothing as the Ideal" /></a>
-<a href="https://old.audioxide.com/reviews/kelly-lee-owens-inner-song/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/inner-song-kelly-lee-owens-500x500.jpg" alt="Album cover for Kelly Lee Owens - Inner Song" /></a>
-<a href="https://old.audioxide.com/reviews/nas-kings-disease/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/kings-disease-nas-500x500.jpg" alt="Album cover for Nas - King's Disease" /></a>
-<a href="https://old.audioxide.com/reviews/dead-kennedys-fresh-fruit-for-rotting-vegetables/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/fresh-fruit-for-rotting-vegetables-dead-kennedys-500x500.jpg" alt="Album cover for Dead Kennedys - Fresh Fruit for Rotting Vegetables" /></a>
-<a href="https://old.audioxide.com/reviews/glass-animals-dreamland/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/dreamland-glass-animals-500x500.jpg" alt="Album cover for Glass Animals - Dreamland" /></a>
-<a href="https://old.audioxide.com/reviews/neil-young-after-the-gold-rush/"><img src="https://old.audioxide.com/wp-content/uploads/2020/07/after-the-gold-rush-neil-young-500x500.jpg" alt="Album cover for Neil Young - After the Gold Rush" /></a>
-<a href="https://old.audioxide.com/reviews/lianne-la-havas-lianne-la-havas/"><img src="https://old.audioxide.com/wp-content/uploads/2020/07/lianne-la-havas-lianne-la-havas-500x500.jpg" alt="Album cover for Lianne La Havas - Lianne La Havas" /></a>
+		<a href="https://audioxide.github.io/v1-archive/reviews/nothing-the-great-dismal/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/11/the-great-dismal-nothing-500x500.jpg" alt="Album cover for Nothing - The Great Dismal" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/clipping-visions-of-bodies-being-burned/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/11/visions-of-bodies-being-burned-clipping-500x500.jpg" alt="Album cover for clipping. - Visions of Bodies Being Burned" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/doves-the-universal-want/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/09/the-universal-want-doves-500x500.jpg" alt="Album cover for Doves - The Universal Want" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/all-them-witches-nothing-as-the-ideal/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/09/nothing-as-the-ideal-all-them-witches-500x500.jpg" alt="Album cover for All Them Witches - Nothing as the Ideal" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/kelly-lee-owens-inner-song/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/inner-song-kelly-lee-owens-500x500.jpg" alt="Album cover for Kelly Lee Owens - Inner Song" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/nas-kings-disease/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/kings-disease-nas-500x500.jpg" alt="Album cover for Nas - King's Disease" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/dead-kennedys-fresh-fruit-for-rotting-vegetables/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/fresh-fruit-for-rotting-vegetables-dead-kennedys-500x500.jpg" alt="Album cover for Dead Kennedys - Fresh Fruit for Rotting Vegetables" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/glass-animals-dreamland/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/dreamland-glass-animals-500x500.jpg" alt="Album cover for Glass Animals - Dreamland" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/neil-young-after-the-gold-rush/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/07/after-the-gold-rush-neil-young-500x500.jpg" alt="Album cover for Neil Young - After the Gold Rush" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/lianne-la-havas-lianne-la-havas/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/07/lianne-la-havas-lianne-la-havas-500x500.jpg" alt="Album cover for Lianne La Havas - Lianne La Havas" /></a>
     </div>
 </div>
 	<main id="main" role="main" itemscope itemprop="mainContentOfPage" itemtype="http://schema.org/Blog">
@@ -320,7 +320,7 @@ Sonic Mania</em> was one of the most wonderful success stories of 2017, and boy 
 <p>I enjoyed <em>Sonic Mania</em> a fair amount, though I haven’t gone back to it much since. However, I do find myself returning to the soundtrack fairly frequently. Composer Tee Lopes is a <em>Sonic the Hedgehog</em> fan who posted remixes of classic Sonic tunes <a href="https://www.youtube.com/watch?v=2Vp5aMPAUYQ" target="_blank" rel="noopener">way back in 2009</a>. As fate would have it, Lopes would be writing the original music for an official Sonic game less than 10 years later. That&#8217;s the beauty of the internet for you.</p>
 <p>The <em>Sonic Mania</em> soundtrack is an utter joy to listen to for one reason alone: it feels like a sincere and jubilant celebration of the franchise. Lopes’ reimaginings of the classics tunes thrive on subtle musical changes, and rightly so. It would be foolish to mess with tradition after all. <a href="https://www.youtube.com/watch?v=f3GrPvyC_3g" target="_blank" rel="noopener">“Chemical Plant Zone, Act 1”</a> is one of the finest examples of Lopes touching up an old classic for the modern era. Essentially, it plays out exactly like your memory’s depiction of <a href="https://www.youtube.com/watch?v=-LYB7iLZNWE" target="_blank" rel="noopener">Chemical Plant Zone</a> from <em>Sonic the Hedgehog 2</em>, way back in 1992. <a href="https://www.youtube.com/watch?v=b8yJXvoGcIc" target="_blank" rel="noopener">“Flying Battery Zone, Act 1”</a> is much the same, and stands as one of my firm favourites. Small touches can go a long way.</p>
 <p>&nbsp;</p>
-<div id="attachment_5805" style="width: 610px" class="wp-caption aligncenter"><img class="wp-image-5805" src="https://audioxide.com/wp-content/uploads/2017/12/Sonic-Mania.png" alt="" width="600" height="340" srcset="https://old.audioxide.com/wp-content/uploads/2017/12/Sonic-Mania.png 848w, https://old.audioxide.com/wp-content/uploads/2017/12/Sonic-Mania-300x170.png 300w, https://old.audioxide.com/wp-content/uploads/2017/12/Sonic-Mania-768x435.png 768w" sizes="(max-width: 600px) 100vw, 600px" /><p class="wp-caption-text">Gotta go fast</p></div>
+<div id="attachment_5805" style="width: 610px" class="wp-caption aligncenter"><img class="wp-image-5805" src="https://audioxide.com/wp-content/uploads/2017/12/Sonic-Mania.png" alt="" width="600" height="340" srcset="https://audioxide.github.io/v1-archive/wp-content/uploads/2017/12/Sonic-Mania.png 848w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/12/Sonic-Mania-300x170.png 300w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/12/Sonic-Mania-768x435.png 768w" sizes="(max-width: 600px) 100vw, 600px" /><p class="wp-caption-text">Gotta go fast</p></div>
 <p>&nbsp;</p>
 <p>The sense of nostalgia is enormously strong, though Lopes doesn’t solely depend on it. Significantly, the 2<sup>nd</sup> Act of certain stages gives Lopes freedom to introduce new musical ideas, specifically for those taken from <em>Sonic the Hedgehog 2</em>. <a href="https://www.youtube.com/watch?v=x25ZmpGCa0I" target="_blank" rel="noopener">“Chemical Plant Zone, Act 2”</a> is one such example, though I’m more drawn to the wonderful tones of <a href="https://www.youtube.com/watch?v=jR9K2tPq0SU" target="_blank" rel="noopener">“Oil Ocean Zone, Act 2”</a>. The differences in melody are slight, but the groove submits itself to a four-to-the-floor beat, scattered with snare variations and produced with a sublime sheen. Throughout the soundtrack, Lopes embraces the potentials of modern production technology, and why not? He achieves the optimum balance of homage and originality.</p>
 <p>I couldn’t possibly discuss <em>Sonic Mania</em> without mentioning Studiopolis Zone. This was the stage presented to SEGA to showcase the developers’ abilities, and it acts as the first entirely new level in the game. This is where Lopes’ true creativity comes to fruition, as he was required to write a completely original score. <a href="https://www.youtube.com/watch?v=NGR5fTO2oio" target="_blank" rel="noopener">“Studiopolis Zone, Act 1”</a> is simply marvelous, and its unveiling back in 2016 stands as one of the pivotal moments in the game&#8217;s development. Fans were excited, and not just because of nostalgia: this was a brand new tune, to a brand new level. Lopes didn’t disappoint with his other original works either, with <a href="https://www.youtube.com/watch?v=xygbdeir7A8" target="_blank" rel="noopener">“Press Garden Zone, Act 1”</a> being a personal highlight.</p>
@@ -337,7 +337,7 @@ Mario. Rabbids. Who knew they belonged together? Judging by the sour reaction to
 <p><em>Kingdom Battle</em>’s soundtrack is a perfect fit. Kirkhope’s style of composition is very much a nod to the style of classic film composers like John Williams. His work has that aura of Disney magic: anthemic themes propelled by beautiful string arrangements, and quirky musical tangents that evoke humour and innocence. It’s tried and tested, but it works. One of Kirkhope’s finest attributes is his ability to write music to suit a wide range of locations and scenarios, and I imagine this was a key factor for those who employed him for the <em>Kingdom Battle</em> soundtrack.</p>
 <p>Indeed, nothing about Kirkhope’s work here is subtle. When Mario and his team enter the desert World, <a href="https://www.youtube.com/watch?v=6SKd4atJYHg" target="_blank" rel="noopener">melodies take on an Arabic twist</a>. When that desert freezes up, <a href="https://www.youtube.com/watch?v=KKJeVBuyPEU" target="_blank" rel="noopener">the arrangement becomes dainty and light</a>, with icy chimes playing gently along to the steady rhythm of sleigh bells. Once the string section gets going, it practically sounds like the <em>Home Alone</em> soundtrack. <a href="https://www.youtube.com/watch?v=9eSqcPshjL8" target="_blank" rel="noopener">The third World</a> is inhabited by Boos and other spooky stuff, so of course the melodies are ominous, the texture turns sparse, and the strings divert to devilish trills rather than overblown arrangements. It’s worth nothing that Kirkhope has done this all before with <em>Banjo Kazooie</em> back in 1998, but this is no lazy rehash. Kirkhope knows his strengths and uses them to his advantage, as any good composer does.</p>
 <p>&nbsp;</p>
-<div id="attachment_5801" style="width: 610px" class="wp-caption aligncenter"><img class="wp-image-5801" src="https://audioxide.com/wp-content/uploads/2017/12/MarioRabbids.jpg" alt="" width="600" height="337" srcset="https://old.audioxide.com/wp-content/uploads/2017/12/MarioRabbids.jpg 758w, https://old.audioxide.com/wp-content/uploads/2017/12/MarioRabbids-300x169.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /><p class="wp-caption-text">Boy this game is gorgeous</p></div>
+<div id="attachment_5801" style="width: 610px" class="wp-caption aligncenter"><img class="wp-image-5801" src="https://audioxide.com/wp-content/uploads/2017/12/MarioRabbids.jpg" alt="" width="600" height="337" srcset="https://audioxide.github.io/v1-archive/wp-content/uploads/2017/12/MarioRabbids.jpg 758w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/12/MarioRabbids-300x169.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /><p class="wp-caption-text">Boy this game is gorgeous</p></div>
 <p>&nbsp;</p>
 <p>Kirkhope, along with his good friend <a href="https://www.youtube.com/watch?v=Vdd4rBlsj2o" target="_blank" rel="noopener">Robin Beanland</a>, is known for his sense of humour, which usually finds a way to filter down into his music. <a href="https://www.youtube.com/watch?v=npuuTBlEb1U" target="_blank" rel="noopener">The DK Rap</a> is proof that if you give these guys an inch, they will push the absurdity to its every limit. This is emphasized once again in <em>Kingdom Battle</em> with <a href="https://www.youtube.com/watch?v=sWv4afWknfM" target="_blank" rel="noopener">“The Phantom of Bwahpera”</a>, where an opera-singing ghost slings insults at Mario about his “plumb-shaped body type”, referencing <em>Donkey Kong</em> and spiny shells along the way. It’s completely ridiculous in the best way possible. Whilst we endure the games industry at its cynical peak, this is a delightful reminder that video games are, first and foremost, designed to be a fun experience, outside of a few exceptions.</p>
 <p>It’s worth pointing out that Kirkhope is as big a Nintendo fan as anyone, which is immediately apparent when listening to the soundtrack. With the prospect of writing music to a Mario game,<a href="https://www.youtube.com/watch?v=VoRwrNN6cpU" target="_blank" rel="noopener"> Kirkhope was as anxious as he was excited</a>: “how the hell am I going to write music to Mario?”. Koji Kondo, in Kirkhope’s words, is the “greatest video game composer ever”, and though he was nervous at first, Kirkhope unsurprisingly flourished. <a href="https://www.youtube.com/watch?v=4uic0Iclfik" target="_blank" rel="noopener">When listening to his re-work of “Peach’s Castle” from <em>Super Mario 64</em></a>, you begin to realise that this is a soundtrack made out of love more than anything else. That passion for Nintendo translates through to every note, and it’s truly glorious.</p>
@@ -353,7 +353,7 @@ The Legend of Zelda: Breath of the Wild</em> is one of the greatest games I’ve
 <p><em>Breath of the Wild</em> is a special adventure &#8212; one that is unique to everyone. Linear paths are absent, as players are instead given complete freedom to explore the vast map at their own pace. Experiences differ in each person&#8217;s playthrough &#8212; not drastically by any means, but enough to offer players the illusion of something that is exclusive to them. <em>BotW</em> is at its best when you ignore the quest completely, and instead meander across the nooks and crannies of Hyrule. This is where the soundtrack absolutely thrives. Chief composer Manaka Kataoka takes clear inspiration from ambient pioneers such as Brian Eno, opting for minimalistic arrangements and subtle refrains.</p>
 <p>Eno’s ambient work was designed to be “as ignorable as it is interesting”, and the majority of <em>BotW</em>’s soundtrack could be described in a similar way, much to the dismay of a portion of Zelda purists. <a href="https://www.youtube.com/watch?v=xGi23M_5lXg" target="_blank" rel="noopener">“Field (Day)”</a> is comprised of an almost identical sonic makeup to <a href="https://youtu.be/vNwYtllyt3Q" target="_blank" rel="noopener">“1/1”</a>, the opening number on <a href="https://audioxide.com/reviews/brian-eno-ambient-1-music-for-airports/" target="_blank" rel="noopener"><em>Music for Airports</em></a>, and it finds an equal amount of success. When wandering the seemingly infinite greens of Hyrule, players are encouraged to explore at their own leisure by the soft, intermittent piano tones. There’s no sense of urgency, and it falls right into Eno’s description of his own ambient music, to “induce calm and a space to think”. It’s the antithesis of <em>Ocarina of Time</em>’s <a href="https://www.youtube.com/watch?v=zO8Y7hdD6Qk" target="_blank" rel="noopener">“Hyrule Field”</a> and <em>Wind Waker</em>’s <a href="https://www.youtube.com/watch?v=VG6fWatK_k0" target="_blank" rel="noopener">“Great Sea”</a>, but it’s just as effective in its own way. I think it’s a masterstroke from Nintendo’s team of composers and sound designers. This brand of soundtrack isn’t anything revolutionary for video games &#8212; C418 found similar success on his <a href="https://www.youtube.com/watch?v=m0apGY2GmFU" target="_blank" rel="noopener"><em>Minecraft</em></a> works &#8212; but it’s still a brave modification in a series that was previously renowned for relying on tradition and tropes.</p>
 <p>&nbsp;</p>
-<div id="attachment_5909" style="width: 610px" class="wp-caption aligncenter"><img class="wp-image-5909" src="https://audioxide.com/wp-content/uploads/2017/12/bullseye.jpg" alt="" width="600" height="338" srcset="https://old.audioxide.com/wp-content/uploads/2017/12/bullseye.jpg 1280w, https://old.audioxide.com/wp-content/uploads/2017/12/bullseye-300x169.jpg 300w, https://old.audioxide.com/wp-content/uploads/2017/12/bullseye-768x432.jpg 768w, https://old.audioxide.com/wp-content/uploads/2017/12/bullseye-1024x576.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px" /><p class="wp-caption-text">Bullseye</p></div>
+<div id="attachment_5909" style="width: 610px" class="wp-caption aligncenter"><img class="wp-image-5909" src="https://audioxide.com/wp-content/uploads/2017/12/bullseye.jpg" alt="" width="600" height="338" srcset="https://audioxide.github.io/v1-archive/wp-content/uploads/2017/12/bullseye.jpg 1280w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/12/bullseye-300x169.jpg 300w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/12/bullseye-768x432.jpg 768w, https://audioxide.github.io/v1-archive/wp-content/uploads/2017/12/bullseye-1024x576.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px" /><p class="wp-caption-text">Bullseye</p></div>
 <p>&nbsp;</p>
 <p>That said, Kataoka and company still serve up their fair share of fanfare. <a href="https://www.youtube.com/watch?v=U1pI_5Y6HKU" target="_blank" rel="noopener">“Rito Village (Day)”</a> is joyous in its gorgeous throwback to <em>Wind Waker</em>’s <a href="https://www.youtube.com/watch?v=SXGGvsHq6iA" target="_blank" rel="noopener">“Dragon Roost Island”</a>, whilst it’s <a href="https://www.youtube.com/watch?v=EUbS2LLmdX8" target="_blank" rel="noopener">nighttime variant</a> is very similar to the music of <em>Animal Crossing</em> (which comes as no surprise given <a href="https://www.youtube.com/watch?v=ch5BqDrqqo4" target="_blank" rel="noopener">Kataoka’s involvement in the series</a>). Meanwhile, <a href="https://www.youtube.com/watch?v=2aWHkYWslcw" target="_blank" rel="noopener">“Hyrule Castle”</a> sneaks in multiple references to classic Zelda themes. Some are obvious, but others are more obscure, such as <em>Link’s Awakening</em>’s <a href="https://www.youtube.com/watch?v=8qAkjemBf3M" target="_blank" rel="noopener">“Ballad of a Wind Fish”</a>. However, whilst <a href="https://www.youtube.com/watch?v=YKakZMQAZm0" target="_blank" rel="noopener">“Zora’s Domain”</a> is another piece that recalls its fabled theme, the likes of <a href="https://www.youtube.com/watch?v=3Sjiz4DHMgw" target="_blank" rel="noopener">“Kakariko Village”</a> and <a href="https://www.youtube.com/watch?v=oad-1DT5z9I" target="_blank" rel="noopener">“Gerudo Valley”</a> are comprised of completely new arrangements and themes. Every now and then you can hear a tinge of familiarity &#8212; I’m sure there are elements of <em>Ocarina of Time</em>’s <a href="https://www.youtube.com/watch?v=cEWOeiUmFgA" target="_blank" rel="noopener">“Spirit Temple”</a> somewhere in “Gerudo Valley” &#8212; but otherwise these are entirely original musical passages. I’ve seen people brand <em>BotW</em>’s soundtrack as unadventurous and cautious, but given the fact that Kataoka has composed entirely new themes for old and beloved environments, I can’t say I agree with that notion whatsoever.</p>
 <p>For a company that is often criticized for relying on the past to the point of stagnation, Nintendo have done wonders with the latest installment in the Zelda series. <em>Breath of the Wild</em> is a reinvention of the franchise, and a truly brilliant one at that. I&#8217;ll be the first to admit that Kataoka’s soundtrack is certainly one of the most forgettable in the entire series, however, it could well be the most effective. When necessary, <a href="https://www.youtube.com/watch?v=WdGJBRxuIlc" target="_blank" rel="noopener">the music can still soar</a>, showing glimpses of that classic Zelda magic. Yet the music of <em>Breath of the Wild</em> is at its very best when hardly anything is happening at all, allowing players to form their own adventure at a rate that suits them. It’s an essential part of what is, in my opinion, one of the biggest and best achievements in video game history.</p>
@@ -367,16 +367,16 @@ The Legend of Zelda: Breath of the Wild</em> is one of the greatest games I’ve
 
                                     <h4>Related Posts</h4>
                   <ul class="related-posts">
-                    <li><a href="https://old.audioxide.com/reviews/nothing-the-great-dismal/">
+                    <li><a href="https://audioxide.github.io/v1-archive/reviews/nothing-the-great-dismal/">
                         <h5>Reviews:<span class='oneline'>Review: The Great Dismal // Nothing</span></h5>                        </a>
-                      </li><li><a href="https://old.audioxide.com/reviews/clipping-visions-of-bodies-being-burned/">
+                      </li><li><a href="https://audioxide.github.io/v1-archive/reviews/clipping-visions-of-bodies-being-burned/">
                         <h5>Reviews:<span class='oneline'>Review: Visions of Bodies Being Burned // clipping.</span></h5>                        </a>
-                      </li><li><a href="https://old.audioxide.com/reviews/doves-the-universal-want/">
+                      </li><li><a href="https://audioxide.github.io/v1-archive/reviews/doves-the-universal-want/">
                         <h5>Reviews:<span class='oneline'>Review: The Universal Want // Doves</span></h5>                        </a>
-                      </li><li><a href="https://old.audioxide.com/reviews/all-them-witches-nothing-as-the-ideal/">
+                      </li><li><a href="https://audioxide.github.io/v1-archive/reviews/all-them-witches-nothing-as-the-ideal/">
                         <h5>Reviews:<span class='oneline'>Review: Nothing as the Ideal // All Them Witches</span></h5>                        </a>
                       </li>                    </ul>
-                    <p class="readmore"><a href="https://old.audioxide.com/articles">Read more articles...</a></p>
+                    <p class="readmore"><a href="https://audioxide.github.io/v1-archive/articles">Read more articles...</a></p>
                   
                 </footer> 
                 
@@ -420,11 +420,11 @@ The Legend of Zelda: Breath of the Wild</em> is one of the greatest games I’ve
 var mctb = {"cookieLength":"365","icons":{"hide":"&#x25BC;","show":"&#x25B2;"},"position":"bottom","state":{"submitted":false,"success":false}};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/plugins/mailchimp-top-bar/assets/js/script.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-includes/js/comment-reply.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/themes/audioxide/library/js/libs/jquery.quickfit.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/themes/audioxide/library/js/scripts.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/plugins/mailchimp-top-bar/assets/js/script.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-includes/js/comment-reply.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/js/libs/jquery.quickfit.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/js/scripts.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-includes/js/wp-embed.min.js'></script>
 
 	</body>
 

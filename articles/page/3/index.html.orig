@@ -16,35 +16,35 @@
 		<meta name="MobileOptimized" content="320">
 		<meta name="viewport" content="width=device-width, initial-scale=1"/>
 
-				<link rel="apple-touch-icon" href="https://old.audioxide.com/wp-content/themes/audioxide/library/images/apple-touch-icon.png">
-		<link rel="icon" href="https://old.audioxide.com/wp-content/themes/audioxide/favicon.png">
+				<link rel="apple-touch-icon" href="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/images/apple-touch-icon.png">
+		<link rel="icon" href="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/favicon.png">
 		<!--[if IE]>
-			<link rel="shortcut icon" href="https://old.audioxide.com/wp-content/themes/audioxide/favicon.ico">
+			<link rel="shortcut icon" href="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/favicon.ico">
 		<![endif]-->
 				<meta name="msapplication-TileColor" content="#f01d4f">
-		<meta name="msapplication-TileImage" content="https://old.audioxide.com/wp-content/themes/audioxide/library/images/win8-tile-icon.png">
+		<meta name="msapplication-TileImage" content="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/images/win8-tile-icon.png">
             <meta name="theme-color" content="#121212">
 
                         <meta property="og:title" content="Articles" />
                 <meta property="fb:app_id" content="950609285023482" />
-        <meta property="og:url" content="https://old.audioxide.com/articles/page/3/" />
+        <meta property="og:url" content="https://audioxide.com/articles/page/3/" />
         <meta property="og:site_name" content="Audioxide" />
-        <meta property="og:image" content="https://old.audioxide.com/wp-content/themes/audioxide/library/images/sharer-logo.png" />
+        <meta property="og:image" content="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/images/sharer-logo.png" />
                 
-		<link rel="pingback" href="https://old.audioxide.com/xmlrpc.php">
+		<link rel="pingback" href="https://audioxide.github.io/v1-archive/xmlrpc.php">
 
 				
 <!-- All In One SEO Pack 3.7.1[440,478] -->
 <meta name="robots" content="noindex,follow" />
-<link rel="prev" href="https://old.audioxide.com/articles/page/2/" />
-<link rel="next" href="https://old.audioxide.com/articles/page/4/" />
+<link rel="prev" href="https://audioxide.github.io/v1-archive/articles/page/2/" />
+<link rel="next" href="https://audioxide.github.io/v1-archive/articles/page/4/" />
 
-<link rel="canonical" href="https://old.audioxide.com/./articles/page/3/" />
+<link rel="canonical" href="https://audioxide.com/./articles/page/3/" />
 <!-- All In One SEO Pack -->
 <link rel='dns-prefetch' href='//s.w.org' />
-<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Feed" href="https://old.audioxide.com/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Comments Feed" href="https://old.audioxide.com/comments/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Articles Category Feed" href="https://old.audioxide.com/./articles/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Feed" href="https://audioxide.github.io/v1-archive/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Comments Feed" href="https://audioxide.github.io/v1-archive/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Articles Category Feed" href="https://audioxide.github.io/v1-archive/./articles/feed/" />
 <!-- This site uses the Google Analytics by ExactMetrics plugin v6.2.2 - Using Analytics tracking - https://www.exactmetrics.com/ -->
 <script type="text/javascript" data-cfasync="false">
 	var em_version         = '6.2.2';
@@ -132,7 +132,7 @@ window.ga = __gaTracker;		__gaTracker('create', 'UA-71965408-1', 'auto');
 </script>
 <!-- / Google Analytics by ExactMetrics -->
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/old.audioxide.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-includes\/js\/wp-emoji-release.min.js"}};
 			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])?!1:!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55358,56760,9792,65039],[55358,56760,8203,9792,65039])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script>
 		<style type="text/css">
@@ -149,25 +149,25 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel='stylesheet' id='mc4wp-form-themes-css'  href='https://old.audioxide.com/wp-content/plugins/mailchimp-for-wp/assets/css/form-themes.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='mailchimp-top-bar-css'  href='https://old.audioxide.com/wp-content/plugins/mailchimp-top-bar/assets/css/bar.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='addtoany-css'  href='https://old.audioxide.com/wp-content/plugins/add-to-any/addtoany.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='editor-style-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/editor-style.css' type='text/css' media='all' />
-<link rel='stylesheet' id='admin-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/admin.css' type='text/css' media='all' />
-<link rel='stylesheet' id='ie-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/ie.css' type='text/css' media='all' />
-<link rel='stylesheet' id='style-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/style.css' type='text/css' media='all' />
-<link rel='stylesheet' id='login-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/login.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mc4wp-form-themes-css'  href='https://audioxide.github.io/v1-archive/wp-content/plugins/mailchimp-for-wp/assets/css/form-themes.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mailchimp-top-bar-css'  href='https://audioxide.github.io/v1-archive/wp-content/plugins/mailchimp-top-bar/assets/css/bar.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='addtoany-css'  href='https://audioxide.github.io/v1-archive/wp-content/plugins/add-to-any/addtoany.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='editor-style-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/editor-style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/admin.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ie-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/ie.css' type='text/css' media='all' />
+<link rel='stylesheet' id='style-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='login-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/login.css' type='text/css' media='all' />
 <script type='text/javascript'>
 /* <![CDATA[ */
-var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"zip,mp3,mpeg,pdf,docx,pptx,xlsx,rar","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/old.audioxide.com","hash_tracking":"false"};
+var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"zip,mp3,mpeg,pdf,docx,pptx,xlsx,rar","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json","hash_tracking":"false"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/plugins/google-analytics-dashboard-for-wp/assets/js/frontend.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-includes/js/jquery/jquery.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-includes/js/jquery/jquery-migrate.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/plugins/add-to-any/addtoany.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/themes/audioxide/library/js/libs/modernizr.custom.min.js'></script>
-<link rel='https://api.w.org/' href='https://old.audioxide.com/wp-json/' />
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/plugins/google-analytics-dashboard-for-wp/assets/js/frontend.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/plugins/add-to-any/addtoany.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/js/libs/modernizr.custom.min.js'></script>
+<link rel='https://api.w.org/' href='https://audioxide.github.io/v1-archive/wp-json/' />
 
 <script data-cfasync="false">
 window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_localize = {
@@ -199,7 +199,7 @@ a2a_config.onclick=1;
 
 
 <!-- This site is optimized with the Schema plugin v1.7.8.3 - https://schema.press -->
-<script type="application/ld+json">{"@context":"http:\/\/schema.org\/","@type":"CollectionPage","headline":"Articles Category","description":"","url":"https:\/\/old.audioxide.com\/.\/articles\/","sameAs":[],"hasPart":[{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/articles\/elliott-smith-behind-the-lyrics\/"},"url":"https:\/\/old.audioxide.com\/articles\/elliott-smith-behind-the-lyrics\/","headline":"Elliott Smith: Behind the...","datePublished":"2017-08-14T18:00:23+00:00","dateModified":"2017-11-30T19:12:01+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2017\/08\/Elliott_Smith2.jpg","width":696,"height":545},"articleSection":"Articles","description":"Rüya 14.08.02017 Channeling the sounds of Bob Dylan, Simon &amp; Garfunkel, and more, Elliott Smith's words still cut deep. His lyrics unravel the darker elements of our existence, and are as precious now as they've ever been. &nbsp; &nbsp; Chances are, if you listen to Elliott Smith when you","author":{"@type":"Person","name":"Rüya Yönak","url":"https:\/\/old.audioxide.com\/author\/ruya\/","sameAs":["https:\/\/www.ymagination.co.uk\/"]}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/articles\/world-on-fire-the-music-of-fallout-3\/"},"url":"https:\/\/old.audioxide.com\/articles\/world-on-fire-the-music-of-fallout-3\/","headline":"World On Fire: the Music of Fallout...","datePublished":"2017-08-11T15:00:33+00:00","dateModified":"2018-03-13T22:18:21+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2017\/08\/vault-boy-shadow.jpg","width":1256,"height":1116},"articleSection":"Articles","description":"Fred 11.08.02017 This is part of a series of articles in which we reflect on video game soundtracks. The pieces examine the musical content of the score and analyse the effects it has on the game. Fallout 3 is a unique beast, something taken for granted sometimes. Generally -- though not quite","author":{"@type":"Person","name":"Fred O'Brien","url":"https:\/\/old.audioxide.com\/author\/fred\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/articles\/the-rise-and-rise-of-audiobooks\/"},"url":"https:\/\/old.audioxide.com\/articles\/the-rise-and-rise-of-audiobooks\/","headline":"The Rise and Rise of...","datePublished":"2017-06-14T16:00:41+00:00","dateModified":"2018-02-08T21:03:31+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2017\/06\/audiobooks-green.jpg","width":1950,"height":1113},"articleSection":"Articles","description":"FRED 14.06.02017 Answering a demand we barely notice is there, the growth of audiobooks seems unstoppable. They are filling the silences that litter our days, redeeming commutes, menial work, and empty evenings.  &nbsp; &nbsp; Last week, the Audio Publishers Association (APA) released the 2016 sales figures for audiobooks, and things","author":{"@type":"Person","name":"Fred O'Brien","url":"https:\/\/old.audioxide.com\/author\/fred\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/articles\/keep-playing-the-fire-at-the-heart-of-whiplash\/"},"url":"https:\/\/old.audioxide.com\/articles\/keep-playing-the-fire-at-the-heart-of-whiplash\/","headline":"Keep Playing: the Fire at the Heart of...","datePublished":"2017-06-09T18:00:03+00:00","dateModified":"2018-05-23T23:37:02+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2017\/05\/wl5.jpg","width":2012,"height":1166},"articleSection":"Articles","description":"FRED 09.06.02017 Monster or not, Terence Fletcher gets into our heads because we recognise him in ourselves and understand his value. In the world of Whiplash, the forgotten are those cowed by failure. &nbsp; &nbsp; Whiplash hit -- and shot -- plenty of nerves when it was released in 2014. It","author":{"@type":"Person","name":"Fred O'Brien","url":"https:\/\/old.audioxide.com\/author\/fred\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/articles\/ranking-radioheads-discography\/"},"url":"https:\/\/old.audioxide.com\/articles\/ranking-radioheads-discography\/","headline":"2 + 2 = 9: Radiohead's Studio Albums...","datePublished":"2017-06-02T18:00:13+00:00","dateModified":"2020-07-20T10:17:53+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2017\/06\/Band-Picture-2.jpg","width":770,"height":720},"articleSection":"Articles","description":"05.06.02017 This may surprise you, but here at Audioxide we quite like Radiohead. For each of us, the band played a significant role in our music development - a circumstance that is not so much coincidental as it is common among a certain demographic. Indeed, Radiohead are not just a","author":{"@type":"Person","name":"admin","url":"https:\/\/old.audioxide.com\/author\/admin\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/articles\/gorillaz-go-1-d\/"},"url":"https:\/\/old.audioxide.com\/articles\/gorillaz-go-1-d\/","headline":"Gorillaz Go...","datePublished":"2017-05-12T09:37:19+00:00","dateModified":"2018-02-08T21:04:51+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2017\/05\/2d4.jpg","width":1119,"height":1149},"articleSection":"Articles","description":"FRED 12.05.02017 &nbsp; &nbsp; When is a virtual band over? That's been the question on my mind since listening to Humanz, an album that confirmed fears which had been lurking since Plastic Beach. Gorillaz don’t seem to be a thing anymore. Albums have their name on them, the gang get wheeled out for interviews, but I","author":{"@type":"Person","name":"Fred O'Brien","url":"https:\/\/old.audioxide.com\/author\/fred\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/articles\/little-dragon-settle-for-competence-on-season-high\/"},"url":"https:\/\/old.audioxide.com\/articles\/little-dragon-settle-for-competence-on-season-high\/","headline":"Little Dragon settle for competence on 'Season...","datePublished":"2017-04-15T14:49:00+00:00","dateModified":"2018-02-08T21:05:08+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2017\/04\/Cover-1.jpg","width":696,"height":500},"articleSection":"Articles","description":"ANDRÉ 15.04.02017 &nbsp; &nbsp; You know what you’re getting with a new Little Dragon album: mid-tempo R&amp;B with a heavy ‘80s influence and a dash of modern dance. If nothing else, the Swedish group know how to strike a groove, and they have found success in the formula for","author":{"@type":"Person","name":"Andre Dack","url":"https:\/\/old.audioxide.com\/author\/andre\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/articles\/goldfrapp-find-familiarity-in-space\/"},"url":"https:\/\/old.audioxide.com\/articles\/goldfrapp-find-familiarity-in-space\/","headline":"Goldfrapp find familiarity in...","datePublished":"2017-04-03T17:02:49+00:00","dateModified":"2017-05-09T15:15:25+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2017\/04\/silver-eye.jpg","width":3000,"height":3000},"articleSection":"Articles","description":"ANDREW 03.04.02017 &nbsp; &nbsp; Since their debut at the turn of the millennium, Goldfrapp haven't been afraid to toy with the components that characterise their music. Be it the cinematic, eerie quirk of the debut with tracks like \"Lovely Head\" and \"Oompah Radar\", the thumping, rasping electronica of the two","author":{"@type":"Person","name":"Andrew Bridge","url":"https:\/\/old.audioxide.com\/author\/andrew\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/articles\/top-10-albums-of-2016\/"},"url":"https:\/\/old.audioxide.com\/articles\/top-10-albums-of-2016\/","headline":"Our 10 Favourite Albums of...","datePublished":"2016-12-23T18:10:47+00:00","dateModified":"2020-03-13T14:17:08+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2016\/12\/radiohead-daydreaming-music-video-paul-thomas-anderson-new-album-sunday.png","width":1000,"height":667},"articleSection":"Articles","description":"28.12.02019 &nbsp; 10. THE LIFE OF PABLO \/\/ Kanye West ANDREW When we reviewed Kanye West’s latest discography entry, The Life of Pablo, the media circus surrounding him and the new release gave me a negative bias: I wanted to hate it. Despite everything though, the album has become one of the","author":{"@type":"Person","name":"admin","url":"https:\/\/old.audioxide.com\/author\/admin\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/articles\/our-10-favourite-tracks-of-2016\/"},"url":"https:\/\/old.audioxide.com\/articles\/our-10-favourite-tracks-of-2016\/","headline":"Our 10 Favourite Tracks of...","datePublished":"2016-12-21T18:00:59+00:00","dateModified":"2020-03-14T21:31:09+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2016\/12\/936577_1161949077157117_3860388320371404515_n.png","width":696,"height":353},"articleSection":"Articles","description":"21.12.02016 10. \"Pripyat\" \/\/ Mogwai ANDRÉ Much of Mogwai’s latest record\/soundtrack is exceedingly beautiful, at times bordering on the realms of tranquility. \"Pripyat\", with its ever-evolving drones and boisterous crescendos, is the terrifying exception. Named after the abandoned town in Ukraine that was subject to a tragic nuclear disaster 30","author":{"@type":"Person","name":"admin","url":"https:\/\/old.audioxide.com\/author\/admin\/"}}]}</script>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org\/","@type":"CollectionPage","headline":"Articles Category","description":"","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/.\/articles\/","sameAs":[],"hasPart":[{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/elliott-smith-behind-the-lyrics\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/elliott-smith-behind-the-lyrics\/","headline":"Elliott Smith: Behind the...","datePublished":"2017-08-14T18:00:23+00:00","dateModified":"2017-11-30T19:12:01+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2017\/08\/Elliott_Smith2.jpg","width":696,"height":545},"articleSection":"Articles","description":"Rüya 14.08.02017 Channeling the sounds of Bob Dylan, Simon &amp; Garfunkel, and more, Elliott Smith's words still cut deep. His lyrics unravel the darker elements of our existence, and are as precious now as they've ever been. &nbsp; &nbsp; Chances are, if you listen to Elliott Smith when you","author":{"@type":"Person","name":"Rüya Yönak","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/ruya\/","sameAs":["https:\/\/www.ymagination.co.uk\/"]}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/world-on-fire-the-music-of-fallout-3\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/world-on-fire-the-music-of-fallout-3\/","headline":"World On Fire: the Music of Fallout...","datePublished":"2017-08-11T15:00:33+00:00","dateModified":"2018-03-13T22:18:21+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2017\/08\/vault-boy-shadow.jpg","width":1256,"height":1116},"articleSection":"Articles","description":"Fred 11.08.02017 This is part of a series of articles in which we reflect on video game soundtracks. The pieces examine the musical content of the score and analyse the effects it has on the game. Fallout 3 is a unique beast, something taken for granted sometimes. Generally -- though not quite","author":{"@type":"Person","name":"Fred O'Brien","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/fred\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/the-rise-and-rise-of-audiobooks\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/the-rise-and-rise-of-audiobooks\/","headline":"The Rise and Rise of...","datePublished":"2017-06-14T16:00:41+00:00","dateModified":"2018-02-08T21:03:31+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2017\/06\/audiobooks-green.jpg","width":1950,"height":1113},"articleSection":"Articles","description":"FRED 14.06.02017 Answering a demand we barely notice is there, the growth of audiobooks seems unstoppable. They are filling the silences that litter our days, redeeming commutes, menial work, and empty evenings.  &nbsp; &nbsp; Last week, the Audio Publishers Association (APA) released the 2016 sales figures for audiobooks, and things","author":{"@type":"Person","name":"Fred O'Brien","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/fred\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/keep-playing-the-fire-at-the-heart-of-whiplash\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/keep-playing-the-fire-at-the-heart-of-whiplash\/","headline":"Keep Playing: the Fire at the Heart of...","datePublished":"2017-06-09T18:00:03+00:00","dateModified":"2018-05-23T23:37:02+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2017\/05\/wl5.jpg","width":2012,"height":1166},"articleSection":"Articles","description":"FRED 09.06.02017 Monster or not, Terence Fletcher gets into our heads because we recognise him in ourselves and understand his value. In the world of Whiplash, the forgotten are those cowed by failure. &nbsp; &nbsp; Whiplash hit -- and shot -- plenty of nerves when it was released in 2014. It","author":{"@type":"Person","name":"Fred O'Brien","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/fred\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/ranking-radioheads-discography\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/ranking-radioheads-discography\/","headline":"2 + 2 = 9: Radiohead's Studio Albums...","datePublished":"2017-06-02T18:00:13+00:00","dateModified":"2020-07-20T10:17:53+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2017\/06\/Band-Picture-2.jpg","width":770,"height":720},"articleSection":"Articles","description":"05.06.02017 This may surprise you, but here at Audioxide we quite like Radiohead. For each of us, the band played a significant role in our music development - a circumstance that is not so much coincidental as it is common among a certain demographic. Indeed, Radiohead are not just a","author":{"@type":"Person","name":"admin","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/admin\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/gorillaz-go-1-d\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/gorillaz-go-1-d\/","headline":"Gorillaz Go...","datePublished":"2017-05-12T09:37:19+00:00","dateModified":"2018-02-08T21:04:51+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2017\/05\/2d4.jpg","width":1119,"height":1149},"articleSection":"Articles","description":"FRED 12.05.02017 &nbsp; &nbsp; When is a virtual band over? That's been the question on my mind since listening to Humanz, an album that confirmed fears which had been lurking since Plastic Beach. Gorillaz don’t seem to be a thing anymore. Albums have their name on them, the gang get wheeled out for interviews, but I","author":{"@type":"Person","name":"Fred O'Brien","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/fred\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/little-dragon-settle-for-competence-on-season-high\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/little-dragon-settle-for-competence-on-season-high\/","headline":"Little Dragon settle for competence on 'Season...","datePublished":"2017-04-15T14:49:00+00:00","dateModified":"2018-02-08T21:05:08+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2017\/04\/Cover-1.jpg","width":696,"height":500},"articleSection":"Articles","description":"ANDRÉ 15.04.02017 &nbsp; &nbsp; You know what you’re getting with a new Little Dragon album: mid-tempo R&amp;B with a heavy ‘80s influence and a dash of modern dance. If nothing else, the Swedish group know how to strike a groove, and they have found success in the formula for","author":{"@type":"Person","name":"Andre Dack","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/andre\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/goldfrapp-find-familiarity-in-space\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/goldfrapp-find-familiarity-in-space\/","headline":"Goldfrapp find familiarity in...","datePublished":"2017-04-03T17:02:49+00:00","dateModified":"2017-05-09T15:15:25+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2017\/04\/silver-eye.jpg","width":3000,"height":3000},"articleSection":"Articles","description":"ANDREW 03.04.02017 &nbsp; &nbsp; Since their debut at the turn of the millennium, Goldfrapp haven't been afraid to toy with the components that characterise their music. Be it the cinematic, eerie quirk of the debut with tracks like \"Lovely Head\" and \"Oompah Radar\", the thumping, rasping electronica of the two","author":{"@type":"Person","name":"Andrew Bridge","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/andrew\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/top-10-albums-of-2016\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/top-10-albums-of-2016\/","headline":"Our 10 Favourite Albums of...","datePublished":"2016-12-23T18:10:47+00:00","dateModified":"2020-03-13T14:17:08+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2016\/12\/radiohead-daydreaming-music-video-paul-thomas-anderson-new-album-sunday.png","width":1000,"height":667},"articleSection":"Articles","description":"28.12.02019 &nbsp; 10. THE LIFE OF PABLO \/\/ Kanye West ANDREW When we reviewed Kanye West’s latest discography entry, The Life of Pablo, the media circus surrounding him and the new release gave me a negative bias: I wanted to hate it. Despite everything though, the album has become one of the","author":{"@type":"Person","name":"admin","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/admin\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/our-10-favourite-tracks-of-2016\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/our-10-favourite-tracks-of-2016\/","headline":"Our 10 Favourite Tracks of...","datePublished":"2016-12-21T18:00:59+00:00","dateModified":"2020-03-14T21:31:09+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2016\/12\/936577_1161949077157117_3860388320371404515_n.png","width":696,"height":353},"articleSection":"Articles","description":"21.12.02016 10. \"Pripyat\" \/\/ Mogwai ANDRÉ Much of Mogwai’s latest record\/soundtrack is exceedingly beautiful, at times bordering on the realms of tranquility. \"Pripyat\", with its ever-evolving drones and boisterous crescendos, is the terrifying exception. Named after the abandoned town in Ukraine that was subject to a tragic nuclear disaster 30","author":{"@type":"Person","name":"admin","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/admin\/"}}]}</script>
 
 
 
@@ -220,7 +220,7 @@ a2a_config.onclick=1;
             "@type": "ListItem",
             "position": 2,
             "item": {
-                "@id": "https://old.audioxide.com/./articles/",
+                "@id": "https://audioxide.com/./articles/",
                 "name": "Articles"
             }
         }
@@ -249,7 +249,7 @@ Click the help icon above to learn more.
 	<body class="archive paged category category-articles category-1 paged-3 category-paged-3" itemscope itemtype="http://schema.org/WebPage">
 <header role="banner" class="sticky" itemscope itemtype="http://schema.org/WPHeader">
 	<div class="wrap">
-		<p id="logo" class="h1 logo" itemscope itemtype="http://schema.org/Organization"><a href="https://old.audioxide.com" rel="nofollow"><img src="https://old.audioxide.com/wp-content/themes/audioxide/library/images/site-logo.svg" /></a></p>
+		<p id="logo" class="h1 logo" itemscope itemtype="http://schema.org/Organization"><a href="https://audioxide.github.io/v1-archive" rel="nofollow"><img src="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/images/site-logo.svg" /></a></p>
 		<div class="social-media">
 			<a href="https://www.facebook.com/Audioxide/"><i class="fa fa-facebook-square"></i></a>
 			<a href="https://twitter.com/audioxidecom"><i class="fa fa-twitter-square"></i></a>
@@ -263,16 +263,16 @@ Click the help icon above to learn more.
 </header>
 <div id="coverartbanner" class="container coverart">
     <div class="wrapper">
-		<a href="https://old.audioxide.com/reviews/nothing-the-great-dismal/"><img src="https://old.audioxide.com/wp-content/uploads/2020/11/the-great-dismal-nothing-500x500.jpg" alt="Album cover for Nothing - The Great Dismal" /></a>
-<a href="https://old.audioxide.com/reviews/clipping-visions-of-bodies-being-burned/"><img src="https://old.audioxide.com/wp-content/uploads/2020/11/visions-of-bodies-being-burned-clipping-500x500.jpg" alt="Album cover for clipping. - Visions of Bodies Being Burned" /></a>
-<a href="https://old.audioxide.com/reviews/doves-the-universal-want/"><img src="https://old.audioxide.com/wp-content/uploads/2020/09/the-universal-want-doves-500x500.jpg" alt="Album cover for Doves - The Universal Want" /></a>
-<a href="https://old.audioxide.com/reviews/all-them-witches-nothing-as-the-ideal/"><img src="https://old.audioxide.com/wp-content/uploads/2020/09/nothing-as-the-ideal-all-them-witches-500x500.jpg" alt="Album cover for All Them Witches - Nothing as the Ideal" /></a>
-<a href="https://old.audioxide.com/reviews/kelly-lee-owens-inner-song/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/inner-song-kelly-lee-owens-500x500.jpg" alt="Album cover for Kelly Lee Owens - Inner Song" /></a>
-<a href="https://old.audioxide.com/reviews/nas-kings-disease/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/kings-disease-nas-500x500.jpg" alt="Album cover for Nas - King's Disease" /></a>
-<a href="https://old.audioxide.com/reviews/dead-kennedys-fresh-fruit-for-rotting-vegetables/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/fresh-fruit-for-rotting-vegetables-dead-kennedys-500x500.jpg" alt="Album cover for Dead Kennedys - Fresh Fruit for Rotting Vegetables" /></a>
-<a href="https://old.audioxide.com/reviews/glass-animals-dreamland/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/dreamland-glass-animals-500x500.jpg" alt="Album cover for Glass Animals - Dreamland" /></a>
-<a href="https://old.audioxide.com/reviews/neil-young-after-the-gold-rush/"><img src="https://old.audioxide.com/wp-content/uploads/2020/07/after-the-gold-rush-neil-young-500x500.jpg" alt="Album cover for Neil Young - After the Gold Rush" /></a>
-<a href="https://old.audioxide.com/reviews/lianne-la-havas-lianne-la-havas/"><img src="https://old.audioxide.com/wp-content/uploads/2020/07/lianne-la-havas-lianne-la-havas-500x500.jpg" alt="Album cover for Lianne La Havas - Lianne La Havas" /></a>
+		<a href="https://audioxide.github.io/v1-archive/reviews/nothing-the-great-dismal/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/11/the-great-dismal-nothing-500x500.jpg" alt="Album cover for Nothing - The Great Dismal" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/clipping-visions-of-bodies-being-burned/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/11/visions-of-bodies-being-burned-clipping-500x500.jpg" alt="Album cover for clipping. - Visions of Bodies Being Burned" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/doves-the-universal-want/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/09/the-universal-want-doves-500x500.jpg" alt="Album cover for Doves - The Universal Want" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/all-them-witches-nothing-as-the-ideal/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/09/nothing-as-the-ideal-all-them-witches-500x500.jpg" alt="Album cover for All Them Witches - Nothing as the Ideal" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/kelly-lee-owens-inner-song/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/inner-song-kelly-lee-owens-500x500.jpg" alt="Album cover for Kelly Lee Owens - Inner Song" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/nas-kings-disease/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/kings-disease-nas-500x500.jpg" alt="Album cover for Nas - King's Disease" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/dead-kennedys-fresh-fruit-for-rotting-vegetables/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/fresh-fruit-for-rotting-vegetables-dead-kennedys-500x500.jpg" alt="Album cover for Dead Kennedys - Fresh Fruit for Rotting Vegetables" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/glass-animals-dreamland/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/dreamland-glass-animals-500x500.jpg" alt="Album cover for Glass Animals - Dreamland" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/neil-young-after-the-gold-rush/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/07/after-the-gold-rush-neil-young-500x500.jpg" alt="Album cover for Neil Young - After the Gold Rush" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/lianne-la-havas-lianne-la-havas/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/07/lianne-la-havas-lianne-la-havas-500x500.jpg" alt="Album cover for Lianne La Havas - Lianne La Havas" /></a>
     </div>
 </div>
 	<main id="main" class="cf wrap standard-list" role="main" itemscope itemprop="mainContentOfPage" itemtype="http://schema.org/Blog">
@@ -281,7 +281,7 @@ Click the help icon above to learn more.
 		
 		<article id="post-5006" class="cf bg post-5006 post type-post status-publish format-standard has-post-thumbnail hentry category-articles tag-elliott-smith" role="article">
 
-			 				<a href="https://old.audioxide.com/articles/elliott-smith-behind-the-lyrics/" rel="bookmark" title="Elliott Smith: Behind the Lyrics">
+			 				<a href="https://audioxide.github.io/v1-archive/articles/elliott-smith-behind-the-lyrics/" rel="bookmark" title="Elliott Smith: Behind the Lyrics">
 							<section class="entry-content cf">
 				<header class="entry-header article-header info">
 				<h3 class="h2 entry-title">Elliott Smith: Behind the Lyrics</h3>
@@ -292,12 +292,12 @@ Click the help icon above to learn more.
 							<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2017/08/Elliott_Smith2-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for Elliott Smith: Behind the Lyrics" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2017/08/Elliott_Smith2-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for Elliott Smith: Behind the Lyrics" />
 						</div>
 					</div>
 				</div>
 
-				<p>Rüya 14.08.02017 Channeling the sounds of Bob Dylan, Simon &amp; Garfunkel, and more, Elliott Smith&#8217;s words still cut deep. His lyrics unravel the darker elements of our existence, and are as precious now as they&#8217;ve ever been. &nbsp; &nbsp; Chances are, if you listen to Elliott Smith when you are already feeling down, you will&#8230;  <a class="excerpt-read-more" href="https://old.audioxide.com/articles/elliott-smith-behind-the-lyrics/" title="Read Elliott Smith: Behind the Lyrics">Read more &raquo;</a></p>
+				<p>Rüya 14.08.02017 Channeling the sounds of Bob Dylan, Simon &amp; Garfunkel, and more, Elliott Smith&#8217;s words still cut deep. His lyrics unravel the darker elements of our existence, and are as precious now as they&#8217;ve ever been. &nbsp; &nbsp; Chances are, if you listen to Elliott Smith when you are already feeling down, you will&#8230;  <a class="excerpt-read-more" href="https://audioxide.github.io/v1-archive/articles/elliott-smith-behind-the-lyrics/" title="Read Elliott Smith: Behind the Lyrics">Read more &raquo;</a></p>
 
 			</section>			<header class="entry-header article-header info">
 
@@ -307,7 +307,7 @@ Click the help icon above to learn more.
 			</a>
 		</article><article id="post-4920" class="cf bg post-4920 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-themusicofgames tag-fallout tag-inon-zur tag-mark-morgan" role="article">
 
-			 				<a href="https://old.audioxide.com/articles/world-on-fire-the-music-of-fallout-3/" rel="bookmark" title="World On Fire: the Music of Fallout 3">
+			 				<a href="https://audioxide.github.io/v1-archive/articles/world-on-fire-the-music-of-fallout-3/" rel="bookmark" title="World On Fire: the Music of Fallout 3">
 							<section class="entry-content cf">
 				<header class="entry-header article-header info">
 				<h3 class="h2 entry-title">World On Fire: the Music of Fallout 3</h3>
@@ -318,12 +318,12 @@ Click the help icon above to learn more.
 							<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2017/08/vault-boy-shadow-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for World On Fire: the Music of Fallout 3" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2017/08/vault-boy-shadow-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for World On Fire: the Music of Fallout 3" />
 						</div>
 					</div>
 				</div>
 
-				<p>Fred 11.08.02017 This is part of a series of articles in which we reflect on video game soundtracks. The pieces examine the musical content of the score and analyse the effects it has on the game. Fallout 3 is a unique beast, something taken for granted sometimes. Generally &#8212; though not quite universally &#8212; adored, the game occupies&#8230;  <a class="excerpt-read-more" href="https://old.audioxide.com/articles/world-on-fire-the-music-of-fallout-3/" title="Read World On Fire: the Music of Fallout 3">Read more &raquo;</a></p>
+				<p>Fred 11.08.02017 This is part of a series of articles in which we reflect on video game soundtracks. The pieces examine the musical content of the score and analyse the effects it has on the game. Fallout 3 is a unique beast, something taken for granted sometimes. Generally &#8212; though not quite universally &#8212; adored, the game occupies&#8230;  <a class="excerpt-read-more" href="https://audioxide.github.io/v1-archive/articles/world-on-fire-the-music-of-fallout-3/" title="Read World On Fire: the Music of Fallout 3">Read more &raquo;</a></p>
 
 			</section>			<header class="entry-header article-header info">
 
@@ -333,7 +333,7 @@ Click the help icon above to learn more.
 			</a>
 		</article><article id="post-4679" class="cf bg post-4679 post type-post status-publish format-standard has-post-thumbnail hentry category-articles tag-audiobooks" role="article">
 
-			 				<a href="https://old.audioxide.com/articles/the-rise-and-rise-of-audiobooks/" rel="bookmark" title="The Rise and Rise of Audiobooks">
+			 				<a href="https://audioxide.github.io/v1-archive/articles/the-rise-and-rise-of-audiobooks/" rel="bookmark" title="The Rise and Rise of Audiobooks">
 							<section class="entry-content cf">
 				<header class="entry-header article-header info">
 				<h3 class="h2 entry-title">The Rise and Rise of Audiobooks</h3>
@@ -344,12 +344,12 @@ Click the help icon above to learn more.
 							<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2017/06/audiobooks-green-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for The Rise and Rise of Audiobooks" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2017/06/audiobooks-green-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for The Rise and Rise of Audiobooks" />
 						</div>
 					</div>
 				</div>
 
-				<p>FRED 14.06.02017 Answering a demand we barely notice is there, the growth of audiobooks seems unstoppable. They are filling the silences that litter our days, redeeming commutes, menial work, and empty evenings.  &nbsp; &nbsp; Last week, the Audio Publishers Association (APA) released the 2016 sales figures for audiobooks, and things are looking rosy. There has been&#8230;  <a class="excerpt-read-more" href="https://old.audioxide.com/articles/the-rise-and-rise-of-audiobooks/" title="Read The Rise and Rise of Audiobooks">Read more &raquo;</a></p>
+				<p>FRED 14.06.02017 Answering a demand we barely notice is there, the growth of audiobooks seems unstoppable. They are filling the silences that litter our days, redeeming commutes, menial work, and empty evenings.  &nbsp; &nbsp; Last week, the Audio Publishers Association (APA) released the 2016 sales figures for audiobooks, and things are looking rosy. There has been&#8230;  <a class="excerpt-read-more" href="https://audioxide.github.io/v1-archive/articles/the-rise-and-rise-of-audiobooks/" title="Read The Rise and Rise of Audiobooks">Read more &raquo;</a></p>
 
 			</section>			<header class="entry-header article-header info">
 
@@ -359,7 +359,7 @@ Click the help icon above to learn more.
 			</a>
 		</article><article id="post-4487" class="cf bg post-4487 post type-post status-publish format-standard has-post-thumbnail hentry category-articles tag-david-bowie tag-film tag-whiplash" role="article">
 
-			 				<a href="https://old.audioxide.com/articles/keep-playing-the-fire-at-the-heart-of-whiplash/" rel="bookmark" title="Keep Playing: the Fire at the Heart of Whiplash">
+			 				<a href="https://audioxide.github.io/v1-archive/articles/keep-playing-the-fire-at-the-heart-of-whiplash/" rel="bookmark" title="Keep Playing: the Fire at the Heart of Whiplash">
 							<section class="entry-content cf">
 				<header class="entry-header article-header info">
 				<h3 class="h2 entry-title">Keep Playing: the Fire at the Heart of Whiplash</h3>
@@ -370,12 +370,12 @@ Click the help icon above to learn more.
 							<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2017/05/wl5-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for Keep Playing: the Fire at the Heart of Whiplash" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2017/05/wl5-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for Keep Playing: the Fire at the Heart of Whiplash" />
 						</div>
 					</div>
 				</div>
 
-				<p>FRED 09.06.02017 Monster or not, Terence Fletcher gets into our heads because we recognise him in ourselves and understand his value. In the world of Whiplash, the forgotten are those cowed by failure. &nbsp; &nbsp; Whiplash hit &#8212; and shot &#8212; plenty of nerves when it was released in 2014. It lit up the year&#8217;s film awards&#8230;  <a class="excerpt-read-more" href="https://old.audioxide.com/articles/keep-playing-the-fire-at-the-heart-of-whiplash/" title="Read Keep Playing: the Fire at the Heart of Whiplash">Read more &raquo;</a></p>
+				<p>FRED 09.06.02017 Monster or not, Terence Fletcher gets into our heads because we recognise him in ourselves and understand his value. In the world of Whiplash, the forgotten are those cowed by failure. &nbsp; &nbsp; Whiplash hit &#8212; and shot &#8212; plenty of nerves when it was released in 2014. It lit up the year&#8217;s film awards&#8230;  <a class="excerpt-read-more" href="https://audioxide.github.io/v1-archive/articles/keep-playing-the-fire-at-the-heart-of-whiplash/" title="Read Keep Playing: the Fire at the Heart of Whiplash">Read more &raquo;</a></p>
 
 			</section>			<header class="entry-header article-header info">
 
@@ -385,7 +385,7 @@ Click the help icon above to learn more.
 			</a>
 		</article><article id="post-2956" class="cf bg post-2956 post type-post status-publish format-standard has-post-thumbnail hentry category-articles tag-radiohead tag-thom-yorke" role="article">
 
-			 				<a href="https://old.audioxide.com/articles/ranking-radioheads-discography/" rel="bookmark" title="2 + 2 = 9: Radiohead&#8217;s Studio Albums Ranked">
+			 				<a href="https://audioxide.github.io/v1-archive/articles/ranking-radioheads-discography/" rel="bookmark" title="2 + 2 = 9: Radiohead&#8217;s Studio Albums Ranked">
 							<section class="entry-content cf">
 				<header class="entry-header article-header info">
 				<h3 class="h2 entry-title">2 + 2 = 9: Radiohead&#8217;s Studio Albums Ranked</h3>
@@ -396,12 +396,12 @@ Click the help icon above to learn more.
 							<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2017/06/Band-Picture-2-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for 2 + 2 = 9: Radiohead&#8217;s Studio Albums Ranked" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2017/06/Band-Picture-2-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for 2 + 2 = 9: Radiohead&#8217;s Studio Albums Ranked" />
 						</div>
 					</div>
 				</div>
 
-				<p>05.06.02017 This may surprise you, but here at Audioxide we quite like Radiohead. For each of us, the band played a significant role in our music development &#8211; a circumstance that is not so much coincidental as it is common among a certain demographic. Indeed, Radiohead are not just a masterful rock band, but also the&#8230;  <a class="excerpt-read-more" href="https://old.audioxide.com/articles/ranking-radioheads-discography/" title="Read 2 + 2 = 9: Radiohead&#8217;s Studio Albums Ranked">Read more &raquo;</a></p>
+				<p>05.06.02017 This may surprise you, but here at Audioxide we quite like Radiohead. For each of us, the band played a significant role in our music development &#8211; a circumstance that is not so much coincidental as it is common among a certain demographic. Indeed, Radiohead are not just a masterful rock band, but also the&#8230;  <a class="excerpt-read-more" href="https://audioxide.github.io/v1-archive/articles/ranking-radioheads-discography/" title="Read 2 + 2 = 9: Radiohead&#8217;s Studio Albums Ranked">Read more &raquo;</a></p>
 
 			</section>			<header class="entry-header article-header info">
 
@@ -411,7 +411,7 @@ Click the help icon above to learn more.
 			</a>
 		</article><article id="post-4390" class="cf bg post-4390 post type-post status-publish format-standard has-post-thumbnail hentry category-articles tag-damon-albarn tag-gorillaz" role="article">
 
-			 				<a href="https://old.audioxide.com/articles/gorillaz-go-1-d/" rel="bookmark" title="Gorillaz Go 1-D">
+			 				<a href="https://audioxide.github.io/v1-archive/articles/gorillaz-go-1-d/" rel="bookmark" title="Gorillaz Go 1-D">
 							<section class="entry-content cf">
 				<header class="entry-header article-header info">
 				<h3 class="h2 entry-title">Gorillaz Go 1-D</h3>
@@ -422,12 +422,12 @@ Click the help icon above to learn more.
 							<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2017/05/2d4-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for Gorillaz Go 1-D" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2017/05/2d4-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for Gorillaz Go 1-D" />
 						</div>
 					</div>
 				</div>
 
-				<p>FRED 12.05.02017 &nbsp; &nbsp; When is a virtual band over? That&#8217;s been the question on my mind since listening to Humanz, an album that confirmed fears which had been lurking since Plastic Beach. Gorillaz don’t seem to be a thing anymore. Albums have their name on them, the gang get wheeled out for interviews, but I don’t hear them in the music&#8230;.  <a class="excerpt-read-more" href="https://old.audioxide.com/articles/gorillaz-go-1-d/" title="Read Gorillaz Go 1-D">Read more &raquo;</a></p>
+				<p>FRED 12.05.02017 &nbsp; &nbsp; When is a virtual band over? That&#8217;s been the question on my mind since listening to Humanz, an album that confirmed fears which had been lurking since Plastic Beach. Gorillaz don’t seem to be a thing anymore. Albums have their name on them, the gang get wheeled out for interviews, but I don’t hear them in the music&#8230;.  <a class="excerpt-read-more" href="https://audioxide.github.io/v1-archive/articles/gorillaz-go-1-d/" title="Read Gorillaz Go 1-D">Read more &raquo;</a></p>
 
 			</section>			<header class="entry-header article-header info">
 
@@ -437,7 +437,7 @@ Click the help icon above to learn more.
 			</a>
 		</article><article id="post-4264" class="cf bg post-4264 post type-post status-publish format-standard has-post-thumbnail hentry category-articles tag-little-dragon" role="article">
 
-			 				<a href="https://old.audioxide.com/articles/little-dragon-settle-for-competence-on-season-high/" rel="bookmark" title="Little Dragon settle for competence on &#8216;Season High&#8217;">
+			 				<a href="https://audioxide.github.io/v1-archive/articles/little-dragon-settle-for-competence-on-season-high/" rel="bookmark" title="Little Dragon settle for competence on &#8216;Season High&#8217;">
 							<section class="entry-content cf">
 				<header class="entry-header article-header info">
 				<h3 class="h2 entry-title">Little Dragon settle for competence on &#8216;Season High&#8217;</h3>
@@ -448,12 +448,12 @@ Click the help icon above to learn more.
 							<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2017/04/Cover-1-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for Little Dragon settle for competence on &#8216;Season High&#8217;" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2017/04/Cover-1-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for Little Dragon settle for competence on &#8216;Season High&#8217;" />
 						</div>
 					</div>
 				</div>
 
-				<p>ANDRÉ 15.04.02017 &nbsp; &nbsp; You know what you’re getting with a new Little Dragon album: mid-tempo R&amp;B with a heavy ‘80s influence and a dash of modern dance. If nothing else, the Swedish group know how to strike a groove, and they have found success in the formula for ten years now. Though they’re perhaps&#8230;  <a class="excerpt-read-more" href="https://old.audioxide.com/articles/little-dragon-settle-for-competence-on-season-high/" title="Read Little Dragon settle for competence on &#8216;Season High&#8217;">Read more &raquo;</a></p>
+				<p>ANDRÉ 15.04.02017 &nbsp; &nbsp; You know what you’re getting with a new Little Dragon album: mid-tempo R&amp;B with a heavy ‘80s influence and a dash of modern dance. If nothing else, the Swedish group know how to strike a groove, and they have found success in the formula for ten years now. Though they’re perhaps&#8230;  <a class="excerpt-read-more" href="https://audioxide.github.io/v1-archive/articles/little-dragon-settle-for-competence-on-season-high/" title="Read Little Dragon settle for competence on &#8216;Season High&#8217;">Read more &raquo;</a></p>
 
 			</section>			<header class="entry-header article-header info">
 
@@ -463,7 +463,7 @@ Click the help icon above to learn more.
 			</a>
 		</article><article id="post-4213" class="cf bg post-4213 post type-post status-publish format-standard has-post-thumbnail hentry category-articles tag-goldfrapp" role="article">
 
-			 				<a href="https://old.audioxide.com/articles/goldfrapp-find-familiarity-in-space/" rel="bookmark" title="Goldfrapp find familiarity in space">
+			 				<a href="https://audioxide.github.io/v1-archive/articles/goldfrapp-find-familiarity-in-space/" rel="bookmark" title="Goldfrapp find familiarity in space">
 							<section class="entry-content cf">
 				<header class="entry-header article-header info">
 				<h3 class="h2 entry-title">Goldfrapp find familiarity in space</h3>
@@ -474,12 +474,12 @@ Click the help icon above to learn more.
 							<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2017/04/silver-eye-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for Goldfrapp find familiarity in space" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2017/04/silver-eye-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for Goldfrapp find familiarity in space" />
 						</div>
 					</div>
 				</div>
 
-				<p>ANDREW 03.04.02017 &nbsp; &nbsp; Since their debut at the turn of the millennium, Goldfrapp haven&#8217;t been afraid to toy with the components that characterise their music. Be it the cinematic, eerie quirk of the debut with tracks like &#8220;Lovely Head&#8221; and &#8220;Oompah Radar&#8221;, the thumping, rasping electronica of the two releases that followed it, well demonstrated&#8230;  <a class="excerpt-read-more" href="https://old.audioxide.com/articles/goldfrapp-find-familiarity-in-space/" title="Read Goldfrapp find familiarity in space">Read more &raquo;</a></p>
+				<p>ANDREW 03.04.02017 &nbsp; &nbsp; Since their debut at the turn of the millennium, Goldfrapp haven&#8217;t been afraid to toy with the components that characterise their music. Be it the cinematic, eerie quirk of the debut with tracks like &#8220;Lovely Head&#8221; and &#8220;Oompah Radar&#8221;, the thumping, rasping electronica of the two releases that followed it, well demonstrated&#8230;  <a class="excerpt-read-more" href="https://audioxide.github.io/v1-archive/articles/goldfrapp-find-familiarity-in-space/" title="Read Goldfrapp find familiarity in space">Read more &raquo;</a></p>
 
 			</section>			<header class="entry-header article-header info">
 
@@ -489,7 +489,7 @@ Click the help icon above to learn more.
 			</a>
 		</article><article id="post-3909" class="cf bg post-3909 post type-post status-publish format-standard has-post-thumbnail hentry category-articles tag-beyonce tag-david-bowie tag-glass-animals tag-kanye-west tag-kendrick-lamar tag-mogwai tag-nick-cave-and-the-bad-seeds tag-radiohead tag-saul-williams tag-solange" role="article">
 
-			 				<a href="https://old.audioxide.com/articles/top-10-albums-of-2016/" rel="bookmark" title="Our 10 Favourite Albums of 2016">
+			 				<a href="https://audioxide.github.io/v1-archive/articles/top-10-albums-of-2016/" rel="bookmark" title="Our 10 Favourite Albums of 2016">
 							<section class="entry-content cf">
 				<header class="entry-header article-header info">
 				<h3 class="h2 entry-title">Our 10 Favourite Albums of 2016</h3>
@@ -500,12 +500,12 @@ Click the help icon above to learn more.
 							<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2016/12/radiohead-daydreaming-music-video-paul-thomas-anderson-new-album-sunday-300x100.png" class="attachment-full wp-post-image" alt="Featured images for Our 10 Favourite Albums of 2016" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2016/12/radiohead-daydreaming-music-video-paul-thomas-anderson-new-album-sunday-300x100.png" class="attachment-full wp-post-image" alt="Featured images for Our 10 Favourite Albums of 2016" />
 						</div>
 					</div>
 				</div>
 
-				<p>28.12.02019 &nbsp; 10. THE LIFE OF PABLO // Kanye West ANDREW When we reviewed Kanye West’s latest discography entry, The Life of Pablo, the media circus surrounding him and the new release gave me a negative bias: I wanted to hate it. Despite everything though, the album has become one of the most memorable releases of the year,&#8230;  <a class="excerpt-read-more" href="https://old.audioxide.com/articles/top-10-albums-of-2016/" title="Read Our 10 Favourite Albums of 2016">Read more &raquo;</a></p>
+				<p>28.12.02019 &nbsp; 10. THE LIFE OF PABLO // Kanye West ANDREW When we reviewed Kanye West’s latest discography entry, The Life of Pablo, the media circus surrounding him and the new release gave me a negative bias: I wanted to hate it. Despite everything though, the album has become one of the most memorable releases of the year,&#8230;  <a class="excerpt-read-more" href="https://audioxide.github.io/v1-archive/articles/top-10-albums-of-2016/" title="Read Our 10 Favourite Albums of 2016">Read more &raquo;</a></p>
 
 			</section>			<header class="entry-header article-header info">
 
@@ -515,7 +515,7 @@ Click the help icon above to learn more.
 			</a>
 		</article><article id="post-3907" class="cf bg post-3907 post type-post status-publish format-standard has-post-thumbnail hentry category-articles" role="article">
 
-			 				<a href="https://old.audioxide.com/articles/our-10-favourite-tracks-of-2016/" rel="bookmark" title="Our 10 Favourite Tracks of 2016">
+			 				<a href="https://audioxide.github.io/v1-archive/articles/our-10-favourite-tracks-of-2016/" rel="bookmark" title="Our 10 Favourite Tracks of 2016">
 							<section class="entry-content cf">
 				<header class="entry-header article-header info">
 				<h3 class="h2 entry-title">Our 10 Favourite Tracks of 2016</h3>
@@ -526,12 +526,12 @@ Click the help icon above to learn more.
 							<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2016/12/936577_1161949077157117_3860388320371404515_n-300x100.png" class="attachment-full wp-post-image" alt="Featured images for Our 10 Favourite Tracks of 2016" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2016/12/936577_1161949077157117_3860388320371404515_n-300x100.png" class="attachment-full wp-post-image" alt="Featured images for Our 10 Favourite Tracks of 2016" />
 						</div>
 					</div>
 				</div>
 
-				<p>21.12.02016 10. &#8220;Pripyat&#8221; // Mogwai ANDRÉ Much of Mogwai’s latest record/soundtrack is exceedingly beautiful, at times bordering on the realms of tranquility. &#8220;Pripyat&#8221;, with its ever-evolving drones and boisterous crescendos, is the terrifying exception. Named after the abandoned town in Ukraine that was subject to a tragic nuclear disaster 30 years ago, the track is utterly&#8230;  <a class="excerpt-read-more" href="https://old.audioxide.com/articles/our-10-favourite-tracks-of-2016/" title="Read Our 10 Favourite Tracks of 2016">Read more &raquo;</a></p>
+				<p>21.12.02016 10. &#8220;Pripyat&#8221; // Mogwai ANDRÉ Much of Mogwai’s latest record/soundtrack is exceedingly beautiful, at times bordering on the realms of tranquility. &#8220;Pripyat&#8221;, with its ever-evolving drones and boisterous crescendos, is the terrifying exception. Named after the abandoned town in Ukraine that was subject to a tragic nuclear disaster 30 years ago, the track is utterly&#8230;  <a class="excerpt-read-more" href="https://audioxide.github.io/v1-archive/articles/our-10-favourite-tracks-of-2016/" title="Read Our 10 Favourite Tracks of 2016">Read more &raquo;</a></p>
 
 			</section>			<header class="entry-header article-header info">
 
@@ -541,14 +541,14 @@ Click the help icon above to learn more.
 			</a>
 		</article>
 				<nav class="pagination"><ul class='page-numbers'>
-	<li><a class="prev page-numbers" href="https://old.audioxide.com/articles/page/2/">&larr;</a></li>
-	<li><a class='page-numbers' href='https://old.audioxide.com/articles/page/1/'>1</a></li>
-	<li><a class='page-numbers' href='https://old.audioxide.com/articles/page/2/'>2</a></li>
+	<li><a class="prev page-numbers" href="https://audioxide.github.io/v1-archive/articles/page/2/">&larr;</a></li>
+	<li><a class='page-numbers' href='https://audioxide.github.io/v1-archive/articles/page/1/'>1</a></li>
+	<li><a class='page-numbers' href='https://audioxide.github.io/v1-archive/articles/page/2/'>2</a></li>
 	<li><span aria-current='page' class='page-numbers current'>3</span></li>
-	<li><a class='page-numbers' href='https://old.audioxide.com/articles/page/4/'>4</a></li>
-	<li><a class='page-numbers' href='https://old.audioxide.com/articles/page/5/'>5</a></li>
-	<li><a class='page-numbers' href='https://old.audioxide.com/articles/page/6/'>6</a></li>
-	<li><a class="next page-numbers" href="https://old.audioxide.com/articles/page/4/">&rarr;</a></li>
+	<li><a class='page-numbers' href='https://audioxide.github.io/v1-archive/articles/page/4/'>4</a></li>
+	<li><a class='page-numbers' href='https://audioxide.github.io/v1-archive/articles/page/5/'>5</a></li>
+	<li><a class='page-numbers' href='https://audioxide.github.io/v1-archive/articles/page/6/'>6</a></li>
+	<li><a class="next page-numbers" href="https://audioxide.github.io/v1-archive/articles/page/4/">&rarr;</a></li>
 </ul>
 </nav>
 		
@@ -589,10 +589,10 @@ Click the help icon above to learn more.
 var mctb = {"cookieLength":"365","icons":{"hide":"&#x25BC;","show":"&#x25B2;"},"position":"bottom","state":{"submitted":false,"success":false}};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/plugins/mailchimp-top-bar/assets/js/script.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/themes/audioxide/library/js/libs/jquery.quickfit.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/themes/audioxide/library/js/scripts.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/plugins/mailchimp-top-bar/assets/js/script.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/js/libs/jquery.quickfit.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/js/scripts.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-includes/js/wp-embed.min.js'></script>
 
 	</body>
 

@@ -16,35 +16,35 @@
 		<meta name="MobileOptimized" content="320">
 		<meta name="viewport" content="width=device-width, initial-scale=1"/>
 
-				<link rel="apple-touch-icon" href="https://old.audioxide.com/wp-content/themes/audioxide/library/images/apple-touch-icon.png">
-		<link rel="icon" href="https://old.audioxide.com/wp-content/themes/audioxide/favicon.png">
+				<link rel="apple-touch-icon" href="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/images/apple-touch-icon.png">
+		<link rel="icon" href="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/favicon.png">
 		<!--[if IE]>
-			<link rel="shortcut icon" href="https://old.audioxide.com/wp-content/themes/audioxide/favicon.ico">
+			<link rel="shortcut icon" href="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/favicon.ico">
 		<![endif]-->
 				<meta name="msapplication-TileColor" content="#f01d4f">
-		<meta name="msapplication-TileImage" content="https://old.audioxide.com/wp-content/themes/audioxide/library/images/win8-tile-icon.png">
+		<meta name="msapplication-TileImage" content="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/images/win8-tile-icon.png">
             <meta name="theme-color" content="#121212">
 
                         <meta property="og:title" content="Reviews" />
                 <meta property="fb:app_id" content="950609285023482" />
-        <meta property="og:url" content="https://old.audioxide.com/reviews/page/20/" />
+        <meta property="og:url" content="https://audioxide.com/reviews/page/20/" />
         <meta property="og:site_name" content="Audioxide" />
-        <meta property="og:image" content="https://old.audioxide.com/wp-content/themes/audioxide/library/images/sharer-logo.png" />
+        <meta property="og:image" content="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/images/sharer-logo.png" />
                 
-		<link rel="pingback" href="https://old.audioxide.com/xmlrpc.php">
+		<link rel="pingback" href="https://audioxide.github.io/v1-archive/xmlrpc.php">
 
 				
 <!-- All In One SEO Pack 3.7.1[440,478] -->
 <meta name="robots" content="noindex,follow" />
-<link rel="prev" href="https://old.audioxide.com/reviews/page/19/" />
-<link rel="next" href="https://old.audioxide.com/reviews/page/21/" />
+<link rel="prev" href="https://audioxide.github.io/v1-archive/reviews/page/19/" />
+<link rel="next" href="https://audioxide.github.io/v1-archive/reviews/page/21/" />
 
-<link rel="canonical" href="https://old.audioxide.com/./reviews/page/20/" />
+<link rel="canonical" href="https://audioxide.com/./reviews/page/20/" />
 <!-- All In One SEO Pack -->
 <link rel='dns-prefetch' href='//s.w.org' />
-<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Feed" href="https://old.audioxide.com/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Comments Feed" href="https://old.audioxide.com/comments/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Reviews Category Feed" href="https://old.audioxide.com/./reviews/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Feed" href="https://audioxide.github.io/v1-archive/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Comments Feed" href="https://audioxide.github.io/v1-archive/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Reviews Category Feed" href="https://audioxide.github.io/v1-archive/./reviews/feed/" />
 <!-- This site uses the Google Analytics by ExactMetrics plugin v6.2.2 - Using Analytics tracking - https://www.exactmetrics.com/ -->
 <script type="text/javascript" data-cfasync="false">
 	var em_version         = '6.2.2';
@@ -132,7 +132,7 @@ window.ga = __gaTracker;		__gaTracker('create', 'UA-71965408-1', 'auto');
 </script>
 <!-- / Google Analytics by ExactMetrics -->
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/old.audioxide.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-includes\/js\/wp-emoji-release.min.js"}};
 			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])?!1:!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55358,56760,9792,65039],[55358,56760,8203,9792,65039])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script>
 		<style type="text/css">
@@ -149,25 +149,25 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel='stylesheet' id='mc4wp-form-themes-css'  href='https://old.audioxide.com/wp-content/plugins/mailchimp-for-wp/assets/css/form-themes.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='mailchimp-top-bar-css'  href='https://old.audioxide.com/wp-content/plugins/mailchimp-top-bar/assets/css/bar.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='addtoany-css'  href='https://old.audioxide.com/wp-content/plugins/add-to-any/addtoany.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='editor-style-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/editor-style.css' type='text/css' media='all' />
-<link rel='stylesheet' id='admin-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/admin.css' type='text/css' media='all' />
-<link rel='stylesheet' id='ie-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/ie.css' type='text/css' media='all' />
-<link rel='stylesheet' id='style-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/style.css' type='text/css' media='all' />
-<link rel='stylesheet' id='login-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/login.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mc4wp-form-themes-css'  href='https://audioxide.github.io/v1-archive/wp-content/plugins/mailchimp-for-wp/assets/css/form-themes.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mailchimp-top-bar-css'  href='https://audioxide.github.io/v1-archive/wp-content/plugins/mailchimp-top-bar/assets/css/bar.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='addtoany-css'  href='https://audioxide.github.io/v1-archive/wp-content/plugins/add-to-any/addtoany.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='editor-style-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/editor-style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/admin.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ie-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/ie.css' type='text/css' media='all' />
+<link rel='stylesheet' id='style-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='login-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/login.css' type='text/css' media='all' />
 <script type='text/javascript'>
 /* <![CDATA[ */
-var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"zip,mp3,mpeg,pdf,docx,pptx,xlsx,rar","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/old.audioxide.com","hash_tracking":"false"};
+var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"zip,mp3,mpeg,pdf,docx,pptx,xlsx,rar","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json","hash_tracking":"false"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/plugins/google-analytics-dashboard-for-wp/assets/js/frontend.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-includes/js/jquery/jquery.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-includes/js/jquery/jquery-migrate.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/plugins/add-to-any/addtoany.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/themes/audioxide/library/js/libs/modernizr.custom.min.js'></script>
-<link rel='https://api.w.org/' href='https://old.audioxide.com/wp-json/' />
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/plugins/google-analytics-dashboard-for-wp/assets/js/frontend.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/plugins/add-to-any/addtoany.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/js/libs/modernizr.custom.min.js'></script>
+<link rel='https://api.w.org/' href='https://audioxide.github.io/v1-archive/wp-json/' />
 
 <script data-cfasync="false">
 window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_localize = {
@@ -199,7 +199,7 @@ a2a_config.onclick=1;
 
 
 <!-- This site is optimized with the Schema plugin v1.7.8.3 - https://schema.press -->
-<script type="application/ld+json">{"@context":"http:\/\/schema.org\/","@type":"CollectionPage","headline":"Reviews Category","description":"","url":"https:\/\/old.audioxide.com\/.\/reviews\/","sameAs":[],"hasPart":[{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/reviews\/bat-for-lashes-the-bride\/"},"url":"https:\/\/old.audioxide.com\/reviews\/bat-for-lashes-the-bride\/","headline":"Review: The Bride \/\/ Bat for...","datePublished":"2016-07-06T18:00:12+00:00","dateModified":"2018-03-10T21:43:35+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2016\/07\/The-Bride.jpg","width":696,"height":670},"articleSection":"Reviews","description":"ANDRÉ With an adept ability for creating whimsical worlds in her sonic compositions, a concept album has always been in reach for Natasha Khan. Since the release of her debut record a decade ago, every Bat For Lashes album has been graciously theatrical in its own niche way, each","author":{"@type":"Person","name":"André, Frederick, and Andrew","url":"https:\/\/old.audioxide.com\/author\/the-music-boys\/"},"review":{"@type":"Review","author":{"@type":"Person","name":"André, Frederick, and Andrew"},"name":"The Bride","reviewRating":{"@type":"Rating","bestRating":"30","ratingValue":"15"}}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/reviews\/talking-heads-remain-in-light\/"},"url":"https:\/\/old.audioxide.com\/reviews\/talking-heads-remain-in-light\/","headline":"Review: Remain in Light \/\/ Talking...","datePublished":"2016-06-29T18:00:58+00:00","dateModified":"2020-10-08T14:34:06+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2016\/06\/Remain-in-Light.jpg","width":1000,"height":1000},"articleSection":"Reviews","description":"ANDRÉ Remain in Light is a sheer delight to listen to. It thrives on its character, never ceasing to be thoroughly entertaining. The opening portion of the record springs along with a playful energy, and the second half is a haze that floats by at its own steady pace,","author":{"@type":"Person","name":"André, Frederick, and Andrew","url":"https:\/\/old.audioxide.com\/author\/the-music-boys\/"},"review":{"@type":"Review","author":{"@type":"Person","name":"André, Frederick, and Andrew"},"name":"Remain in Light","reviewRating":{"@type":"Rating","bestRating":"30","ratingValue":"25"}}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/reviews\/swans-the-glowing-man\/"},"url":"https:\/\/old.audioxide.com\/reviews\/swans-the-glowing-man\/","headline":"Review: The Glowing Man \/\/...","datePublished":"2016-06-22T18:00:55+00:00","dateModified":"2018-03-10T21:52:20+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2016\/06\/The-Glowing-Man.jpeg","width":696,"height":600},"articleSection":"Reviews","description":"ANDRÉ In an intermittent career that spans well over two decades, here lies the end of Swans’ latest carnation, The Glowing Man: a two-hour expedition of pure chaos, pummelling you in the face relentlessly. The barrage of noise is constant, confrontational, and often quite stressful. Despite some moments of","author":{"@type":"Person","name":"André, Frederick, and Andrew","url":"https:\/\/old.audioxide.com\/author\/the-music-boys\/"},"review":{"@type":"Review","author":{"@type":"Person","name":"André, Frederick, and Andrew"},"name":"The Glowing Man","reviewRating":{"@type":"Rating","bestRating":"30","ratingValue":"21"}}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/reviews\/nas-illmatic\/"},"url":"https:\/\/old.audioxide.com\/reviews\/nas-illmatic\/","headline":"Review: Illmatic \/\/...","datePublished":"2016-06-15T18:00:28+00:00","dateModified":"2018-03-10T21:55:04+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2016\/06\/Illmatic.jpg","width":696,"height":640},"articleSection":"Reviews","description":"ANDRÉ Illmatic is a milestone in hip-hop, an undisputed classic that is held on a pedestal to this day. Though there are many albums with greater highs, you’d be hard pressed to find one with fewer flaws. It captures a cultural scene so poignantly to achieve a timeless status","author":{"@type":"Person","name":"André, Frederick, and Andrew","url":"https:\/\/old.audioxide.com\/author\/the-music-boys\/"},"review":{"@type":"Review","author":{"@type":"Person","name":"André, Frederick, and Andrew"},"name":"Illmatic","reviewRating":{"@type":"Rating","bestRating":"30","ratingValue":"25"}}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/reviews\/rob-heron-and-the-tea-pad-orchestra-something-blue\/"},"url":"https:\/\/old.audioxide.com\/reviews\/rob-heron-and-the-tea-pad-orchestra-something-blue\/","headline":"Review: Something Blue \/\/ Rob Heron & The Tea Pad...","datePublished":"2016-06-08T18:08:40+00:00","dateModified":"2018-03-06T00:20:39+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2016\/06\/Something-Blue-e1465389820804.jpg","width":940,"height":940},"articleSection":"Reviews","description":"ANDRÉ Brimming with catchy vocal hooks and compelling harmonious moments, Something Blue is a pleasant record, one that revels in its spirit. But for all its charm, a prominent deficiency lies in its production. The album reveals the difficulties of attempting to capture the energy of a live performance","author":{"@type":"Person","name":"André, Frederick, and Andrew","url":"https:\/\/old.audioxide.com\/author\/the-music-boys\/"},"review":{"@type":"Review","author":{"@type":"Person","name":"André, Frederick, and Andrew"},"name":"Something Blue","reviewRating":{"@type":"Rating","bestRating":"30","ratingValue":"18"}}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/reviews\/radiohead-ok-computer\/"},"url":"https:\/\/old.audioxide.com\/reviews\/radiohead-ok-computer\/","headline":"Review: OK Computer \/\/...","datePublished":"2016-05-25T18:00:52+00:00","dateModified":"2018-04-30T11:44:06+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2016\/05\/OK-Computer.png","width":696,"height":500},"articleSection":"Reviews","description":"ANDRÉ The term ‘timeless’ is often carelessly applied. Music can be eternal in a literal sense, but very rarely does a work have the endurance to live past its own age and move into new realms of significance through its context. OK Computer is one of these works. This was","author":{"@type":"Person","name":"André, Frederick, and Andrew","url":"https:\/\/old.audioxide.com\/author\/the-music-boys\/"},"review":{"@type":"Review","author":{"@type":"Person","name":"André, Frederick, and Andrew"},"name":"OK Computer","reviewRating":{"@type":"Rating","bestRating":"30","ratingValue":"29"}}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/reviews\/radiohead-a-moon-shaped-pool\/"},"url":"https:\/\/old.audioxide.com\/reviews\/radiohead-a-moon-shaped-pool\/","headline":"Review: A Moon Shaped Pool \/\/...","datePublished":"2016-05-18T18:00:28+00:00","dateModified":"2018-03-10T21:38:49+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2016\/05\/A-Moon-Shaped-Pool.jpg","width":1035,"height":1035},"articleSection":"Reviews","description":"ANDRÉ After numerous side projects and years of anticipation, Radiohead return with their coldest statement yet. Mournful, reflective and frankly heart-breaking, A Moon Shaped Pool is an organic expedition of emotion, and a rewarding contrast to the robotic, often barren essence that comprised The King of Limbs. It’s impossible to","author":{"@type":"Person","name":"André, Frederick, and Andrew","url":"https:\/\/old.audioxide.com\/author\/the-music-boys\/"},"review":{"@type":"Review","author":{"@type":"Person","name":"André, Frederick, and Andrew"},"name":"A Moon Shaped Pool","reviewRating":{"@type":"Rating","bestRating":"30","ratingValue":"24"}}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/reviews\/james-blake-the-colour-in-anything\/"},"url":"https:\/\/old.audioxide.com\/reviews\/james-blake-the-colour-in-anything\/","headline":"Review: The Colour in Anything \/\/ James...","datePublished":"2016-05-11T18:00:56+00:00","dateModified":"2018-03-10T20:25:29+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2016\/05\/F9GzgaZ1-e1520713479914.jpg","width":1000,"height":1000},"articleSection":"Reviews","description":"ANDRÉ Though James Blake tells us that he’s removed himself from a 'perpetual cycle of anxiety and depression', you’d be forgiven for thinking otherwise. Sonically speaking, Blake is where he has been since his debut album. He illustrates a deeply sombre image, singing with a consistently mournful tone to","author":{"@type":"Person","name":"André, Frederick, and Andrew","url":"https:\/\/old.audioxide.com\/author\/the-music-boys\/"},"review":{"@type":"Review","author":{"@type":"Person","name":"André, Frederick, and Andrew"},"name":"The Colour in Anything","reviewRating":{"@type":"Rating","bestRating":"30","ratingValue":"20"}}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/reviews\/prince-purple-rain\/"},"url":"https:\/\/old.audioxide.com\/reviews\/prince-purple-rain\/","headline":"Review: Purple Rain \/\/...","datePublished":"2016-05-04T18:00:01+00:00","dateModified":"2018-03-10T22:42:23+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2016\/05\/prince-purple-rain.jpg","width":696,"height":600},"articleSection":"Reviews","description":"ANDRÉ Purple Rain was the monumental record that truly cemented Prince's position of power and distinguished him from his peers. Remarkably, it retains all of its audacity and persuasive force three decades on. It’s an endearing record of mystery and wonder, deftly inheriting elements from a wide selection of","author":{"@type":"Person","name":"André, Frederick, and Andrew","url":"https:\/\/old.audioxide.com\/author\/the-music-boys\/"},"review":{"@type":"Review","author":{"@type":"Person","name":"André, Frederick, and Andrew"},"name":"Purple Rain","reviewRating":{"@type":"Rating","bestRating":"30","ratingValue":"25"}}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/reviews\/deftones-gore\/"},"url":"https:\/\/old.audioxide.com\/reviews\/deftones-gore\/","headline":"Review: Gore \/\/...","datePublished":"2016-04-27T18:00:22+00:00","dateModified":"2018-03-10T23:14:13+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2016\/04\/deftones-gore.jpg","width":1425,"height":1425},"articleSection":"Reviews","description":"ANDRÉ Irrespective of their stellar output, Deftones have always struggled to distinguish themselves from the contaminated haze of nu-metal that so often turns listeners away. Without sacrificing any of the gratifying brutality that fans have come to expect from the band, Gore strikes a delightful balance, and is perhaps","author":{"@type":"Person","name":"André, Frederick, and Andrew","url":"https:\/\/old.audioxide.com\/author\/the-music-boys\/"},"review":{"@type":"Review","author":{"@type":"Person","name":"André, Frederick, and Andrew"},"name":"Gore","reviewRating":{"@type":"Rating","bestRating":"30","ratingValue":"20"}}}]}</script>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org\/","@type":"CollectionPage","headline":"Reviews Category","description":"","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/.\/reviews\/","sameAs":[],"hasPart":[{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/reviews\/bat-for-lashes-the-bride\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/reviews\/bat-for-lashes-the-bride\/","headline":"Review: The Bride \/\/ Bat for...","datePublished":"2016-07-06T18:00:12+00:00","dateModified":"2018-03-10T21:43:35+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2016\/07\/The-Bride.jpg","width":696,"height":670},"articleSection":"Reviews","description":"ANDRÉ With an adept ability for creating whimsical worlds in her sonic compositions, a concept album has always been in reach for Natasha Khan. Since the release of her debut record a decade ago, every Bat For Lashes album has been graciously theatrical in its own niche way, each","author":{"@type":"Person","name":"André, Frederick, and Andrew","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/the-music-boys\/"},"review":{"@type":"Review","author":{"@type":"Person","name":"André, Frederick, and Andrew"},"name":"The Bride","reviewRating":{"@type":"Rating","bestRating":"30","ratingValue":"15"}}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/reviews\/talking-heads-remain-in-light\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/reviews\/talking-heads-remain-in-light\/","headline":"Review: Remain in Light \/\/ Talking...","datePublished":"2016-06-29T18:00:58+00:00","dateModified":"2020-10-08T14:34:06+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2016\/06\/Remain-in-Light.jpg","width":1000,"height":1000},"articleSection":"Reviews","description":"ANDRÉ Remain in Light is a sheer delight to listen to. It thrives on its character, never ceasing to be thoroughly entertaining. The opening portion of the record springs along with a playful energy, and the second half is a haze that floats by at its own steady pace,","author":{"@type":"Person","name":"André, Frederick, and Andrew","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/the-music-boys\/"},"review":{"@type":"Review","author":{"@type":"Person","name":"André, Frederick, and Andrew"},"name":"Remain in Light","reviewRating":{"@type":"Rating","bestRating":"30","ratingValue":"25"}}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/reviews\/swans-the-glowing-man\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/reviews\/swans-the-glowing-man\/","headline":"Review: The Glowing Man \/\/...","datePublished":"2016-06-22T18:00:55+00:00","dateModified":"2018-03-10T21:52:20+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2016\/06\/The-Glowing-Man.jpeg","width":696,"height":600},"articleSection":"Reviews","description":"ANDRÉ In an intermittent career that spans well over two decades, here lies the end of Swans’ latest carnation, The Glowing Man: a two-hour expedition of pure chaos, pummelling you in the face relentlessly. The barrage of noise is constant, confrontational, and often quite stressful. Despite some moments of","author":{"@type":"Person","name":"André, Frederick, and Andrew","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/the-music-boys\/"},"review":{"@type":"Review","author":{"@type":"Person","name":"André, Frederick, and Andrew"},"name":"The Glowing Man","reviewRating":{"@type":"Rating","bestRating":"30","ratingValue":"21"}}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/reviews\/nas-illmatic\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/reviews\/nas-illmatic\/","headline":"Review: Illmatic \/\/...","datePublished":"2016-06-15T18:00:28+00:00","dateModified":"2018-03-10T21:55:04+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2016\/06\/Illmatic.jpg","width":696,"height":640},"articleSection":"Reviews","description":"ANDRÉ Illmatic is a milestone in hip-hop, an undisputed classic that is held on a pedestal to this day. Though there are many albums with greater highs, you’d be hard pressed to find one with fewer flaws. It captures a cultural scene so poignantly to achieve a timeless status","author":{"@type":"Person","name":"André, Frederick, and Andrew","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/the-music-boys\/"},"review":{"@type":"Review","author":{"@type":"Person","name":"André, Frederick, and Andrew"},"name":"Illmatic","reviewRating":{"@type":"Rating","bestRating":"30","ratingValue":"25"}}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/reviews\/rob-heron-and-the-tea-pad-orchestra-something-blue\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/reviews\/rob-heron-and-the-tea-pad-orchestra-something-blue\/","headline":"Review: Something Blue \/\/ Rob Heron & The Tea Pad...","datePublished":"2016-06-08T18:08:40+00:00","dateModified":"2018-03-06T00:20:39+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2016\/06\/Something-Blue-e1465389820804.jpg","width":940,"height":940},"articleSection":"Reviews","description":"ANDRÉ Brimming with catchy vocal hooks and compelling harmonious moments, Something Blue is a pleasant record, one that revels in its spirit. But for all its charm, a prominent deficiency lies in its production. The album reveals the difficulties of attempting to capture the energy of a live performance","author":{"@type":"Person","name":"André, Frederick, and Andrew","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/the-music-boys\/"},"review":{"@type":"Review","author":{"@type":"Person","name":"André, Frederick, and Andrew"},"name":"Something Blue","reviewRating":{"@type":"Rating","bestRating":"30","ratingValue":"18"}}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/reviews\/radiohead-ok-computer\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/reviews\/radiohead-ok-computer\/","headline":"Review: OK Computer \/\/...","datePublished":"2016-05-25T18:00:52+00:00","dateModified":"2018-04-30T11:44:06+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2016\/05\/OK-Computer.png","width":696,"height":500},"articleSection":"Reviews","description":"ANDRÉ The term ‘timeless’ is often carelessly applied. Music can be eternal in a literal sense, but very rarely does a work have the endurance to live past its own age and move into new realms of significance through its context. OK Computer is one of these works. This was","author":{"@type":"Person","name":"André, Frederick, and Andrew","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/the-music-boys\/"},"review":{"@type":"Review","author":{"@type":"Person","name":"André, Frederick, and Andrew"},"name":"OK Computer","reviewRating":{"@type":"Rating","bestRating":"30","ratingValue":"29"}}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/reviews\/radiohead-a-moon-shaped-pool\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/reviews\/radiohead-a-moon-shaped-pool\/","headline":"Review: A Moon Shaped Pool \/\/...","datePublished":"2016-05-18T18:00:28+00:00","dateModified":"2018-03-10T21:38:49+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2016\/05\/A-Moon-Shaped-Pool.jpg","width":1035,"height":1035},"articleSection":"Reviews","description":"ANDRÉ After numerous side projects and years of anticipation, Radiohead return with their coldest statement yet. Mournful, reflective and frankly heart-breaking, A Moon Shaped Pool is an organic expedition of emotion, and a rewarding contrast to the robotic, often barren essence that comprised The King of Limbs. It’s impossible to","author":{"@type":"Person","name":"André, Frederick, and Andrew","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/the-music-boys\/"},"review":{"@type":"Review","author":{"@type":"Person","name":"André, Frederick, and Andrew"},"name":"A Moon Shaped Pool","reviewRating":{"@type":"Rating","bestRating":"30","ratingValue":"24"}}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/reviews\/james-blake-the-colour-in-anything\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/reviews\/james-blake-the-colour-in-anything\/","headline":"Review: The Colour in Anything \/\/ James...","datePublished":"2016-05-11T18:00:56+00:00","dateModified":"2018-03-10T20:25:29+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2016\/05\/F9GzgaZ1-e1520713479914.jpg","width":1000,"height":1000},"articleSection":"Reviews","description":"ANDRÉ Though James Blake tells us that he’s removed himself from a 'perpetual cycle of anxiety and depression', you’d be forgiven for thinking otherwise. Sonically speaking, Blake is where he has been since his debut album. He illustrates a deeply sombre image, singing with a consistently mournful tone to","author":{"@type":"Person","name":"André, Frederick, and Andrew","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/the-music-boys\/"},"review":{"@type":"Review","author":{"@type":"Person","name":"André, Frederick, and Andrew"},"name":"The Colour in Anything","reviewRating":{"@type":"Rating","bestRating":"30","ratingValue":"20"}}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/reviews\/prince-purple-rain\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/reviews\/prince-purple-rain\/","headline":"Review: Purple Rain \/\/...","datePublished":"2016-05-04T18:00:01+00:00","dateModified":"2018-03-10T22:42:23+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2016\/05\/prince-purple-rain.jpg","width":696,"height":600},"articleSection":"Reviews","description":"ANDRÉ Purple Rain was the monumental record that truly cemented Prince's position of power and distinguished him from his peers. Remarkably, it retains all of its audacity and persuasive force three decades on. It’s an endearing record of mystery and wonder, deftly inheriting elements from a wide selection of","author":{"@type":"Person","name":"André, Frederick, and Andrew","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/the-music-boys\/"},"review":{"@type":"Review","author":{"@type":"Person","name":"André, Frederick, and Andrew"},"name":"Purple Rain","reviewRating":{"@type":"Rating","bestRating":"30","ratingValue":"25"}}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/reviews\/deftones-gore\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/reviews\/deftones-gore\/","headline":"Review: Gore \/\/...","datePublished":"2016-04-27T18:00:22+00:00","dateModified":"2018-03-10T23:14:13+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2016\/04\/deftones-gore.jpg","width":1425,"height":1425},"articleSection":"Reviews","description":"ANDRÉ Irrespective of their stellar output, Deftones have always struggled to distinguish themselves from the contaminated haze of nu-metal that so often turns listeners away. Without sacrificing any of the gratifying brutality that fans have come to expect from the band, Gore strikes a delightful balance, and is perhaps","author":{"@type":"Person","name":"André, Frederick, and Andrew","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/the-music-boys\/"},"review":{"@type":"Review","author":{"@type":"Person","name":"André, Frederick, and Andrew"},"name":"Gore","reviewRating":{"@type":"Rating","bestRating":"30","ratingValue":"20"}}}]}</script>
 
 
 
@@ -220,7 +220,7 @@ a2a_config.onclick=1;
             "@type": "ListItem",
             "position": 2,
             "item": {
-                "@id": "https://old.audioxide.com/./reviews/",
+                "@id": "https://audioxide.com/./reviews/",
                 "name": "Reviews"
             }
         }
@@ -249,7 +249,7 @@ Click the help icon above to learn more.
 	<body class="archive paged category category-reviews category-2 paged-20 category-paged-20" itemscope itemtype="http://schema.org/WebPage">
 <header role="banner" class="sticky" itemscope itemtype="http://schema.org/WPHeader">
 	<div class="wrap">
-		<p id="logo" class="h1 logo" itemscope itemtype="http://schema.org/Organization"><a href="https://old.audioxide.com" rel="nofollow"><img src="https://old.audioxide.com/wp-content/themes/audioxide/library/images/site-logo.svg" /></a></p>
+		<p id="logo" class="h1 logo" itemscope itemtype="http://schema.org/Organization"><a href="https://audioxide.github.io/v1-archive" rel="nofollow"><img src="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/images/site-logo.svg" /></a></p>
 		<div class="social-media">
 			<a href="https://www.facebook.com/Audioxide/"><i class="fa fa-facebook-square"></i></a>
 			<a href="https://twitter.com/audioxidecom"><i class="fa fa-twitter-square"></i></a>
@@ -263,16 +263,16 @@ Click the help icon above to learn more.
 </header>
 <div id="coverartbanner" class="container coverart">
     <div class="wrapper">
-		<a href="https://old.audioxide.com/reviews/nothing-the-great-dismal/"><img src="https://old.audioxide.com/wp-content/uploads/2020/11/the-great-dismal-nothing-500x500.jpg" alt="Album cover for Nothing - The Great Dismal" /></a>
-<a href="https://old.audioxide.com/reviews/clipping-visions-of-bodies-being-burned/"><img src="https://old.audioxide.com/wp-content/uploads/2020/11/visions-of-bodies-being-burned-clipping-500x500.jpg" alt="Album cover for clipping. - Visions of Bodies Being Burned" /></a>
-<a href="https://old.audioxide.com/reviews/doves-the-universal-want/"><img src="https://old.audioxide.com/wp-content/uploads/2020/09/the-universal-want-doves-500x500.jpg" alt="Album cover for Doves - The Universal Want" /></a>
-<a href="https://old.audioxide.com/reviews/all-them-witches-nothing-as-the-ideal/"><img src="https://old.audioxide.com/wp-content/uploads/2020/09/nothing-as-the-ideal-all-them-witches-500x500.jpg" alt="Album cover for All Them Witches - Nothing as the Ideal" /></a>
-<a href="https://old.audioxide.com/reviews/kelly-lee-owens-inner-song/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/inner-song-kelly-lee-owens-500x500.jpg" alt="Album cover for Kelly Lee Owens - Inner Song" /></a>
-<a href="https://old.audioxide.com/reviews/nas-kings-disease/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/kings-disease-nas-500x500.jpg" alt="Album cover for Nas - King's Disease" /></a>
-<a href="https://old.audioxide.com/reviews/dead-kennedys-fresh-fruit-for-rotting-vegetables/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/fresh-fruit-for-rotting-vegetables-dead-kennedys-500x500.jpg" alt="Album cover for Dead Kennedys - Fresh Fruit for Rotting Vegetables" /></a>
-<a href="https://old.audioxide.com/reviews/glass-animals-dreamland/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/dreamland-glass-animals-500x500.jpg" alt="Album cover for Glass Animals - Dreamland" /></a>
-<a href="https://old.audioxide.com/reviews/neil-young-after-the-gold-rush/"><img src="https://old.audioxide.com/wp-content/uploads/2020/07/after-the-gold-rush-neil-young-500x500.jpg" alt="Album cover for Neil Young - After the Gold Rush" /></a>
-<a href="https://old.audioxide.com/reviews/lianne-la-havas-lianne-la-havas/"><img src="https://old.audioxide.com/wp-content/uploads/2020/07/lianne-la-havas-lianne-la-havas-500x500.jpg" alt="Album cover for Lianne La Havas - Lianne La Havas" /></a>
+		<a href="https://audioxide.github.io/v1-archive/reviews/nothing-the-great-dismal/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/11/the-great-dismal-nothing-500x500.jpg" alt="Album cover for Nothing - The Great Dismal" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/clipping-visions-of-bodies-being-burned/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/11/visions-of-bodies-being-burned-clipping-500x500.jpg" alt="Album cover for clipping. - Visions of Bodies Being Burned" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/doves-the-universal-want/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/09/the-universal-want-doves-500x500.jpg" alt="Album cover for Doves - The Universal Want" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/all-them-witches-nothing-as-the-ideal/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/09/nothing-as-the-ideal-all-them-witches-500x500.jpg" alt="Album cover for All Them Witches - Nothing as the Ideal" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/kelly-lee-owens-inner-song/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/inner-song-kelly-lee-owens-500x500.jpg" alt="Album cover for Kelly Lee Owens - Inner Song" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/nas-kings-disease/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/kings-disease-nas-500x500.jpg" alt="Album cover for Nas - King's Disease" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/dead-kennedys-fresh-fruit-for-rotting-vegetables/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/fresh-fruit-for-rotting-vegetables-dead-kennedys-500x500.jpg" alt="Album cover for Dead Kennedys - Fresh Fruit for Rotting Vegetables" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/glass-animals-dreamland/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/dreamland-glass-animals-500x500.jpg" alt="Album cover for Glass Animals - Dreamland" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/neil-young-after-the-gold-rush/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/07/after-the-gold-rush-neil-young-500x500.jpg" alt="Album cover for Neil Young - After the Gold Rush" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/lianne-la-havas-lianne-la-havas/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/07/lianne-la-havas-lianne-la-havas-500x500.jpg" alt="Album cover for Lianne La Havas - Lianne La Havas" /></a>
     </div>
 </div>
 	<main id="main" class="cf wrap review-list" role="main" itemscope itemprop="mainContentOfPage" itemtype="http://schema.org/Blog">
@@ -308,11 +308,11 @@ Click the help icon above to learn more.
 							color: #150d12;						}
 					}
 				</style>
-								<a href="https://old.audioxide.com/reviews/wolf-alice-my-love-is-cool/" rel="bookmark" title="Review: My Love Is Cool // Wolf Alice">
+								<a href="https://audioxide.github.io/v1-archive/reviews/wolf-alice-my-love-is-cool/" rel="bookmark" title="Review: My Love Is Cool // Wolf Alice">
 								<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2015/08/My-Love-Is-Cool-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: My Love Is Cool // Wolf Alice" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2015/08/My-Love-Is-Cool-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: My Love Is Cool // Wolf Alice" />
 						</div>
 					</div>
 				</div>
@@ -355,11 +355,11 @@ Click the help icon above to learn more.
 							color: #c79c4d;						}
 					}
 				</style>
-								<a href="https://old.audioxide.com/reviews/bob-marley-and-the-wailers-exodus/" rel="bookmark" title="Review: Exodus // Bob Marley and The Wailers">
+								<a href="https://audioxide.github.io/v1-archive/reviews/bob-marley-and-the-wailers-exodus/" rel="bookmark" title="Review: Exodus // Bob Marley and The Wailers">
 								<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2015/07/Exodus-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: Exodus // Bob Marley and The Wailers" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2015/07/Exodus-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: Exodus // Bob Marley and The Wailers" />
 						</div>
 					</div>
 				</div>
@@ -402,11 +402,11 @@ Click the help icon above to learn more.
 							color: #8f8f8f;						}
 					}
 				</style>
-								<a href="https://old.audioxide.com/reviews/jaga-jazzist-starfire/" rel="bookmark" title="Review: Starfire // Jaga Jazzist">
+								<a href="https://audioxide.github.io/v1-archive/reviews/jaga-jazzist-starfire/" rel="bookmark" title="Review: Starfire // Jaga Jazzist">
 								<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2015/11/jaga-jazzist-starfire.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: Starfire // Jaga Jazzist" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2015/11/jaga-jazzist-starfire.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: Starfire // Jaga Jazzist" />
 						</div>
 					</div>
 				</div>
@@ -449,11 +449,11 @@ Click the help icon above to learn more.
 							color: #7ba6c9;						}
 					}
 				</style>
-								<a href="https://old.audioxide.com/reviews/neil-young-on-the-beach/" rel="bookmark" title="Review: On the Beach // Neil Young">
+								<a href="https://audioxide.github.io/v1-archive/reviews/neil-young-on-the-beach/" rel="bookmark" title="Review: On the Beach // Neil Young">
 								<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2015/06/On-the-Beach-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: On the Beach // Neil Young" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2015/06/On-the-Beach-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: On the Beach // Neil Young" />
 						</div>
 					</div>
 				</div>
@@ -496,11 +496,11 @@ Click the help icon above to learn more.
 							color: #353935;						}
 					}
 				</style>
-								<a href="https://old.audioxide.com/reviews/muse-drones/" rel="bookmark" title="Review: Drones // Muse">
+								<a href="https://audioxide.github.io/v1-archive/reviews/muse-drones/" rel="bookmark" title="Review: Drones // Muse">
 								<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2015/11/muse-drones-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: Drones // Muse" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2015/11/muse-drones-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: Drones // Muse" />
 						</div>
 					</div>
 				</div>
@@ -543,11 +543,11 @@ Click the help icon above to learn more.
 							color: #ea8d0e;						}
 					}
 				</style>
-								<a href="https://old.audioxide.com/reviews/muse-origin-of-symmetry/" rel="bookmark" title="Review: Origin of Symmetry // Muse">
+								<a href="https://audioxide.github.io/v1-archive/reviews/muse-origin-of-symmetry/" rel="bookmark" title="Review: Origin of Symmetry // Muse">
 								<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2015/11/muse-origin-of-symmetry-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: Origin of Symmetry // Muse" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2015/11/muse-origin-of-symmetry-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: Origin of Symmetry // Muse" />
 						</div>
 					</div>
 				</div>
@@ -590,11 +590,11 @@ Click the help icon above to learn more.
 							color: #050505;						}
 					}
 				</style>
-								<a href="https://old.audioxide.com/reviews/san-fermin-jackrabbit/" rel="bookmark" title="Review: Jackrabbit // San Fermin">
+								<a href="https://audioxide.github.io/v1-archive/reviews/san-fermin-jackrabbit/" rel="bookmark" title="Review: Jackrabbit // San Fermin">
 								<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2015/11/san-fermin-jackrabbit-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: Jackrabbit // San Fermin" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2015/11/san-fermin-jackrabbit-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: Jackrabbit // San Fermin" />
 						</div>
 					</div>
 				</div>
@@ -637,11 +637,11 @@ Click the help icon above to learn more.
 							color: #787878;						}
 					}
 				</style>
-								<a href="https://old.audioxide.com/reviews/the-beatles-revolver/" rel="bookmark" title="Review: Revolver // The Beatles">
+								<a href="https://audioxide.github.io/v1-archive/reviews/the-beatles-revolver/" rel="bookmark" title="Review: Revolver // The Beatles">
 								<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2015/11/the-beatles-revolver-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: Revolver // The Beatles" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2015/11/the-beatles-revolver-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: Revolver // The Beatles" />
 						</div>
 					</div>
 				</div>
@@ -684,11 +684,11 @@ Click the help icon above to learn more.
 							color: #c2ba8c;						}
 					}
 				</style>
-								<a href="https://old.audioxide.com/reviews/blur-the-magic-whip/" rel="bookmark" title="Review: The Magic Whip // Blur">
+								<a href="https://audioxide.github.io/v1-archive/reviews/blur-the-magic-whip/" rel="bookmark" title="Review: The Magic Whip // Blur">
 								<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2015/11/blur-the-magic-whip-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: The Magic Whip // Blur" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2015/11/blur-the-magic-whip-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: The Magic Whip // Blur" />
 						</div>
 					</div>
 				</div>
@@ -731,11 +731,11 @@ Click the help icon above to learn more.
 							color: #00141f;						}
 					}
 				</style>
-								<a href="https://old.audioxide.com/reviews/gorillaz-demon-days/" rel="bookmark" title="Review: Demon Days // Gorillaz">
+								<a href="https://audioxide.github.io/v1-archive/reviews/gorillaz-demon-days/" rel="bookmark" title="Review: Demon Days // Gorillaz">
 								<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2015/04/Demon-Days-500x500.png" class="attachment-full wp-post-image" alt="Album artwork for Review: Demon Days // Gorillaz" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2015/04/Demon-Days-500x500.png" class="attachment-full wp-post-image" alt="Album artwork for Review: Demon Days // Gorillaz" />
 						</div>
 					</div>
 				</div>
@@ -778,11 +778,11 @@ Click the help icon above to learn more.
 							color: #0f1719;						}
 					}
 				</style>
-								<a href="https://old.audioxide.com/reviews/squarepusher-damogen-furies/" rel="bookmark" title="Review: Damogen Furies // Squarepusher">
+								<a href="https://audioxide.github.io/v1-archive/reviews/squarepusher-damogen-furies/" rel="bookmark" title="Review: Damogen Furies // Squarepusher">
 								<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2015/11/squarepusher-damogen-furies-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: Damogen Furies // Squarepusher" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2015/11/squarepusher-damogen-furies-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: Damogen Furies // Squarepusher" />
 						</div>
 					</div>
 				</div>
@@ -825,11 +825,11 @@ Click the help icon above to learn more.
 							color: #1a1d1f;						}
 					}
 				</style>
-								<a href="https://old.audioxide.com/reviews/u2-the-joshua-tree/" rel="bookmark" title="Review: The Joshua Tree // U2">
+								<a href="https://audioxide.github.io/v1-archive/reviews/u2-the-joshua-tree/" rel="bookmark" title="Review: The Joshua Tree // U2">
 								<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2015/04/The-Joshua-Tree-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: The Joshua Tree // U2" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2015/04/The-Joshua-Tree-500x500.jpg" class="attachment-full wp-post-image" alt="Album artwork for Review: The Joshua Tree // U2" />
 						</div>
 					</div>
 				</div>
@@ -845,17 +845,17 @@ Click the help icon above to learn more.
 			</a>
 		</article>
 				<nav class="pagination"><ul class='page-numbers'>
-	<li><a class="prev page-numbers" href="https://old.audioxide.com/reviews/page/19/">&larr;</a></li>
-	<li><a class='page-numbers' href='https://old.audioxide.com/reviews/page/1/'>1</a></li>
-	<li><a class='page-numbers' href='https://old.audioxide.com/reviews/page/2/'>2</a></li>
-	<li><a class='page-numbers' href='https://old.audioxide.com/reviews/page/3/'>3</a></li>
+	<li><a class="prev page-numbers" href="https://audioxide.github.io/v1-archive/reviews/page/19/">&larr;</a></li>
+	<li><a class='page-numbers' href='https://audioxide.github.io/v1-archive/reviews/page/1/'>1</a></li>
+	<li><a class='page-numbers' href='https://audioxide.github.io/v1-archive/reviews/page/2/'>2</a></li>
+	<li><a class='page-numbers' href='https://audioxide.github.io/v1-archive/reviews/page/3/'>3</a></li>
 	<li><span class="page-numbers dots">&hellip;</span></li>
-	<li><a class='page-numbers' href='https://old.audioxide.com/reviews/page/17/'>17</a></li>
-	<li><a class='page-numbers' href='https://old.audioxide.com/reviews/page/18/'>18</a></li>
-	<li><a class='page-numbers' href='https://old.audioxide.com/reviews/page/19/'>19</a></li>
+	<li><a class='page-numbers' href='https://audioxide.github.io/v1-archive/reviews/page/17/'>17</a></li>
+	<li><a class='page-numbers' href='https://audioxide.github.io/v1-archive/reviews/page/18/'>18</a></li>
+	<li><a class='page-numbers' href='https://audioxide.github.io/v1-archive/reviews/page/19/'>19</a></li>
 	<li><span aria-current='page' class='page-numbers current'>20</span></li>
-	<li><a class='page-numbers' href='https://old.audioxide.com/reviews/page/21/'>21</a></li>
-	<li><a class="next page-numbers" href="https://old.audioxide.com/reviews/page/21/">&rarr;</a></li>
+	<li><a class='page-numbers' href='https://audioxide.github.io/v1-archive/reviews/page/21/'>21</a></li>
+	<li><a class="next page-numbers" href="https://audioxide.github.io/v1-archive/reviews/page/21/">&rarr;</a></li>
 </ul>
 </nav>
 		
@@ -896,10 +896,10 @@ Click the help icon above to learn more.
 var mctb = {"cookieLength":"365","icons":{"hide":"&#x25BC;","show":"&#x25B2;"},"position":"bottom","state":{"submitted":false,"success":false}};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/plugins/mailchimp-top-bar/assets/js/script.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/themes/audioxide/library/js/libs/jquery.quickfit.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/themes/audioxide/library/js/scripts.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/plugins/mailchimp-top-bar/assets/js/script.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/js/libs/jquery.quickfit.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/js/scripts.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-includes/js/wp-embed.min.js'></script>
 
 	</body>
 

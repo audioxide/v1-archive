@@ -16,30 +16,30 @@
 		<meta name="MobileOptimized" content="320">
 		<meta name="viewport" content="width=device-width, initial-scale=1"/>
 
-				<link rel="apple-touch-icon" href="https://old.audioxide.com/wp-content/themes/audioxide/library/images/apple-touch-icon.png">
-		<link rel="icon" href="https://old.audioxide.com/wp-content/themes/audioxide/favicon.png">
+				<link rel="apple-touch-icon" href="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/images/apple-touch-icon.png">
+		<link rel="icon" href="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/favicon.png">
 		<!--[if IE]>
-			<link rel="shortcut icon" href="https://old.audioxide.com/wp-content/themes/audioxide/favicon.ico">
+			<link rel="shortcut icon" href="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/favicon.ico">
 		<![endif]-->
 				<meta name="msapplication-TileColor" content="#f01d4f">
-		<meta name="msapplication-TileImage" content="https://old.audioxide.com/wp-content/themes/audioxide/library/images/win8-tile-icon.png">
+		<meta name="msapplication-TileImage" content="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/images/win8-tile-icon.png">
             <meta name="theme-color" content="#121212">
 
                         <meta property="og:title" content="Best of the Rest // April 2016" />
                 <meta property="fb:app_id" content="950609285023482" />
-        <meta property="og:url" content="https://old.audioxide.com/articles/best-of-the-rest-april-2016/" />
+        <meta property="og:url" content="https://audioxide.com/articles/best-of-the-rest-april-2016/" />
         <meta property="og:site_name" content="Audioxide" />
-        <meta property="og:image" content="https://old.audioxide.com/wp-content/uploads/2016/05/BOTR-500x500.jpg" />
+        <meta property="og:image" content="https://audioxide.github.io/v1-archive/wp-content/uploads/2016/05/BOTR-500x500.jpg" />
                 
-		<link rel="pingback" href="https://old.audioxide.com/xmlrpc.php">
+		<link rel="pingback" href="https://audioxide.github.io/v1-archive/xmlrpc.php">
 
 				
 <!-- All In One SEO Pack 3.7.1[440,490] -->
-<link rel="canonical" href="https://old.audioxide.com/articles/best-of-the-rest-april-2016/" />
+<link rel="canonical" href="https://audioxide.com/articles/best-of-the-rest-april-2016/" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Best of the Rest // April 2016 | Audioxide" />
 <meta property="og:description" content="ANDRÉ &amp; ANDREW 01.05.02016 April came and overwhelmed us with new releases, it&#039;s been a great month for music and we had just enough time to squeeze in some words for these four releases. Mod" />
-<meta property="og:url" content="https://old.audioxide.com/articles/best-of-the-rest-april-2016/" />
+<meta property="og:url" content="https://audioxide.com/articles/best-of-the-rest-april-2016/" />
 <meta property="og:site_name" content="Audioxide" />
 <meta property="og:image" content="https://audioxide.com/wp-content/uploads/2017/10/bannerlogoblack.png" />
 <meta property="fb:admins" content="1093489064003119" />
@@ -54,9 +54,9 @@
 <meta name="twitter:image" content="https://audioxide.com/wp-content/uploads/2017/10/bannerlogoblack.png" />
 <!-- All In One SEO Pack -->
 <link rel='dns-prefetch' href='//s.w.org' />
-<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Feed" href="https://old.audioxide.com/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Comments Feed" href="https://old.audioxide.com/comments/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Best of the Rest // April 2016 Comments Feed" href="https://old.audioxide.com/articles/best-of-the-rest-april-2016/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Feed" href="https://audioxide.github.io/v1-archive/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Comments Feed" href="https://audioxide.github.io/v1-archive/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Best of the Rest // April 2016 Comments Feed" href="https://audioxide.github.io/v1-archive/articles/best-of-the-rest-april-2016/feed/" />
 <!-- This site uses the Google Analytics by ExactMetrics plugin v6.2.2 - Using Analytics tracking - https://www.exactmetrics.com/ -->
 <script type="text/javascript" data-cfasync="false">
 	var em_version         = '6.2.2';
@@ -144,7 +144,7 @@ window.ga = __gaTracker;		__gaTracker('create', 'UA-71965408-1', 'auto');
 </script>
 <!-- / Google Analytics by ExactMetrics -->
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/old.audioxide.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-includes\/js\/wp-emoji-release.min.js"}};
 			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])?!1:!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55358,56760,9792,65039],[55358,56760,8203,9792,65039])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script>
 		<style type="text/css">
@@ -161,28 +161,28 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel='stylesheet' id='mc4wp-form-themes-css'  href='https://old.audioxide.com/wp-content/plugins/mailchimp-for-wp/assets/css/form-themes.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='mailchimp-top-bar-css'  href='https://old.audioxide.com/wp-content/plugins/mailchimp-top-bar/assets/css/bar.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='addtoany-css'  href='https://old.audioxide.com/wp-content/plugins/add-to-any/addtoany.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='editor-style-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/editor-style.css' type='text/css' media='all' />
-<link rel='stylesheet' id='admin-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/admin.css' type='text/css' media='all' />
-<link rel='stylesheet' id='ie-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/ie.css' type='text/css' media='all' />
-<link rel='stylesheet' id='style-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/style.css' type='text/css' media='all' />
-<link rel='stylesheet' id='login-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/login.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mc4wp-form-themes-css'  href='https://audioxide.github.io/v1-archive/wp-content/plugins/mailchimp-for-wp/assets/css/form-themes.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mailchimp-top-bar-css'  href='https://audioxide.github.io/v1-archive/wp-content/plugins/mailchimp-top-bar/assets/css/bar.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='addtoany-css'  href='https://audioxide.github.io/v1-archive/wp-content/plugins/add-to-any/addtoany.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='editor-style-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/editor-style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/admin.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ie-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/ie.css' type='text/css' media='all' />
+<link rel='stylesheet' id='style-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='login-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/login.css' type='text/css' media='all' />
 <script type='text/javascript'>
 /* <![CDATA[ */
-var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"zip,mp3,mpeg,pdf,docx,pptx,xlsx,rar","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/old.audioxide.com","hash_tracking":"false"};
+var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"zip,mp3,mpeg,pdf,docx,pptx,xlsx,rar","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json","hash_tracking":"false"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/plugins/google-analytics-dashboard-for-wp/assets/js/frontend.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-includes/js/jquery/jquery.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-includes/js/jquery/jquery-migrate.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/plugins/add-to-any/addtoany.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/themes/audioxide/library/js/libs/modernizr.custom.min.js'></script>
-<link rel='https://api.w.org/' href='https://old.audioxide.com/wp-json/' />
-<link rel='shortlink' href='https://old.audioxide.com/?p=1964' />
-<link rel="alternate" type="application/json+oembed" href="https://old.audioxide.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fold.audioxide.com%2Farticles%2Fbest-of-the-rest-april-2016%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://old.audioxide.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fold.audioxide.com%2Farticles%2Fbest-of-the-rest-april-2016%2F&#038;format=xml" />
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/plugins/google-analytics-dashboard-for-wp/assets/js/frontend.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/plugins/add-to-any/addtoany.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/js/libs/modernizr.custom.min.js'></script>
+<link rel='https://api.w.org/' href='https://audioxide.github.io/v1-archive/wp-json/' />
+<link rel='shortlink' href='https://audioxide.github.io/v1-archive/?p=1964' />
+<link rel="alternate" type="application/json+oembed" href="https://audioxide.github.io/v1-archive/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fold.audioxide.com%2Farticles%2Fbest-of-the-rest-april-2016%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://audioxide.github.io/v1-archive/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fold.audioxide.com%2Farticles%2Fbest-of-the-rest-april-2016%2F&#038;format=xml" />
 
 <script data-cfasync="false">
 window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_localize = {
@@ -214,7 +214,7 @@ a2a_config.onclick=1;
 
 
 <!-- This site is optimized with the Schema plugin v1.7.8.3 - https://schema.press -->
-<script type="application/ld+json">{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/articles\/best-of-the-rest-april-2016\/"},"url":"https:\/\/old.audioxide.com\/articles\/best-of-the-rest-april-2016\/","headline":"Best of the Rest \/\/ April...","datePublished":"2016-05-05T17:13:28+00:00","dateModified":"2016-05-05T17:21:35+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2016\/05\/BOTR.jpg","width":696,"height":600},"articleSection":"Articles","description":"ANDRÉ &amp; ANDREW 01.05.02016 April came and overwhelmed us with new releases, it's been a great month for music and we had just enough time to squeeze in some words for these four releases. Moderat \/\/ III Andrew Berlin based electro-trio Moderat returned this month with their third (and possibly final) album together,","author":{"@type":"Person","name":"admin","url":"https:\/\/old.audioxide.com\/author\/admin\/"}}</script>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/best-of-the-rest-april-2016\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/best-of-the-rest-april-2016\/","headline":"Best of the Rest \/\/ April...","datePublished":"2016-05-05T17:13:28+00:00","dateModified":"2016-05-05T17:21:35+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2016\/05\/BOTR.jpg","width":696,"height":600},"articleSection":"Articles","description":"ANDRÉ &amp; ANDREW 01.05.02016 April came and overwhelmed us with new releases, it's been a great month for music and we had just enough time to squeeze in some words for these four releases. Moderat \/\/ III Andrew Berlin based electro-trio Moderat returned this month with their third (and possibly final) album together,","author":{"@type":"Person","name":"admin","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/admin\/"}}</script>
 
 
 
@@ -235,9 +235,9 @@ a2a_config.onclick=1;
             "@type": "ListItem",
             "position": 2,
             "item": {
-                "@id": "https://old.audioxide.com/articles/best-of-the-rest-april-2016/",
+                "@id": "https://audioxide.com/articles/best-of-the-rest-april-2016/",
                 "name": "Best of the Rest // April 2016",
-                "image": "https://old.audioxide.com/wp-content/uploads/2016/05/BOTR.jpg"
+                "image": "https://audioxide.github.io/v1-archive/wp-content/uploads/2016/05/BOTR.jpg"
             }
         }
     ]
@@ -265,7 +265,7 @@ Click the help icon above to learn more.
 	<body class="post-template-default single single-post postid-1964 single-format-standard" itemscope itemtype="http://schema.org/WebPage">
 <header role="banner" class="sticky" itemscope itemtype="http://schema.org/WPHeader">
 	<div class="wrap">
-		<p id="logo" class="h1 logo" itemscope itemtype="http://schema.org/Organization"><a href="https://old.audioxide.com" rel="nofollow"><img src="https://old.audioxide.com/wp-content/themes/audioxide/library/images/site-logo.svg" /></a></p>
+		<p id="logo" class="h1 logo" itemscope itemtype="http://schema.org/Organization"><a href="https://audioxide.github.io/v1-archive" rel="nofollow"><img src="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/images/site-logo.svg" /></a></p>
 		<div class="social-media">
 			<a href="https://www.facebook.com/Audioxide/"><i class="fa fa-facebook-square"></i></a>
 			<a href="https://twitter.com/audioxidecom"><i class="fa fa-twitter-square"></i></a>
@@ -279,16 +279,16 @@ Click the help icon above to learn more.
 </header>
 <div id="coverartbanner" class="container coverart">
     <div class="wrapper">
-		<a href="https://old.audioxide.com/reviews/nothing-the-great-dismal/"><img src="https://old.audioxide.com/wp-content/uploads/2020/11/the-great-dismal-nothing-500x500.jpg" alt="Album cover for Nothing - The Great Dismal" /></a>
-<a href="https://old.audioxide.com/reviews/clipping-visions-of-bodies-being-burned/"><img src="https://old.audioxide.com/wp-content/uploads/2020/11/visions-of-bodies-being-burned-clipping-500x500.jpg" alt="Album cover for clipping. - Visions of Bodies Being Burned" /></a>
-<a href="https://old.audioxide.com/reviews/doves-the-universal-want/"><img src="https://old.audioxide.com/wp-content/uploads/2020/09/the-universal-want-doves-500x500.jpg" alt="Album cover for Doves - The Universal Want" /></a>
-<a href="https://old.audioxide.com/reviews/all-them-witches-nothing-as-the-ideal/"><img src="https://old.audioxide.com/wp-content/uploads/2020/09/nothing-as-the-ideal-all-them-witches-500x500.jpg" alt="Album cover for All Them Witches - Nothing as the Ideal" /></a>
-<a href="https://old.audioxide.com/reviews/kelly-lee-owens-inner-song/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/inner-song-kelly-lee-owens-500x500.jpg" alt="Album cover for Kelly Lee Owens - Inner Song" /></a>
-<a href="https://old.audioxide.com/reviews/nas-kings-disease/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/kings-disease-nas-500x500.jpg" alt="Album cover for Nas - King's Disease" /></a>
-<a href="https://old.audioxide.com/reviews/dead-kennedys-fresh-fruit-for-rotting-vegetables/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/fresh-fruit-for-rotting-vegetables-dead-kennedys-500x500.jpg" alt="Album cover for Dead Kennedys - Fresh Fruit for Rotting Vegetables" /></a>
-<a href="https://old.audioxide.com/reviews/glass-animals-dreamland/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/dreamland-glass-animals-500x500.jpg" alt="Album cover for Glass Animals - Dreamland" /></a>
-<a href="https://old.audioxide.com/reviews/neil-young-after-the-gold-rush/"><img src="https://old.audioxide.com/wp-content/uploads/2020/07/after-the-gold-rush-neil-young-500x500.jpg" alt="Album cover for Neil Young - After the Gold Rush" /></a>
-<a href="https://old.audioxide.com/reviews/lianne-la-havas-lianne-la-havas/"><img src="https://old.audioxide.com/wp-content/uploads/2020/07/lianne-la-havas-lianne-la-havas-500x500.jpg" alt="Album cover for Lianne La Havas - Lianne La Havas" /></a>
+		<a href="https://audioxide.github.io/v1-archive/reviews/nothing-the-great-dismal/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/11/the-great-dismal-nothing-500x500.jpg" alt="Album cover for Nothing - The Great Dismal" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/clipping-visions-of-bodies-being-burned/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/11/visions-of-bodies-being-burned-clipping-500x500.jpg" alt="Album cover for clipping. - Visions of Bodies Being Burned" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/doves-the-universal-want/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/09/the-universal-want-doves-500x500.jpg" alt="Album cover for Doves - The Universal Want" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/all-them-witches-nothing-as-the-ideal/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/09/nothing-as-the-ideal-all-them-witches-500x500.jpg" alt="Album cover for All Them Witches - Nothing as the Ideal" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/kelly-lee-owens-inner-song/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/inner-song-kelly-lee-owens-500x500.jpg" alt="Album cover for Kelly Lee Owens - Inner Song" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/nas-kings-disease/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/kings-disease-nas-500x500.jpg" alt="Album cover for Nas - King's Disease" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/dead-kennedys-fresh-fruit-for-rotting-vegetables/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/fresh-fruit-for-rotting-vegetables-dead-kennedys-500x500.jpg" alt="Album cover for Dead Kennedys - Fresh Fruit for Rotting Vegetables" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/glass-animals-dreamland/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/dreamland-glass-animals-500x500.jpg" alt="Album cover for Glass Animals - Dreamland" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/neil-young-after-the-gold-rush/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/07/after-the-gold-rush-neil-young-500x500.jpg" alt="Album cover for Neil Young - After the Gold Rush" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/lianne-la-havas-lianne-la-havas/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/07/lianne-la-havas-lianne-la-havas-500x500.jpg" alt="Album cover for Lianne La Havas - Lianne La Havas" /></a>
     </div>
 </div>
 	<main id="main" role="main" itemscope itemprop="mainContentOfPage" itemtype="http://schema.org/Blog">
@@ -313,23 +313,23 @@ Click the help icon above to learn more.
 <hr />
 <h3>Moderat // <i>III</i></h3>
 <h4>Andrew</h4>
-<p><img class="alignright wp-image-1965 size-medium" src="http://audioxide.com/wp-content/uploads/2016/05/front1-300x300.jpg" alt="Album cover for Moderat - III" width="300" height="300" srcset="https://old.audioxide.com/wp-content/uploads/2016/05/front1-300x300.jpg 300w, https://old.audioxide.com/wp-content/uploads/2016/05/front1-150x150.jpg 150w, https://old.audioxide.com/wp-content/uploads/2016/05/front1-768x768.jpg 768w, https://old.audioxide.com/wp-content/uploads/2016/05/front1-500x500.jpg 500w, https://old.audioxide.com/wp-content/uploads/2016/05/front1-125x125.jpg 125w, https://old.audioxide.com/wp-content/uploads/2016/05/front1.jpg 806w" sizes="(max-width: 300px) 100vw, 300px" />Berlin based electro-trio Moderat returned this month with their third (and possibly final) album together, with a mix of slow evolving, rich, dark sounds, considered vocals and ever-interesting, glitchy beats. Building on their well received 2013 release, <em>II</em>, this new album presents the listener with tracks like &#8220;Reminder&#8221;, which could easily be mistaken for a Thom Yorke single and carries many elements over from the trio&#8217;s other projects, including an agitated, Modeselektor-esque synth in &#8220;The Fool&#8221; and warm, enveloping instrumentals that certainly wouldn&#8217;t be out of place on an Apparat release.</p>
+<p><img class="alignright wp-image-1965 size-medium" src="http://audioxide.com/wp-content/uploads/2016/05/front1-300x300.jpg" alt="Album cover for Moderat - III" width="300" height="300" srcset="https://audioxide.github.io/v1-archive/wp-content/uploads/2016/05/front1-300x300.jpg 300w, https://audioxide.github.io/v1-archive/wp-content/uploads/2016/05/front1-150x150.jpg 150w, https://audioxide.github.io/v1-archive/wp-content/uploads/2016/05/front1-768x768.jpg 768w, https://audioxide.github.io/v1-archive/wp-content/uploads/2016/05/front1-500x500.jpg 500w, https://audioxide.github.io/v1-archive/wp-content/uploads/2016/05/front1-125x125.jpg 125w, https://audioxide.github.io/v1-archive/wp-content/uploads/2016/05/front1.jpg 806w" sizes="(max-width: 300px) 100vw, 300px" />Berlin based electro-trio Moderat returned this month with their third (and possibly final) album together, with a mix of slow evolving, rich, dark sounds, considered vocals and ever-interesting, glitchy beats. Building on their well received 2013 release, <em>II</em>, this new album presents the listener with tracks like &#8220;Reminder&#8221;, which could easily be mistaken for a Thom Yorke single and carries many elements over from the trio&#8217;s other projects, including an agitated, Modeselektor-esque synth in &#8220;The Fool&#8221; and warm, enveloping instrumentals that certainly wouldn&#8217;t be out of place on an Apparat release.</p>
 <p>The album sees its peak in the mid-third, but still holds listener interest afterwards with tracks like &#8220;Intruder&#8221;, which builds through the track with a strong beat and endlessly reverberating vocals that fly above it, and &#8220;Animal Trails&#8221;, which builds from an airy stand still to clattering juggernaut.</p>
 <p><em>III</em> is a good listen and will more than likely satisfy fans of Jon Hopkins, Thom Yorke or Four Tet. Given that this is the third in the group&#8217;s trilogy of releases, it&#8217;s not clear whether we&#8217;ll hear anything further from them, but if not, <em>III</em> is a good LP to go out with.</p>
 <hr />
 <h3>Beyoncé // <em>Lemonade</em></h3>
 <h4>ANDRÉ</h4>
-<p><a href="http://audioxide.com/wp-content/uploads/2016/05/Lemonade.jpg"><img class="wp-image-2017 size-medium alignright" src="http://audioxide.com/wp-content/uploads/2016/05/Lemonade-300x300.jpg" alt="" width="300" height="300" srcset="https://old.audioxide.com/wp-content/uploads/2016/05/Lemonade-300x300.jpg 300w, https://old.audioxide.com/wp-content/uploads/2016/05/Lemonade-150x150.jpg 150w, https://old.audioxide.com/wp-content/uploads/2016/05/Lemonade-500x500.jpg 500w, https://old.audioxide.com/wp-content/uploads/2016/05/Lemonade-125x125.jpg 125w, https://old.audioxide.com/wp-content/uploads/2016/05/Lemonade.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a>Beyoncé’s evolved into somewhat of an enigma these past few years, interacting with a select audience in such an edgy manner that mirrors the recently deceased icon Prince. It’s a refreshing contrast that is most welcome in an industry primarily assembled of narcissists. When Beyoncé speaks, you listen, and her confessions on <em>Lemonade</em> are intense and strikingly intimate. With an opening line of “you can taste the dishonesty, it’s all over your breath” speculation over her marriage with Jay-Z has unsurprisingly been the subject of conversation. This is undoubtedly one of the most personal pop records I’ve listened to.</p>
+<p><a href="http://audioxide.com/wp-content/uploads/2016/05/Lemonade.jpg"><img class="wp-image-2017 size-medium alignright" src="http://audioxide.com/wp-content/uploads/2016/05/Lemonade-300x300.jpg" alt="" width="300" height="300" srcset="https://audioxide.github.io/v1-archive/wp-content/uploads/2016/05/Lemonade-300x300.jpg 300w, https://audioxide.github.io/v1-archive/wp-content/uploads/2016/05/Lemonade-150x150.jpg 150w, https://audioxide.github.io/v1-archive/wp-content/uploads/2016/05/Lemonade-500x500.jpg 500w, https://audioxide.github.io/v1-archive/wp-content/uploads/2016/05/Lemonade-125x125.jpg 125w, https://audioxide.github.io/v1-archive/wp-content/uploads/2016/05/Lemonade.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a>Beyoncé’s evolved into somewhat of an enigma these past few years, interacting with a select audience in such an edgy manner that mirrors the recently deceased icon Prince. It’s a refreshing contrast that is most welcome in an industry primarily assembled of narcissists. When Beyoncé speaks, you listen, and her confessions on <em>Lemonade</em> are intense and strikingly intimate. With an opening line of “you can taste the dishonesty, it’s all over your breath” speculation over her marriage with Jay-Z has unsurprisingly been the subject of conversation. This is undoubtedly one of the most personal pop records I’ve listened to.</p>
 <p>With excellent beats, enduring hooks and an extensive assortment of instrumentation, <em>Lemonade</em> has everything you could possibly want in a pop album. It contains such variety in almost aspect that it will likely be a highly satisfying listen for a number of audiences. Listeners who have experienced dishonesty and deception in a relationship will find it utterly compelling, and those with an ear for excellent production and artistic craftsmanship will likely feel a similar sensation. Beyoncé’s voice is utterly sensational, particularly in &#8220;Sandcastles&#8221;, a piano ballad driven by so much passion it blows Adele out of the water. <em>Lemonade</em> is a glorious success. It’s one of the best pop releases I’ve experienced in many years, and will stand high at the end of 2016. Well played, Queen Bey.</p>
 <hr />
 <h3>Brian Eno // <em>The Ship</em></h3>
 <h4>ANDRÉ</h4>
-<p><img class="alignright wp-image-2015 size-medium" src="http://audioxide.com/wp-content/uploads/2016/05/front1-1-300x300.jpg" alt="Album cover for Brian Eno - The Ship" width="300" height="300" srcset="https://old.audioxide.com/wp-content/uploads/2016/05/front1-1-300x300.jpg 300w, https://old.audioxide.com/wp-content/uploads/2016/05/front1-1-150x150.jpg 150w, https://old.audioxide.com/wp-content/uploads/2016/05/front1-1-768x768.jpg 768w, https://old.audioxide.com/wp-content/uploads/2016/05/front1-1-1024x1024.jpg 1024w, https://old.audioxide.com/wp-content/uploads/2016/05/front1-1-500x500.jpg 500w, https://old.audioxide.com/wp-content/uploads/2016/05/front1-1-1000x1000.jpg 1000w, https://old.audioxide.com/wp-content/uploads/2016/05/front1-1-125x125.jpg 125w" sizes="(max-width: 300px) 100vw, 300px" />The latest record from ambient pioneer Brian Eno is a flowing piece of music broken into four separate tracks, and impressively manages to feel distinct from the rest of his vast catalogue. <em>The Ship</em>’s opening track is a chilly soundscape initially of the same nature of <em>Music for Airports</em>. Beautifully textured tones are eventually joined by Eno’s low vocals that feel like a distraction from the lush ambient music, which subsequently becomes a mere backdrop. Whilst it’s still a lovely piece of music, the chant-like vocals are often in danger of agitating the soothing ambiance. “Fickle Sun (i)” follows and challenges the listener further, but does so in more satisfying fashion, running in multiple directions whilst retaining a sense of cohesiveness throughout.</p>
+<p><img class="alignright wp-image-2015 size-medium" src="http://audioxide.com/wp-content/uploads/2016/05/front1-1-300x300.jpg" alt="Album cover for Brian Eno - The Ship" width="300" height="300" srcset="https://audioxide.github.io/v1-archive/wp-content/uploads/2016/05/front1-1-300x300.jpg 300w, https://audioxide.github.io/v1-archive/wp-content/uploads/2016/05/front1-1-150x150.jpg 150w, https://audioxide.github.io/v1-archive/wp-content/uploads/2016/05/front1-1-768x768.jpg 768w, https://audioxide.github.io/v1-archive/wp-content/uploads/2016/05/front1-1-1024x1024.jpg 1024w, https://audioxide.github.io/v1-archive/wp-content/uploads/2016/05/front1-1-500x500.jpg 500w, https://audioxide.github.io/v1-archive/wp-content/uploads/2016/05/front1-1-1000x1000.jpg 1000w, https://audioxide.github.io/v1-archive/wp-content/uploads/2016/05/front1-1-125x125.jpg 125w" sizes="(max-width: 300px) 100vw, 300px" />The latest record from ambient pioneer Brian Eno is a flowing piece of music broken into four separate tracks, and impressively manages to feel distinct from the rest of his vast catalogue. <em>The Ship</em>’s opening track is a chilly soundscape initially of the same nature of <em>Music for Airports</em>. Beautifully textured tones are eventually joined by Eno’s low vocals that feel like a distraction from the lush ambient music, which subsequently becomes a mere backdrop. Whilst it’s still a lovely piece of music, the chant-like vocals are often in danger of agitating the soothing ambiance. “Fickle Sun (i)” follows and challenges the listener further, but does so in more satisfying fashion, running in multiple directions whilst retaining a sense of cohesiveness throughout.</p>
 <p>At the other end of the album lies “Fickle Sun (iii)”, which is an absolutely gorgeous cover of the Velvet Underground’s “I’m Set Free&#8221;. It arrives unexpectedly, commencing at a steady pace, but develops into something so delightful that you’re left wanting more: with a track time of just five minutes, you wonder why the extensive treatment given to <em>The Ship</em>’s title track isn’t applied here. As with all of Eno’s work, the determination to advance into progressive territory is to be appreciated, and even if not every experiment works, <em>The Ship</em> is a deeply enjoyable work. Its finest moment, however, is ultimately the result of Eno tapping into his pop sensibilities. He may be one of the Godfathers of ambient music, but Eno still has the ability to write immensely satisfying vocal-driven pop.</p>
 <hr />
 <h3>Weezer // <i>Weezer (White Album)</i></h3>
 <h4>ANDREW</h4>
-<p><img class="alignright wp-image-2014 size-medium" src="http://audioxide.com/wp-content/uploads/2016/05/front2-300x300.jpg" alt="Album cover for Weezer - Weezer (White Album)" width="300" height="300" srcset="https://old.audioxide.com/wp-content/uploads/2016/05/front2-300x300.jpg 300w, https://old.audioxide.com/wp-content/uploads/2016/05/front2-150x150.jpg 150w, https://old.audioxide.com/wp-content/uploads/2016/05/front2-768x768.jpg 768w, https://old.audioxide.com/wp-content/uploads/2016/05/front2-1024x1024.jpg 1024w, https://old.audioxide.com/wp-content/uploads/2016/05/front2-500x500.jpg 500w, https://old.audioxide.com/wp-content/uploads/2016/05/front2-1000x1000.jpg 1000w, https://old.audioxide.com/wp-content/uploads/2016/05/front2-125x125.jpg 125w, https://old.audioxide.com/wp-content/uploads/2016/05/front2.jpg 1425w" sizes="(max-width: 300px) 100vw, 300px" />Weezer returned this month, building on their 2014 release, <em>Everything Will Be Alright in the End</em>, which, for many, was an up turn in the band&#8217;s output after almost a decade of material that was met with lukewarm reactions. As far as I&#8217;m concerned, this latest album continues the steps in the right direction. With all the quirks and insecurities that you&#8217;d expect from a Weezer album and some catchy riffs to boot, the white album has quickly found itself being repeated on multiple occasions.</p>
+<p><img class="alignright wp-image-2014 size-medium" src="http://audioxide.com/wp-content/uploads/2016/05/front2-300x300.jpg" alt="Album cover for Weezer - Weezer (White Album)" width="300" height="300" srcset="https://audioxide.github.io/v1-archive/wp-content/uploads/2016/05/front2-300x300.jpg 300w, https://audioxide.github.io/v1-archive/wp-content/uploads/2016/05/front2-150x150.jpg 150w, https://audioxide.github.io/v1-archive/wp-content/uploads/2016/05/front2-768x768.jpg 768w, https://audioxide.github.io/v1-archive/wp-content/uploads/2016/05/front2-1024x1024.jpg 1024w, https://audioxide.github.io/v1-archive/wp-content/uploads/2016/05/front2-500x500.jpg 500w, https://audioxide.github.io/v1-archive/wp-content/uploads/2016/05/front2-1000x1000.jpg 1000w, https://audioxide.github.io/v1-archive/wp-content/uploads/2016/05/front2-125x125.jpg 125w, https://audioxide.github.io/v1-archive/wp-content/uploads/2016/05/front2.jpg 1425w" sizes="(max-width: 300px) 100vw, 300px" />Weezer returned this month, building on their 2014 release, <em>Everything Will Be Alright in the End</em>, which, for many, was an up turn in the band&#8217;s output after almost a decade of material that was met with lukewarm reactions. As far as I&#8217;m concerned, this latest album continues the steps in the right direction. With all the quirks and insecurities that you&#8217;d expect from a Weezer album and some catchy riffs to boot, the white album has quickly found itself being repeated on multiple occasions.</p>
 <p>The lead single, &#8220;Thank God For Girls&#8221;, is catchy and provides a bit of substance (River Cuomo even went to the effort of <a href="http://genius.com/8030790">discussing his lyrics</a> over at genius.com), and &#8220;L.A. Girlz&#8221; surely wins the award for &#8220;earworm&#8221; level memorability. Lyrics still can come across filled with teen angst despite all the band members being over 45, but that may not need to be pointed out at this point.</p>
 <p>It&#8217;s standard pop-rock fare from Weezer then, which will unlikely win over any detractors of the previous albums but will certainly provide fans with more of the angsty, nerdy, catchy music we expect from the band.</p>
 <hr />
@@ -351,16 +351,16 @@ Travis // <em>Everything at Once</em></p>
 
                                     <h4>Related Posts</h4>
                   <ul class="related-posts">
-                    <li><a href="https://old.audioxide.com/reviews/nothing-the-great-dismal/">
+                    <li><a href="https://audioxide.github.io/v1-archive/reviews/nothing-the-great-dismal/">
                         <h5>Reviews:<span class='oneline'>Review: The Great Dismal // Nothing</span></h5>                        </a>
-                      </li><li><a href="https://old.audioxide.com/reviews/clipping-visions-of-bodies-being-burned/">
+                      </li><li><a href="https://audioxide.github.io/v1-archive/reviews/clipping-visions-of-bodies-being-burned/">
                         <h5>Reviews:<span class='oneline'>Review: Visions of Bodies Being Burned // clipping.</span></h5>                        </a>
-                      </li><li><a href="https://old.audioxide.com/reviews/doves-the-universal-want/">
+                      </li><li><a href="https://audioxide.github.io/v1-archive/reviews/doves-the-universal-want/">
                         <h5>Reviews:<span class='oneline'>Review: The Universal Want // Doves</span></h5>                        </a>
-                      </li><li><a href="https://old.audioxide.com/reviews/all-them-witches-nothing-as-the-ideal/">
+                      </li><li><a href="https://audioxide.github.io/v1-archive/reviews/all-them-witches-nothing-as-the-ideal/">
                         <h5>Reviews:<span class='oneline'>Review: Nothing as the Ideal // All Them Witches</span></h5>                        </a>
                       </li>                    </ul>
-                    <p class="readmore"><a href="https://old.audioxide.com/articles">Read more articles...</a></p>
+                    <p class="readmore"><a href="https://audioxide.github.io/v1-archive/articles">Read more articles...</a></p>
                   
                 </footer> 
                 
@@ -404,11 +404,11 @@ Travis // <em>Everything at Once</em></p>
 var mctb = {"cookieLength":"365","icons":{"hide":"&#x25BC;","show":"&#x25B2;"},"position":"bottom","state":{"submitted":false,"success":false}};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/plugins/mailchimp-top-bar/assets/js/script.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-includes/js/comment-reply.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/themes/audioxide/library/js/libs/jquery.quickfit.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/themes/audioxide/library/js/scripts.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/plugins/mailchimp-top-bar/assets/js/script.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-includes/js/comment-reply.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/js/libs/jquery.quickfit.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/js/scripts.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-includes/js/wp-embed.min.js'></script>
 
 	</body>
 

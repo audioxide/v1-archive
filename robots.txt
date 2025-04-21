@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
-Sitemap: https://old.audioxide.com/sitemap.xml
+Sitemap: https://audioxide.github.io/v1-archive/sitemap.xml

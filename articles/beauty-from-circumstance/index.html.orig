@@ -16,30 +16,30 @@
 		<meta name="MobileOptimized" content="320">
 		<meta name="viewport" content="width=device-width, initial-scale=1"/>
 
-				<link rel="apple-touch-icon" href="https://old.audioxide.com/wp-content/themes/audioxide/library/images/apple-touch-icon.png">
-		<link rel="icon" href="https://old.audioxide.com/wp-content/themes/audioxide/favicon.png">
+				<link rel="apple-touch-icon" href="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/images/apple-touch-icon.png">
+		<link rel="icon" href="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/favicon.png">
 		<!--[if IE]>
-			<link rel="shortcut icon" href="https://old.audioxide.com/wp-content/themes/audioxide/favicon.ico">
+			<link rel="shortcut icon" href="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/favicon.ico">
 		<![endif]-->
 				<meta name="msapplication-TileColor" content="#f01d4f">
-		<meta name="msapplication-TileImage" content="https://old.audioxide.com/wp-content/themes/audioxide/library/images/win8-tile-icon.png">
+		<meta name="msapplication-TileImage" content="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/images/win8-tile-icon.png">
             <meta name="theme-color" content="#121212">
 
                         <meta property="og:title" content="Album Sides and Beauty from Circumstance" />
                 <meta property="fb:app_id" content="950609285023482" />
-        <meta property="og:url" content="https://old.audioxide.com/articles/beauty-from-circumstance/" />
+        <meta property="og:url" content="https://audioxide.com/articles/beauty-from-circumstance/" />
         <meta property="og:site_name" content="Audioxide" />
-        <meta property="og:image" content="https://old.audioxide.com/wp-content/uploads/2016/01/Album-Sides-1-500x500.jpeg" />
+        <meta property="og:image" content="https://audioxide.github.io/v1-archive/wp-content/uploads/2016/01/Album-Sides-1-500x500.jpeg" />
                 
-		<link rel="pingback" href="https://old.audioxide.com/xmlrpc.php">
+		<link rel="pingback" href="https://audioxide.github.io/v1-archive/xmlrpc.php">
 
 				
 <!-- All In One SEO Pack 3.7.1[440,500] -->
-<link rel="canonical" href="https://old.audioxide.com/articles/beauty-from-circumstance/" />
+<link rel="canonical" href="https://audioxide.com/articles/beauty-from-circumstance/" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Album Sides and Beauty from Circumstance | Audioxide" />
 <meta property="og:description" content="FRED 11.03.02016 Context shapes conduct more than we often care to admit, and the same is true of art. In his 2012 book How Music Works, David Byrne writes that artists &#039;unconsciously and instinc" />
-<meta property="og:url" content="https://old.audioxide.com/articles/beauty-from-circumstance/" />
+<meta property="og:url" content="https://audioxide.com/articles/beauty-from-circumstance/" />
 <meta property="og:site_name" content="Audioxide" />
 <meta property="og:image" content="https://audioxide.com/wp-content/uploads/2017/10/bannerlogoblack.png" />
 <meta property="fb:admins" content="1093489064003119" />
@@ -54,9 +54,9 @@
 <meta name="twitter:image" content="https://audioxide.com/wp-content/uploads/2017/10/bannerlogoblack.png" />
 <!-- All In One SEO Pack -->
 <link rel='dns-prefetch' href='//s.w.org' />
-<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Feed" href="https://old.audioxide.com/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Comments Feed" href="https://old.audioxide.com/comments/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Album Sides and Beauty from Circumstance Comments Feed" href="https://old.audioxide.com/articles/beauty-from-circumstance/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Feed" href="https://audioxide.github.io/v1-archive/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Comments Feed" href="https://audioxide.github.io/v1-archive/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Album Sides and Beauty from Circumstance Comments Feed" href="https://audioxide.github.io/v1-archive/articles/beauty-from-circumstance/feed/" />
 <!-- This site uses the Google Analytics by ExactMetrics plugin v6.2.2 - Using Analytics tracking - https://www.exactmetrics.com/ -->
 <script type="text/javascript" data-cfasync="false">
 	var em_version         = '6.2.2';
@@ -144,7 +144,7 @@ window.ga = __gaTracker;		__gaTracker('create', 'UA-71965408-1', 'auto');
 </script>
 <!-- / Google Analytics by ExactMetrics -->
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/old.audioxide.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-includes\/js\/wp-emoji-release.min.js"}};
 			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])?!1:!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55358,56760,9792,65039],[55358,56760,8203,9792,65039])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script>
 		<style type="text/css">
@@ -161,28 +161,28 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel='stylesheet' id='mc4wp-form-themes-css'  href='https://old.audioxide.com/wp-content/plugins/mailchimp-for-wp/assets/css/form-themes.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='mailchimp-top-bar-css'  href='https://old.audioxide.com/wp-content/plugins/mailchimp-top-bar/assets/css/bar.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='addtoany-css'  href='https://old.audioxide.com/wp-content/plugins/add-to-any/addtoany.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='editor-style-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/editor-style.css' type='text/css' media='all' />
-<link rel='stylesheet' id='admin-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/admin.css' type='text/css' media='all' />
-<link rel='stylesheet' id='ie-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/ie.css' type='text/css' media='all' />
-<link rel='stylesheet' id='style-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/style.css' type='text/css' media='all' />
-<link rel='stylesheet' id='login-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/login.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mc4wp-form-themes-css'  href='https://audioxide.github.io/v1-archive/wp-content/plugins/mailchimp-for-wp/assets/css/form-themes.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mailchimp-top-bar-css'  href='https://audioxide.github.io/v1-archive/wp-content/plugins/mailchimp-top-bar/assets/css/bar.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='addtoany-css'  href='https://audioxide.github.io/v1-archive/wp-content/plugins/add-to-any/addtoany.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='editor-style-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/editor-style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/admin.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ie-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/ie.css' type='text/css' media='all' />
+<link rel='stylesheet' id='style-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='login-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/login.css' type='text/css' media='all' />
 <script type='text/javascript'>
 /* <![CDATA[ */
-var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"zip,mp3,mpeg,pdf,docx,pptx,xlsx,rar","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/old.audioxide.com","hash_tracking":"false"};
+var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"zip,mp3,mpeg,pdf,docx,pptx,xlsx,rar","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json","hash_tracking":"false"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/plugins/google-analytics-dashboard-for-wp/assets/js/frontend.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-includes/js/jquery/jquery.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-includes/js/jquery/jquery-migrate.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/plugins/add-to-any/addtoany.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/themes/audioxide/library/js/libs/modernizr.custom.min.js'></script>
-<link rel='https://api.w.org/' href='https://old.audioxide.com/wp-json/' />
-<link rel='shortlink' href='https://old.audioxide.com/?p=1072' />
-<link rel="alternate" type="application/json+oembed" href="https://old.audioxide.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fold.audioxide.com%2Farticles%2Fbeauty-from-circumstance%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://old.audioxide.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fold.audioxide.com%2Farticles%2Fbeauty-from-circumstance%2F&#038;format=xml" />
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/plugins/google-analytics-dashboard-for-wp/assets/js/frontend.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/plugins/add-to-any/addtoany.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/js/libs/modernizr.custom.min.js'></script>
+<link rel='https://api.w.org/' href='https://audioxide.github.io/v1-archive/wp-json/' />
+<link rel='shortlink' href='https://audioxide.github.io/v1-archive/?p=1072' />
+<link rel="alternate" type="application/json+oembed" href="https://audioxide.github.io/v1-archive/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fold.audioxide.com%2Farticles%2Fbeauty-from-circumstance%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://audioxide.github.io/v1-archive/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fold.audioxide.com%2Farticles%2Fbeauty-from-circumstance%2F&#038;format=xml" />
 
 <script data-cfasync="false">
 window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_localize = {
@@ -214,7 +214,7 @@ a2a_config.onclick=1;
 
 
 <!-- This site is optimized with the Schema plugin v1.7.8.3 - https://schema.press -->
-<script type="application/ld+json">{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/articles\/beauty-from-circumstance\/"},"url":"https:\/\/old.audioxide.com\/articles\/beauty-from-circumstance\/","headline":"Album Sides and Beauty from...","datePublished":"2016-03-11T13:00:30+00:00","dateModified":"2018-02-08T21:12:59+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2016\/01\/Album-Sides-1.jpeg","width":1419,"height":1419},"articleSection":"Articles","description":"FRED 11.03.02016 Context shapes conduct more than we often care to admit, and the same is true of art. In his 2012 book How Music Works, David Byrne writes that artists 'unconsciously and instinctively make work to fit preexisting formats pictures are created that fit and look good on white","author":{"@type":"Person","name":"Fred O'Brien","url":"https:\/\/old.audioxide.com\/author\/fred\/"}}</script>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/beauty-from-circumstance\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/beauty-from-circumstance\/","headline":"Album Sides and Beauty from...","datePublished":"2016-03-11T13:00:30+00:00","dateModified":"2018-02-08T21:12:59+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2016\/01\/Album-Sides-1.jpeg","width":1419,"height":1419},"articleSection":"Articles","description":"FRED 11.03.02016 Context shapes conduct more than we often care to admit, and the same is true of art. In his 2012 book How Music Works, David Byrne writes that artists 'unconsciously and instinctively make work to fit preexisting formats pictures are created that fit and look good on white","author":{"@type":"Person","name":"Fred O'Brien","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/fred\/"}}</script>
 
 
 
@@ -235,9 +235,9 @@ a2a_config.onclick=1;
             "@type": "ListItem",
             "position": 2,
             "item": {
-                "@id": "https://old.audioxide.com/articles/beauty-from-circumstance/",
+                "@id": "https://audioxide.com/articles/beauty-from-circumstance/",
                 "name": "Album Sides and Beauty from Circumstance",
-                "image": "https://old.audioxide.com/wp-content/uploads/2016/01/Album-Sides-1.jpeg"
+                "image": "https://audioxide.github.io/v1-archive/wp-content/uploads/2016/01/Album-Sides-1.jpeg"
             }
         }
     ]
@@ -265,7 +265,7 @@ Click the help icon above to learn more.
 	<body class="post-template-default single single-post postid-1072 single-format-standard" itemscope itemtype="http://schema.org/WebPage">
 <header role="banner" class="sticky" itemscope itemtype="http://schema.org/WPHeader">
 	<div class="wrap">
-		<p id="logo" class="h1 logo" itemscope itemtype="http://schema.org/Organization"><a href="https://old.audioxide.com" rel="nofollow"><img src="https://old.audioxide.com/wp-content/themes/audioxide/library/images/site-logo.svg" /></a></p>
+		<p id="logo" class="h1 logo" itemscope itemtype="http://schema.org/Organization"><a href="https://audioxide.github.io/v1-archive" rel="nofollow"><img src="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/images/site-logo.svg" /></a></p>
 		<div class="social-media">
 			<a href="https://www.facebook.com/Audioxide/"><i class="fa fa-facebook-square"></i></a>
 			<a href="https://twitter.com/audioxidecom"><i class="fa fa-twitter-square"></i></a>
@@ -279,16 +279,16 @@ Click the help icon above to learn more.
 </header>
 <div id="coverartbanner" class="container coverart">
     <div class="wrapper">
-		<a href="https://old.audioxide.com/reviews/nothing-the-great-dismal/"><img src="https://old.audioxide.com/wp-content/uploads/2020/11/the-great-dismal-nothing-500x500.jpg" alt="Album cover for Nothing - The Great Dismal" /></a>
-<a href="https://old.audioxide.com/reviews/clipping-visions-of-bodies-being-burned/"><img src="https://old.audioxide.com/wp-content/uploads/2020/11/visions-of-bodies-being-burned-clipping-500x500.jpg" alt="Album cover for clipping. - Visions of Bodies Being Burned" /></a>
-<a href="https://old.audioxide.com/reviews/doves-the-universal-want/"><img src="https://old.audioxide.com/wp-content/uploads/2020/09/the-universal-want-doves-500x500.jpg" alt="Album cover for Doves - The Universal Want" /></a>
-<a href="https://old.audioxide.com/reviews/all-them-witches-nothing-as-the-ideal/"><img src="https://old.audioxide.com/wp-content/uploads/2020/09/nothing-as-the-ideal-all-them-witches-500x500.jpg" alt="Album cover for All Them Witches - Nothing as the Ideal" /></a>
-<a href="https://old.audioxide.com/reviews/kelly-lee-owens-inner-song/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/inner-song-kelly-lee-owens-500x500.jpg" alt="Album cover for Kelly Lee Owens - Inner Song" /></a>
-<a href="https://old.audioxide.com/reviews/nas-kings-disease/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/kings-disease-nas-500x500.jpg" alt="Album cover for Nas - King's Disease" /></a>
-<a href="https://old.audioxide.com/reviews/dead-kennedys-fresh-fruit-for-rotting-vegetables/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/fresh-fruit-for-rotting-vegetables-dead-kennedys-500x500.jpg" alt="Album cover for Dead Kennedys - Fresh Fruit for Rotting Vegetables" /></a>
-<a href="https://old.audioxide.com/reviews/glass-animals-dreamland/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/dreamland-glass-animals-500x500.jpg" alt="Album cover for Glass Animals - Dreamland" /></a>
-<a href="https://old.audioxide.com/reviews/neil-young-after-the-gold-rush/"><img src="https://old.audioxide.com/wp-content/uploads/2020/07/after-the-gold-rush-neil-young-500x500.jpg" alt="Album cover for Neil Young - After the Gold Rush" /></a>
-<a href="https://old.audioxide.com/reviews/lianne-la-havas-lianne-la-havas/"><img src="https://old.audioxide.com/wp-content/uploads/2020/07/lianne-la-havas-lianne-la-havas-500x500.jpg" alt="Album cover for Lianne La Havas - Lianne La Havas" /></a>
+		<a href="https://audioxide.github.io/v1-archive/reviews/nothing-the-great-dismal/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/11/the-great-dismal-nothing-500x500.jpg" alt="Album cover for Nothing - The Great Dismal" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/clipping-visions-of-bodies-being-burned/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/11/visions-of-bodies-being-burned-clipping-500x500.jpg" alt="Album cover for clipping. - Visions of Bodies Being Burned" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/doves-the-universal-want/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/09/the-universal-want-doves-500x500.jpg" alt="Album cover for Doves - The Universal Want" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/all-them-witches-nothing-as-the-ideal/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/09/nothing-as-the-ideal-all-them-witches-500x500.jpg" alt="Album cover for All Them Witches - Nothing as the Ideal" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/kelly-lee-owens-inner-song/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/inner-song-kelly-lee-owens-500x500.jpg" alt="Album cover for Kelly Lee Owens - Inner Song" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/nas-kings-disease/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/kings-disease-nas-500x500.jpg" alt="Album cover for Nas - King's Disease" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/dead-kennedys-fresh-fruit-for-rotting-vegetables/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/fresh-fruit-for-rotting-vegetables-dead-kennedys-500x500.jpg" alt="Album cover for Dead Kennedys - Fresh Fruit for Rotting Vegetables" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/glass-animals-dreamland/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/dreamland-glass-animals-500x500.jpg" alt="Album cover for Glass Animals - Dreamland" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/neil-young-after-the-gold-rush/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/07/after-the-gold-rush-neil-young-500x500.jpg" alt="Album cover for Neil Young - After the Gold Rush" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/lianne-la-havas-lianne-la-havas/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/07/lianne-la-havas-lianne-la-havas-500x500.jpg" alt="Album cover for Lianne La Havas - Lianne La Havas" /></a>
     </div>
 </div>
 	<main id="main" role="main" itemscope itemprop="mainContentOfPage" itemtype="http://schema.org/Blog">
@@ -313,12 +313,12 @@ Click the help icon above to learn more.
 <p>Consider Pink Floyd’s <em><a href="http://audioxide.com/reviews/the-dark-side-of-the-moon/" target="_blank" rel="noopener"><em>The Dark Side of the Moon</em></a></em> (1973). “The Great Gig in the Sky” (rumoured to have something to do with dying) closes out side one and the humble arc of life it paints: birth; panic and lost time; death. Wahay. In the record-flipping interval that follows—head swimming with visions of mortality and that thing you wish you had done differently and that other thing you wish you had done differently—a pseudo-existential crisis is raring to go. Have I missed the starting gun? I’m not a rabbit am I? Good god, what is certain in this life? Cha-ching. “Money” snatches you from the darkness and whisks you away into side two. The spiritual certainties of death are met with the material ones of cash and the trajectory of the album is altered, like light going through a prism. The album’s interval provides a pivot on which its character swings and renews its momentum.<br />
 ­<br />
 ­</p>
-<img class="wp-image-1284 aligncenter" src="http://audioxide.com/wp-content/uploads/2016/01/Album-Sides-1.jpeg" alt="Album Sides" width="500" height="500" srcset="https://old.audioxide.com/wp-content/uploads/2016/01/Album-Sides-1.jpeg 1419w, https://old.audioxide.com/wp-content/uploads/2016/01/Album-Sides-1-150x150.jpeg 150w, https://old.audioxide.com/wp-content/uploads/2016/01/Album-Sides-1-300x300.jpeg 300w, https://old.audioxide.com/wp-content/uploads/2016/01/Album-Sides-1-768x768.jpeg 768w, https://old.audioxide.com/wp-content/uploads/2016/01/Album-Sides-1-1024x1024.jpeg 1024w, https://old.audioxide.com/wp-content/uploads/2016/01/Album-Sides-1-500x500.jpeg 500w, https://old.audioxide.com/wp-content/uploads/2016/01/Album-Sides-1-1000x1000.jpeg 1000w, https://old.audioxide.com/wp-content/uploads/2016/01/Album-Sides-1-125x125.jpeg 125w" sizes="(max-width: 500px) 100vw, 500px" />
+<img class="wp-image-1284 aligncenter" src="http://audioxide.com/wp-content/uploads/2016/01/Album-Sides-1.jpeg" alt="Album Sides" width="500" height="500" srcset="https://audioxide.github.io/v1-archive/wp-content/uploads/2016/01/Album-Sides-1.jpeg 1419w, https://audioxide.github.io/v1-archive/wp-content/uploads/2016/01/Album-Sides-1-150x150.jpeg 150w, https://audioxide.github.io/v1-archive/wp-content/uploads/2016/01/Album-Sides-1-300x300.jpeg 300w, https://audioxide.github.io/v1-archive/wp-content/uploads/2016/01/Album-Sides-1-768x768.jpeg 768w, https://audioxide.github.io/v1-archive/wp-content/uploads/2016/01/Album-Sides-1-1024x1024.jpeg 1024w, https://audioxide.github.io/v1-archive/wp-content/uploads/2016/01/Album-Sides-1-500x500.jpeg 500w, https://audioxide.github.io/v1-archive/wp-content/uploads/2016/01/Album-Sides-1-1000x1000.jpeg 1000w, https://audioxide.github.io/v1-archive/wp-content/uploads/2016/01/Album-Sides-1-125x125.jpeg 125w" sizes="(max-width: 500px) 100vw, 500px" />
 <p>&nbsp;</p>
 <p>Alternatively, an album like David Bowie’s <em><a href="http://audioxide.com/reviews/low/" target="_blank" rel="noopener">Low</a></em> (1979) is characterised by sides that actively contrast with each other. ‘Fragments’ is a word that pops up often in reference to side one, a whirlwind of spunky glam rock snippets. Side two is anything but fragmented—<a href="http://www.robertchristgau.com/get_album.php?id=959" target="_blank" rel="noopener">an ‘Enofield,’ as Robert Christgau called it</a>, a cotton cloud of synthesisers and Bowie moaning occasionally. In the mind’s eye, the halves look and feel completely distinct from each other, yet not to such an extent that one does not compliment the other. In the bells and whistles of side one, bordering on ironic in its briskness, is the performance; in the gentle and solemn reprieve of side two is an extended foray behind the eyes. It is hard to escape the feeling that <em>Low</em><em> </em>would not be of the same calibre if its tone was uniform, if there wasn’t an exchange going on. The characters of a work’s two (or more) sides combined can sometimes amount to more than the sum of their parts. In both <em>TDSotM </em>and <em>Low</em>, the LP’s sides are not the lynchpins of their quality, but they are undoubtedly part of the recipe. Format prompts adaptation, a process that can provide as many creative tools as it deprives.<strong> </strong></p>
 <p>Vinyl is not unique in this respect, it is just provides cushy examples of works adopting their format to their own ends. Although music’s majesty often comes from its ethereal, untouchable quality, it bears remembering that—at least where recorded content is concerned—the listener is effectively faced with a ghost in a machine. Brian Eno, in a lecture written in late 1970s entitled <a href="http://music.hyperreal.org/artists/brian_eno/interviews/downbeat79.htm" target="_blank" rel="noopener">‘The Studio As Compositional Tool’</a>, stated that recording &#8216;takes music out of the time dimension and puts it in into the space dimension,&#8217; giving it permanence and form. He goes on  to say that, &#8216;Once you become familiar with studio facilities, or even if you’re not, actually, you can begin to compose in relation to those facilities.&#8217; Circumstance prompts unconscious and instinctive adaptation. For Bryne this is true of performance, for Eno of the recording process, and so too is it true of the format being recorded onto.</p>
 <p>Album sides are a prime example of format affecting how music is built and how it is received. Constraints invite adaptation. The simple reality of the LP record format—two sides at typically 20-25 minutes each—sparked creative instincts that shaped many of the albums produced during the format’s dominance. When we talk about album sides, we don’t do so in purely descriptive terms. They often carry a thematic weight or allow for narrative ‘beats,’ like acts in a play or halves in a film divided by an intermission. The interlude provided by the necessity of flipping a vinyl album over gave artists a circumstance to play with. It is from such practicalities that unique forms of beauty can blossom. This is not to say it will, or that works which do not ‘use’ their format are lesser than ones which do, only that it is an dynamic of recorded music worth considering and keeping an eye out for.</p>
-<p><img class="alignright wp-image-1160" src="http://audioxide.com/wp-content/uploads/2016/01/Singles-Culture.jpg" alt="Singles Culture" width="450" height="223" srcset="https://old.audioxide.com/wp-content/uploads/2016/01/Singles-Culture.jpg 671w, https://old.audioxide.com/wp-content/uploads/2016/01/Singles-Culture-300x148.jpg 300w" sizes="(max-width: 450px) 100vw, 450px" />Circumstances are changing all the time. Cassettes, CDs, digital audio files, streaming services—all are beholden to their own freedoms and constraints that influence how the music they store is created, recorded, shared, and experienced. Take digitally distributed music, for instance. In an era characterised by playlists and unprecedented access to individual tracks, it makes sense for the form of recorded sound to react accordingly. Contemporary albums often appear more like an unrelated cluster of shards—as if side one of <em>Low </em>has been blown to pieces—than they do a complete, multi-faceted big picture. Songs have to be potent in their own right to be a worthy purchase in their own right, after all. The juxtaposition between <a href="http://www.officialcharts.com/charts/albums-streaming-chart/" target="_blank" rel="noopener">streaming charts</a> and <a href="http://www.officialcharts.com/charts/physical-albums-chart/" target="_blank" rel="noopener">physical</a>/<a href="http://www.officialcharts.com/charts/vinyl-albums-chart/" target="_blank" rel="noopener">vinyl charts</a> are telling in this regard. Are such trends a bad thing? Not necessarily. Gorillaz’s eclectic odyssey <em><a href="http://audioxide.com/reviews/demon-days/" target="_blank" rel="noopener">Demon Days</a> </em>(2005) is a magnificent example of a CD album, while Joanna Newsom’s very gorgeous <em><a href="http://audioxide.com/reviews/divers/" target="_blank" rel="noopener">Divers</a></em> (2015) makes more sense—at least to me —as some kind of eternal digital loop. Parameters change and, teething problems or not, that is ultimately an exciting thing. Something unprecedented will eventually step into the new frontier. As David Byrne notes, with the constraints of older formats cast aside, artists &#8216;could make a downloadable album that’s ten hours long, or ones that only last ten minutes.&#8217; Or, elsewhere, we might see some trends come full circle, with playlists inheriting the cassette mixtape’s old aura (&#8216;audio wonder cabinets&#8217; as Byrne describes them), with tracks groomed to vie for positions on personalised &#8216;albums.&#8217;</p>
+<p><img class="alignright wp-image-1160" src="http://audioxide.com/wp-content/uploads/2016/01/Singles-Culture.jpg" alt="Singles Culture" width="450" height="223" srcset="https://audioxide.github.io/v1-archive/wp-content/uploads/2016/01/Singles-Culture.jpg 671w, https://audioxide.github.io/v1-archive/wp-content/uploads/2016/01/Singles-Culture-300x148.jpg 300w" sizes="(max-width: 450px) 100vw, 450px" />Circumstances are changing all the time. Cassettes, CDs, digital audio files, streaming services—all are beholden to their own freedoms and constraints that influence how the music they store is created, recorded, shared, and experienced. Take digitally distributed music, for instance. In an era characterised by playlists and unprecedented access to individual tracks, it makes sense for the form of recorded sound to react accordingly. Contemporary albums often appear more like an unrelated cluster of shards—as if side one of <em>Low </em>has been blown to pieces—than they do a complete, multi-faceted big picture. Songs have to be potent in their own right to be a worthy purchase in their own right, after all. The juxtaposition between <a href="http://www.officialcharts.com/charts/albums-streaming-chart/" target="_blank" rel="noopener">streaming charts</a> and <a href="http://www.officialcharts.com/charts/physical-albums-chart/" target="_blank" rel="noopener">physical</a>/<a href="http://www.officialcharts.com/charts/vinyl-albums-chart/" target="_blank" rel="noopener">vinyl charts</a> are telling in this regard. Are such trends a bad thing? Not necessarily. Gorillaz’s eclectic odyssey <em><a href="http://audioxide.com/reviews/demon-days/" target="_blank" rel="noopener">Demon Days</a> </em>(2005) is a magnificent example of a CD album, while Joanna Newsom’s very gorgeous <em><a href="http://audioxide.com/reviews/divers/" target="_blank" rel="noopener">Divers</a></em> (2015) makes more sense—at least to me —as some kind of eternal digital loop. Parameters change and, teething problems or not, that is ultimately an exciting thing. Something unprecedented will eventually step into the new frontier. As David Byrne notes, with the constraints of older formats cast aside, artists &#8216;could make a downloadable album that’s ten hours long, or ones that only last ten minutes.&#8217; Or, elsewhere, we might see some trends come full circle, with playlists inheriting the cassette mixtape’s old aura (&#8216;audio wonder cabinets&#8217; as Byrne describes them), with tracks groomed to vie for positions on personalised &#8216;albums.&#8217;</p>
 <p>Although I personally find <a href="http://www.theguardian.com/music/2014/jul/29/album-music-format-streaming-playlists-extinction" target="_blank" rel="noopener">declarations that ‘the album is dead’</a> more than a little overdramatic, there is a value in looking at the shifts in format and distribution that inform them. With more musical mediums and technologies co-existing than ever before, there is enormous potential for works to blossom in unprecedented ways. Tentative steps are already been taken. Radiohead&#8217;s audiovisual app <a href="http://universaleverything.com/projects/polyfauna/" target="_blank" rel="noopener">PolyFuana</a> marks a colourful experiment in the potential of modern music-playing devices, while Brian Eno, ever pushing the envelope, has accompanied the announcement of his upcoming album <em>The Ship</em> with threats to develop &#8216;<a href="http://pitchfork.com/news/63736-brian-eno-announces-new-album-the-ship/" target="_blank" rel="noopener">multi-channel 3-dimensional sound installations.</a>&#8216; And these are modest examples; things will get stranger. Plenty—I included—will continue to be delighted by what is familiar, but it’s only a matter of time before certain artists start dabbling in what will initially seem like spectacularly weird ideas. There’s too much at stake not to. Raw and rich forms of beauty await those willing to immerse themselves entirely in the cold and alien circumstances of their time. There are expressions to be made that were not possible even ten years ago. What they are I don’t know, but I await them eagerly.</p>
 <p><em>Images mine</em></p>
 <p>&nbsp;</p>
@@ -328,16 +328,16 @@ Click the help icon above to learn more.
 
                                     <h4>Related Posts</h4>
                   <ul class="related-posts">
-                    <li><a href="https://old.audioxide.com/reviews/nothing-the-great-dismal/">
+                    <li><a href="https://audioxide.github.io/v1-archive/reviews/nothing-the-great-dismal/">
                         <h5>Reviews:<span class='oneline'>Review: The Great Dismal // Nothing</span></h5>                        </a>
-                      </li><li><a href="https://old.audioxide.com/reviews/clipping-visions-of-bodies-being-burned/">
+                      </li><li><a href="https://audioxide.github.io/v1-archive/reviews/clipping-visions-of-bodies-being-burned/">
                         <h5>Reviews:<span class='oneline'>Review: Visions of Bodies Being Burned // clipping.</span></h5>                        </a>
-                      </li><li><a href="https://old.audioxide.com/reviews/doves-the-universal-want/">
+                      </li><li><a href="https://audioxide.github.io/v1-archive/reviews/doves-the-universal-want/">
                         <h5>Reviews:<span class='oneline'>Review: The Universal Want // Doves</span></h5>                        </a>
-                      </li><li><a href="https://old.audioxide.com/reviews/all-them-witches-nothing-as-the-ideal/">
+                      </li><li><a href="https://audioxide.github.io/v1-archive/reviews/all-them-witches-nothing-as-the-ideal/">
                         <h5>Reviews:<span class='oneline'>Review: Nothing as the Ideal // All Them Witches</span></h5>                        </a>
                       </li>                    </ul>
-                    <p class="readmore"><a href="https://old.audioxide.com/articles">Read more articles...</a></p>
+                    <p class="readmore"><a href="https://audioxide.github.io/v1-archive/articles">Read more articles...</a></p>
                   
                 </footer> 
                 
@@ -381,11 +381,11 @@ Click the help icon above to learn more.
 var mctb = {"cookieLength":"365","icons":{"hide":"&#x25BC;","show":"&#x25B2;"},"position":"bottom","state":{"submitted":false,"success":false}};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/plugins/mailchimp-top-bar/assets/js/script.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-includes/js/comment-reply.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/themes/audioxide/library/js/libs/jquery.quickfit.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/themes/audioxide/library/js/scripts.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/plugins/mailchimp-top-bar/assets/js/script.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-includes/js/comment-reply.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/js/libs/jquery.quickfit.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/js/scripts.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-includes/js/wp-embed.min.js'></script>
 
 	</body>
 

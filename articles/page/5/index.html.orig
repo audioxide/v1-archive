@@ -16,35 +16,35 @@
 		<meta name="MobileOptimized" content="320">
 		<meta name="viewport" content="width=device-width, initial-scale=1"/>
 
-				<link rel="apple-touch-icon" href="https://old.audioxide.com/wp-content/themes/audioxide/library/images/apple-touch-icon.png">
-		<link rel="icon" href="https://old.audioxide.com/wp-content/themes/audioxide/favicon.png">
+				<link rel="apple-touch-icon" href="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/images/apple-touch-icon.png">
+		<link rel="icon" href="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/favicon.png">
 		<!--[if IE]>
-			<link rel="shortcut icon" href="https://old.audioxide.com/wp-content/themes/audioxide/favicon.ico">
+			<link rel="shortcut icon" href="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/favicon.ico">
 		<![endif]-->
 				<meta name="msapplication-TileColor" content="#f01d4f">
-		<meta name="msapplication-TileImage" content="https://old.audioxide.com/wp-content/themes/audioxide/library/images/win8-tile-icon.png">
+		<meta name="msapplication-TileImage" content="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/images/win8-tile-icon.png">
             <meta name="theme-color" content="#121212">
 
                         <meta property="og:title" content="Articles" />
                 <meta property="fb:app_id" content="950609285023482" />
-        <meta property="og:url" content="https://old.audioxide.com/articles/page/5/" />
+        <meta property="og:url" content="https://audioxide.com/articles/page/5/" />
         <meta property="og:site_name" content="Audioxide" />
-        <meta property="og:image" content="https://old.audioxide.com/wp-content/themes/audioxide/library/images/sharer-logo.png" />
+        <meta property="og:image" content="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/images/sharer-logo.png" />
                 
-		<link rel="pingback" href="https://old.audioxide.com/xmlrpc.php">
+		<link rel="pingback" href="https://audioxide.github.io/v1-archive/xmlrpc.php">
 
 				
 <!-- All In One SEO Pack 3.7.1[440,478] -->
 <meta name="robots" content="noindex,follow" />
-<link rel="prev" href="https://old.audioxide.com/articles/page/4/" />
-<link rel="next" href="https://old.audioxide.com/articles/page/6/" />
+<link rel="prev" href="https://audioxide.github.io/v1-archive/articles/page/4/" />
+<link rel="next" href="https://audioxide.github.io/v1-archive/articles/page/6/" />
 
-<link rel="canonical" href="https://old.audioxide.com/./articles/page/5/" />
+<link rel="canonical" href="https://audioxide.com/./articles/page/5/" />
 <!-- All In One SEO Pack -->
 <link rel='dns-prefetch' href='//s.w.org' />
-<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Feed" href="https://old.audioxide.com/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Comments Feed" href="https://old.audioxide.com/comments/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Articles Category Feed" href="https://old.audioxide.com/./articles/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Feed" href="https://audioxide.github.io/v1-archive/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Comments Feed" href="https://audioxide.github.io/v1-archive/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Audioxide &raquo; Articles Category Feed" href="https://audioxide.github.io/v1-archive/./articles/feed/" />
 <!-- This site uses the Google Analytics by ExactMetrics plugin v6.2.2 - Using Analytics tracking - https://www.exactmetrics.com/ -->
 <script type="text/javascript" data-cfasync="false">
 	var em_version         = '6.2.2';
@@ -132,7 +132,7 @@ window.ga = __gaTracker;		__gaTracker('create', 'UA-71965408-1', 'auto');
 </script>
 <!-- / Google Analytics by ExactMetrics -->
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/old.audioxide.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-includes\/js\/wp-emoji-release.min.js"}};
 			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])?!1:!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55358,56760,9792,65039],[55358,56760,8203,9792,65039])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script>
 		<style type="text/css">
@@ -149,25 +149,25 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel='stylesheet' id='mc4wp-form-themes-css'  href='https://old.audioxide.com/wp-content/plugins/mailchimp-for-wp/assets/css/form-themes.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='mailchimp-top-bar-css'  href='https://old.audioxide.com/wp-content/plugins/mailchimp-top-bar/assets/css/bar.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='addtoany-css'  href='https://old.audioxide.com/wp-content/plugins/add-to-any/addtoany.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='editor-style-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/editor-style.css' type='text/css' media='all' />
-<link rel='stylesheet' id='admin-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/admin.css' type='text/css' media='all' />
-<link rel='stylesheet' id='ie-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/ie.css' type='text/css' media='all' />
-<link rel='stylesheet' id='style-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/style.css' type='text/css' media='all' />
-<link rel='stylesheet' id='login-style-css'  href='https://old.audioxide.com/wp-content/themes/audioxide/library/comp-css/login.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mc4wp-form-themes-css'  href='https://audioxide.github.io/v1-archive/wp-content/plugins/mailchimp-for-wp/assets/css/form-themes.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mailchimp-top-bar-css'  href='https://audioxide.github.io/v1-archive/wp-content/plugins/mailchimp-top-bar/assets/css/bar.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='addtoany-css'  href='https://audioxide.github.io/v1-archive/wp-content/plugins/add-to-any/addtoany.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='editor-style-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/editor-style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/admin.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ie-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/ie.css' type='text/css' media='all' />
+<link rel='stylesheet' id='style-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='login-style-css'  href='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/comp-css/login.css' type='text/css' media='all' />
 <script type='text/javascript'>
 /* <![CDATA[ */
-var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"zip,mp3,mpeg,pdf,docx,pptx,xlsx,rar","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/old.audioxide.com","hash_tracking":"false"};
+var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"zip,mp3,mpeg,pdf,docx,pptx,xlsx,rar","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json","hash_tracking":"false"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/plugins/google-analytics-dashboard-for-wp/assets/js/frontend.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-includes/js/jquery/jquery.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-includes/js/jquery/jquery-migrate.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/plugins/add-to-any/addtoany.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/themes/audioxide/library/js/libs/modernizr.custom.min.js'></script>
-<link rel='https://api.w.org/' href='https://old.audioxide.com/wp-json/' />
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/plugins/google-analytics-dashboard-for-wp/assets/js/frontend.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/plugins/add-to-any/addtoany.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/js/libs/modernizr.custom.min.js'></script>
+<link rel='https://api.w.org/' href='https://audioxide.github.io/v1-archive/wp-json/' />
 
 <script data-cfasync="false">
 window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_localize = {
@@ -199,7 +199,7 @@ a2a_config.onclick=1;
 
 
 <!-- This site is optimized with the Schema plugin v1.7.8.3 - https://schema.press -->
-<script type="application/ld+json">{"@context":"http:\/\/schema.org\/","@type":"CollectionPage","headline":"Articles Category","description":"","url":"https:\/\/old.audioxide.com\/.\/articles\/","sameAs":[],"hasPart":[{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/articles\/ltt-the-avalanches-since-i-left-you\/"},"url":"https:\/\/old.audioxide.com\/articles\/ltt-the-avalanches-since-i-left-you\/","headline":"A retrospective look at The...","datePublished":"2016-06-03T19:22:47+00:00","dateModified":"2016-07-15T00:06:48+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2016\/04\/Since-I-Left-You.jpg","width":696,"height":500},"articleSection":"Articles","description":"ANDREW 03.06.02016 &nbsp; &nbsp; A massive release at the time, and still referenced today through the likes of \"Frontier Psychiatrist\", The Avalanches' Since I Left You is now nearing twenty years old and will likely have fallen out of consciousness for the modern audience. With sampling at its core—band member Robbie Chater estimates","author":{"@type":"Person","name":"Andrew Bridge","url":"https:\/\/old.audioxide.com\/author\/andrew\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/articles\/flume-covers-considerable-ground-with-skin\/"},"url":"https:\/\/old.audioxide.com\/articles\/flume-covers-considerable-ground-with-skin\/","headline":"Flume covers considerable ground with...","datePublished":"2016-06-01T17:02:48+00:00","dateModified":"2016-06-08T17:09:50+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2016\/05\/flume-skin.jpg","width":1500,"height":1500},"articleSection":"Articles","description":"Andrew 01.06.02016 &nbsp; &nbsp; Flume has made huge strides since his eponymous debut in 2012, rocketing to notoriety earlier this year with his single \"Never Be Like You\", which had huge success in his home country of Australia and on an international scale, making it onto primetime radio playlists","author":{"@type":"Person","name":"Andrew Bridge","url":"https:\/\/old.audioxide.com\/author\/andrew\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/articles\/skepta-returns-with-international-support\/"},"url":"https:\/\/old.audioxide.com\/articles\/skepta-returns-with-international-support\/","headline":"Skepta returns with international...","datePublished":"2016-05-30T13:21:09+00:00","dateModified":"2016-06-08T17:09:56+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2016\/05\/skepta-konnichiwa.jpg","width":1210,"height":1200},"articleSection":"Articles","description":"Andrew 30.05.02016 &nbsp; &nbsp; Grime has been travelling to America with momentum over the last few years, and it feels as though Skepta is at the centre of the export. His latest release goes a little further to prove this with featured appearances from British and American rappers including Pharrell","author":{"@type":"Person","name":"Andrew Bridge","url":"https:\/\/old.audioxide.com\/author\/andrew\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/articles\/patternpushers-still-a-statement-of-intent\/"},"url":"https:\/\/old.audioxide.com\/articles\/patternpushers-still-a-statement-of-intent\/","headline":"PatternPusher's \"Still\" a Statement of...","datePublished":"2016-05-27T15:08:36+00:00","dateModified":"2018-02-08T21:19:55+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2016\/05\/image2.jpg","width":2048,"height":2048},"articleSection":"Articles","description":"ANDRÉ 27.05.02016 &nbsp; Artwork by Sion Roe &nbsp; \"Still\" is the latest single by PatternPusher, an art rock band from Exeter who claim to captivate listeners in their mix of post-punk and electronic music. For the opening few minutes, \"Still\" drives along smoothly in a dreamlike state, harking back to","author":{"@type":"Person","name":"Andre Dack","url":"https:\/\/old.audioxide.com\/author\/andre\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/articles\/richard-ashcroft-wasting-his-northern-soul\/"},"url":"https:\/\/old.audioxide.com\/articles\/richard-ashcroft-wasting-his-northern-soul\/","headline":"Richard Ashcroft Wasting His Northern...","datePublished":"2016-05-23T16:41:50+00:00","dateModified":"2017-09-24T23:08:28+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2016\/05\/Richard-Ashcroft.jpg","width":3888,"height":2592},"articleSection":"Articles","description":"ANDRÉ 23.05.02016 &nbsp; Ashcroft watching his spark float away. Photo by haveweallgotthebends\/Flickr &nbsp; &nbsp; Those who saw fit to look beyond Parklife, (What’s The Story) Morning Glory?, The Bends, Different Class, Ladies and Gentleman We Are Floating in Space, and numerous other landmarks of British guitar music in the 90s, would","author":{"@type":"Person","name":"Andre Dack","url":"https:\/\/old.audioxide.com\/author\/andre\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/articles\/death-grips-oddities-are-still-no-gimmick\/"},"url":"https:\/\/old.audioxide.com\/articles\/death-grips-oddities-are-still-no-gimmick\/","headline":"'Bottomless Pit' Shows Death Grips Oddities are Still No...","datePublished":"2016-05-09T18:15:47+00:00","dateModified":"2018-02-08T21:20:20+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2016\/05\/8147537334_b6dc84e2ea_o.jpg","width":968,"height":651},"articleSection":"Articles","description":"ANDRÉ 09.05.02016 &nbsp; One would do well to accuse Death Grips of being conventional. Photo by Montecruz Foto\/Flickr &nbsp; They may not have set the precedent themselves, but Death Grips were ahead of the trend with surprise album drops. In the past week alone we’ve seen two major instances","author":{"@type":"Person","name":"Andre Dack","url":"https:\/\/old.audioxide.com\/author\/andre\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/articles\/james-blake-returns-with-soul-and-experimentation\/"},"url":"https:\/\/old.audioxide.com\/articles\/james-blake-returns-with-soul-and-experimentation\/","headline":"James Blake Returns with Soul and...","datePublished":"2016-05-06T01:30:58+00:00","dateModified":"2018-02-08T21:20:34+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2016\/05\/F9GzgaZ1-e1520713479914.jpg","width":1000,"height":1000},"articleSection":"Articles","description":"Andrew 06.05.02016 &nbsp; &nbsp; James Blake has been drip feeding fans with new tracks from his latest album since the beginning of the year, and teasers ramped up this week with posts of Quentin Blake emblazoning walls with artwork. As Thursday evening rolled around, Blake announced his album would","author":{"@type":"Person","name":"Andrew Bridge","url":"https:\/\/old.audioxide.com\/author\/andrew\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/articles\/best-of-the-rest-april-2016\/"},"url":"https:\/\/old.audioxide.com\/articles\/best-of-the-rest-april-2016\/","headline":"Best of the Rest \/\/ April...","datePublished":"2016-05-05T17:13:28+00:00","dateModified":"2016-05-05T17:21:35+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2016\/05\/BOTR.jpg","width":696,"height":600},"articleSection":"Articles","description":"ANDRÉ &amp; ANDREW 01.05.02016 April came and overwhelmed us with new releases, it's been a great month for music and we had just enough time to squeeze in some words for these four releases. Moderat \/\/ III Andrew Berlin based electro-trio Moderat returned this month with their third (and possibly final) album together,","author":{"@type":"Person","name":"admin","url":"https:\/\/old.audioxide.com\/author\/admin\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/articles\/new-track-burn-the-witch-radiohead\/"},"url":"https:\/\/old.audioxide.com\/articles\/new-track-burn-the-witch-radiohead\/","headline":"Radiohead Tease Continues with \"Burn The...","datePublished":"2016-05-03T18:38:15+00:00","dateModified":"2018-02-08T21:20:48+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2016\/05\/Burn-the-Witch.jpeg","width":696,"height":620},"articleSection":"Articles","description":"ANDRÉ 03.05.02016 &nbsp; &nbsp; Following a series of cryptic events that involved Instagram teasers, mysterious leaflets and the abolishment of online presence, Radiohead have finally released a new song from their upcoming album. If you were to discount \"Spectre\", \"Burn The Witch\" is the first track to be unveiled","author":{"@type":"Person","name":"Andre Dack","url":"https:\/\/old.audioxide.com\/author\/andre\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/old.audioxide.com\/articles\/ltt-gotan-project-la-revancha-del-tango\/"},"url":"https:\/\/old.audioxide.com\/articles\/ltt-gotan-project-la-revancha-del-tango\/","headline":"Listen To This \/\/ Gotan Project \/\/ La Revancha Del...","datePublished":"2016-04-18T18:30:58+00:00","dateModified":"2018-02-08T21:12:32+00:00","publisher":{"@type":"Organization","@id":"https:\/\/old.audioxide.com\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.com\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/old.audioxide.com\/wp-content\/uploads\/2016\/04\/La-Revancha-Del-Tango.jpg","width":953,"height":953},"articleSection":"Articles","description":"ANDREW 18.04.02016 &nbsp; &nbsp; Gotan Project made their debut with La Revancha Del Tango. Most well known for \"Época\", the album brings the passion of Argentinian tango and the beats and sampling of hip-hop and breakbeat to produce an exceptional listen. Vocalist, Cristina Vilallonga, provides passionate, sultry vocal lines throughout the album, and","author":{"@type":"Person","name":"Andrew Bridge","url":"https:\/\/old.audioxide.com\/author\/andrew\/"}}]}</script>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org\/","@type":"CollectionPage","headline":"Articles Category","description":"","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/.\/articles\/","sameAs":[],"hasPart":[{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/ltt-the-avalanches-since-i-left-you\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/ltt-the-avalanches-since-i-left-you\/","headline":"A retrospective look at The...","datePublished":"2016-06-03T19:22:47+00:00","dateModified":"2016-07-15T00:06:48+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2016\/04\/Since-I-Left-You.jpg","width":696,"height":500},"articleSection":"Articles","description":"ANDREW 03.06.02016 &nbsp; &nbsp; A massive release at the time, and still referenced today through the likes of \"Frontier Psychiatrist\", The Avalanches' Since I Left You is now nearing twenty years old and will likely have fallen out of consciousness for the modern audience. With sampling at its core—band member Robbie Chater estimates","author":{"@type":"Person","name":"Andrew Bridge","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/andrew\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/flume-covers-considerable-ground-with-skin\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/flume-covers-considerable-ground-with-skin\/","headline":"Flume covers considerable ground with...","datePublished":"2016-06-01T17:02:48+00:00","dateModified":"2016-06-08T17:09:50+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2016\/05\/flume-skin.jpg","width":1500,"height":1500},"articleSection":"Articles","description":"Andrew 01.06.02016 &nbsp; &nbsp; Flume has made huge strides since his eponymous debut in 2012, rocketing to notoriety earlier this year with his single \"Never Be Like You\", which had huge success in his home country of Australia and on an international scale, making it onto primetime radio playlists","author":{"@type":"Person","name":"Andrew Bridge","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/andrew\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/skepta-returns-with-international-support\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/skepta-returns-with-international-support\/","headline":"Skepta returns with international...","datePublished":"2016-05-30T13:21:09+00:00","dateModified":"2016-06-08T17:09:56+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2016\/05\/skepta-konnichiwa.jpg","width":1210,"height":1200},"articleSection":"Articles","description":"Andrew 30.05.02016 &nbsp; &nbsp; Grime has been travelling to America with momentum over the last few years, and it feels as though Skepta is at the centre of the export. His latest release goes a little further to prove this with featured appearances from British and American rappers including Pharrell","author":{"@type":"Person","name":"Andrew Bridge","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/andrew\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/patternpushers-still-a-statement-of-intent\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/patternpushers-still-a-statement-of-intent\/","headline":"PatternPusher's \"Still\" a Statement of...","datePublished":"2016-05-27T15:08:36+00:00","dateModified":"2018-02-08T21:19:55+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2016\/05\/image2.jpg","width":2048,"height":2048},"articleSection":"Articles","description":"ANDRÉ 27.05.02016 &nbsp; Artwork by Sion Roe &nbsp; \"Still\" is the latest single by PatternPusher, an art rock band from Exeter who claim to captivate listeners in their mix of post-punk and electronic music. For the opening few minutes, \"Still\" drives along smoothly in a dreamlike state, harking back to","author":{"@type":"Person","name":"Andre Dack","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/andre\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/richard-ashcroft-wasting-his-northern-soul\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/richard-ashcroft-wasting-his-northern-soul\/","headline":"Richard Ashcroft Wasting His Northern...","datePublished":"2016-05-23T16:41:50+00:00","dateModified":"2017-09-24T23:08:28+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2016\/05\/Richard-Ashcroft.jpg","width":3888,"height":2592},"articleSection":"Articles","description":"ANDRÉ 23.05.02016 &nbsp; Ashcroft watching his spark float away. Photo by haveweallgotthebends\/Flickr &nbsp; &nbsp; Those who saw fit to look beyond Parklife, (What’s The Story) Morning Glory?, The Bends, Different Class, Ladies and Gentleman We Are Floating in Space, and numerous other landmarks of British guitar music in the 90s, would","author":{"@type":"Person","name":"Andre Dack","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/andre\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/death-grips-oddities-are-still-no-gimmick\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/death-grips-oddities-are-still-no-gimmick\/","headline":"'Bottomless Pit' Shows Death Grips Oddities are Still No...","datePublished":"2016-05-09T18:15:47+00:00","dateModified":"2018-02-08T21:20:20+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2016\/05\/8147537334_b6dc84e2ea_o.jpg","width":968,"height":651},"articleSection":"Articles","description":"ANDRÉ 09.05.02016 &nbsp; One would do well to accuse Death Grips of being conventional. Photo by Montecruz Foto\/Flickr &nbsp; They may not have set the precedent themselves, but Death Grips were ahead of the trend with surprise album drops. In the past week alone we’ve seen two major instances","author":{"@type":"Person","name":"Andre Dack","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/andre\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/james-blake-returns-with-soul-and-experimentation\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/james-blake-returns-with-soul-and-experimentation\/","headline":"James Blake Returns with Soul and...","datePublished":"2016-05-06T01:30:58+00:00","dateModified":"2018-02-08T21:20:34+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2016\/05\/F9GzgaZ1-e1520713479914.jpg","width":1000,"height":1000},"articleSection":"Articles","description":"Andrew 06.05.02016 &nbsp; &nbsp; James Blake has been drip feeding fans with new tracks from his latest album since the beginning of the year, and teasers ramped up this week with posts of Quentin Blake emblazoning walls with artwork. As Thursday evening rolled around, Blake announced his album would","author":{"@type":"Person","name":"Andrew Bridge","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/andrew\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/best-of-the-rest-april-2016\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/best-of-the-rest-april-2016\/","headline":"Best of the Rest \/\/ April...","datePublished":"2016-05-05T17:13:28+00:00","dateModified":"2016-05-05T17:21:35+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2016\/05\/BOTR.jpg","width":696,"height":600},"articleSection":"Articles","description":"ANDRÉ &amp; ANDREW 01.05.02016 April came and overwhelmed us with new releases, it's been a great month for music and we had just enough time to squeeze in some words for these four releases. Moderat \/\/ III Andrew Berlin based electro-trio Moderat returned this month with their third (and possibly final) album together,","author":{"@type":"Person","name":"admin","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/admin\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/new-track-burn-the-witch-radiohead\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/new-track-burn-the-witch-radiohead\/","headline":"Radiohead Tease Continues with \"Burn The...","datePublished":"2016-05-03T18:38:15+00:00","dateModified":"2018-02-08T21:20:48+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2016\/05\/Burn-the-Witch.jpeg","width":696,"height":620},"articleSection":"Articles","description":"ANDRÉ 03.05.02016 &nbsp; &nbsp; Following a series of cryptic events that involved Instagram teasers, mysterious leaflets and the abolishment of online presence, Radiohead have finally released a new song from their upcoming album. If you were to discount \"Spectre\", \"Burn The Witch\" is the first track to be unveiled","author":{"@type":"Person","name":"Andre Dack","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/andre\/"}},{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/ltt-gotan-project-la-revancha-del-tango\/"},"url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/articles\/ltt-gotan-project-la-revancha-del-tango\/","headline":"Listen To This \/\/ Gotan Project \/\/ La Revancha Del...","datePublished":"2016-04-18T18:30:58+00:00","dateModified":"2018-02-08T21:12:32+00:00","publisher":{"@type":"Organization","@id":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/#organization","name":"Audioxide","logo":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-content\/uploads\/2017\/11\/Black-on-White-Logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/wp-content\/uploads\/2016\/04\/La-Revancha-Del-Tango.jpg","width":953,"height":953},"articleSection":"Articles","description":"ANDREW 18.04.02016 &nbsp; &nbsp; Gotan Project made their debut with La Revancha Del Tango. Most well known for \"Época\", the album brings the passion of Argentinian tango and the beats and sampling of hip-hop and breakbeat to produce an exceptional listen. Vocalist, Cristina Vilallonga, provides passionate, sultry vocal lines throughout the album, and","author":{"@type":"Person","name":"Andrew Bridge","url":"https:\/\/audioxide.github.io\/v1-archive\/wp-json\/author\/andrew\/"}}]}</script>
 
 
 
@@ -220,7 +220,7 @@ a2a_config.onclick=1;
             "@type": "ListItem",
             "position": 2,
             "item": {
-                "@id": "https://old.audioxide.com/./articles/",
+                "@id": "https://audioxide.com/./articles/",
                 "name": "Articles"
             }
         }
@@ -249,7 +249,7 @@ Click the help icon above to learn more.
 	<body class="archive paged category category-articles category-1 paged-5 category-paged-5" itemscope itemtype="http://schema.org/WebPage">
 <header role="banner" class="sticky" itemscope itemtype="http://schema.org/WPHeader">
 	<div class="wrap">
-		<p id="logo" class="h1 logo" itemscope itemtype="http://schema.org/Organization"><a href="https://old.audioxide.com" rel="nofollow"><img src="https://old.audioxide.com/wp-content/themes/audioxide/library/images/site-logo.svg" /></a></p>
+		<p id="logo" class="h1 logo" itemscope itemtype="http://schema.org/Organization"><a href="https://audioxide.github.io/v1-archive" rel="nofollow"><img src="https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/images/site-logo.svg" /></a></p>
 		<div class="social-media">
 			<a href="https://www.facebook.com/Audioxide/"><i class="fa fa-facebook-square"></i></a>
 			<a href="https://twitter.com/audioxidecom"><i class="fa fa-twitter-square"></i></a>
@@ -263,16 +263,16 @@ Click the help icon above to learn more.
 </header>
 <div id="coverartbanner" class="container coverart">
     <div class="wrapper">
-		<a href="https://old.audioxide.com/reviews/nothing-the-great-dismal/"><img src="https://old.audioxide.com/wp-content/uploads/2020/11/the-great-dismal-nothing-500x500.jpg" alt="Album cover for Nothing - The Great Dismal" /></a>
-<a href="https://old.audioxide.com/reviews/clipping-visions-of-bodies-being-burned/"><img src="https://old.audioxide.com/wp-content/uploads/2020/11/visions-of-bodies-being-burned-clipping-500x500.jpg" alt="Album cover for clipping. - Visions of Bodies Being Burned" /></a>
-<a href="https://old.audioxide.com/reviews/doves-the-universal-want/"><img src="https://old.audioxide.com/wp-content/uploads/2020/09/the-universal-want-doves-500x500.jpg" alt="Album cover for Doves - The Universal Want" /></a>
-<a href="https://old.audioxide.com/reviews/all-them-witches-nothing-as-the-ideal/"><img src="https://old.audioxide.com/wp-content/uploads/2020/09/nothing-as-the-ideal-all-them-witches-500x500.jpg" alt="Album cover for All Them Witches - Nothing as the Ideal" /></a>
-<a href="https://old.audioxide.com/reviews/kelly-lee-owens-inner-song/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/inner-song-kelly-lee-owens-500x500.jpg" alt="Album cover for Kelly Lee Owens - Inner Song" /></a>
-<a href="https://old.audioxide.com/reviews/nas-kings-disease/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/kings-disease-nas-500x500.jpg" alt="Album cover for Nas - King's Disease" /></a>
-<a href="https://old.audioxide.com/reviews/dead-kennedys-fresh-fruit-for-rotting-vegetables/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/fresh-fruit-for-rotting-vegetables-dead-kennedys-500x500.jpg" alt="Album cover for Dead Kennedys - Fresh Fruit for Rotting Vegetables" /></a>
-<a href="https://old.audioxide.com/reviews/glass-animals-dreamland/"><img src="https://old.audioxide.com/wp-content/uploads/2020/08/dreamland-glass-animals-500x500.jpg" alt="Album cover for Glass Animals - Dreamland" /></a>
-<a href="https://old.audioxide.com/reviews/neil-young-after-the-gold-rush/"><img src="https://old.audioxide.com/wp-content/uploads/2020/07/after-the-gold-rush-neil-young-500x500.jpg" alt="Album cover for Neil Young - After the Gold Rush" /></a>
-<a href="https://old.audioxide.com/reviews/lianne-la-havas-lianne-la-havas/"><img src="https://old.audioxide.com/wp-content/uploads/2020/07/lianne-la-havas-lianne-la-havas-500x500.jpg" alt="Album cover for Lianne La Havas - Lianne La Havas" /></a>
+		<a href="https://audioxide.github.io/v1-archive/reviews/nothing-the-great-dismal/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/11/the-great-dismal-nothing-500x500.jpg" alt="Album cover for Nothing - The Great Dismal" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/clipping-visions-of-bodies-being-burned/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/11/visions-of-bodies-being-burned-clipping-500x500.jpg" alt="Album cover for clipping. - Visions of Bodies Being Burned" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/doves-the-universal-want/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/09/the-universal-want-doves-500x500.jpg" alt="Album cover for Doves - The Universal Want" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/all-them-witches-nothing-as-the-ideal/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/09/nothing-as-the-ideal-all-them-witches-500x500.jpg" alt="Album cover for All Them Witches - Nothing as the Ideal" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/kelly-lee-owens-inner-song/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/inner-song-kelly-lee-owens-500x500.jpg" alt="Album cover for Kelly Lee Owens - Inner Song" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/nas-kings-disease/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/kings-disease-nas-500x500.jpg" alt="Album cover for Nas - King's Disease" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/dead-kennedys-fresh-fruit-for-rotting-vegetables/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/fresh-fruit-for-rotting-vegetables-dead-kennedys-500x500.jpg" alt="Album cover for Dead Kennedys - Fresh Fruit for Rotting Vegetables" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/glass-animals-dreamland/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/08/dreamland-glass-animals-500x500.jpg" alt="Album cover for Glass Animals - Dreamland" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/neil-young-after-the-gold-rush/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/07/after-the-gold-rush-neil-young-500x500.jpg" alt="Album cover for Neil Young - After the Gold Rush" /></a>
+<a href="https://audioxide.github.io/v1-archive/reviews/lianne-la-havas-lianne-la-havas/"><img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2020/07/lianne-la-havas-lianne-la-havas-500x500.jpg" alt="Album cover for Lianne La Havas - Lianne La Havas" /></a>
     </div>
 </div>
 	<main id="main" class="cf wrap standard-list" role="main" itemscope itemprop="mainContentOfPage" itemtype="http://schema.org/Blog">
@@ -281,7 +281,7 @@ Click the help icon above to learn more.
 		
 		<article id="post-1733" class="cf bg post-1733 post type-post status-publish format-standard has-post-thumbnail hentry category-articles tag-the-avalanches" role="article">
 
-			 				<a href="https://old.audioxide.com/articles/ltt-the-avalanches-since-i-left-you/" rel="bookmark" title="A retrospective look at The Avalanches">
+			 				<a href="https://audioxide.github.io/v1-archive/articles/ltt-the-avalanches-since-i-left-you/" rel="bookmark" title="A retrospective look at The Avalanches">
 							<section class="entry-content cf">
 				<header class="entry-header article-header info">
 				<h3 class="h2 entry-title">A retrospective look at The Avalanches</h3>
@@ -292,12 +292,12 @@ Click the help icon above to learn more.
 							<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2016/04/Since-I-Left-You-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for A retrospective look at The Avalanches" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2016/04/Since-I-Left-You-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for A retrospective look at The Avalanches" />
 						</div>
 					</div>
 				</div>
 
-				<p>ANDREW 03.06.02016 &nbsp; &nbsp; A massive release at the time, and still referenced today through the likes of &#8220;Frontier Psychiatrist&#8221;, The Avalanches&#8217; Since I Left You is now nearing twenty years old and will likely have fallen out of consciousness for the modern audience. With sampling at its core—band member Robbie Chater estimates 3,500 samples went into the making&#8230;  <a class="excerpt-read-more" href="https://old.audioxide.com/articles/ltt-the-avalanches-since-i-left-you/" title="Read A retrospective look at The Avalanches">Read more &raquo;</a></p>
+				<p>ANDREW 03.06.02016 &nbsp; &nbsp; A massive release at the time, and still referenced today through the likes of &#8220;Frontier Psychiatrist&#8221;, The Avalanches&#8217; Since I Left You is now nearing twenty years old and will likely have fallen out of consciousness for the modern audience. With sampling at its core—band member Robbie Chater estimates 3,500 samples went into the making&#8230;  <a class="excerpt-read-more" href="https://audioxide.github.io/v1-archive/articles/ltt-the-avalanches-since-i-left-you/" title="Read A retrospective look at The Avalanches">Read more &raquo;</a></p>
 
 			</section>			<header class="entry-header article-header info">
 
@@ -307,7 +307,7 @@ Click the help icon above to learn more.
 			</a>
 		</article><article id="post-2209" class="cf bg post-2209 post type-post status-publish format-standard has-post-thumbnail hentry category-articles tag-flume" role="article">
 
-			 				<a href="https://old.audioxide.com/articles/flume-covers-considerable-ground-with-skin/" rel="bookmark" title="Flume covers considerable ground with &#8216;Skin&#8217;">
+			 				<a href="https://audioxide.github.io/v1-archive/articles/flume-covers-considerable-ground-with-skin/" rel="bookmark" title="Flume covers considerable ground with &#8216;Skin&#8217;">
 							<section class="entry-content cf">
 				<header class="entry-header article-header info">
 				<h3 class="h2 entry-title">Flume covers considerable ground with &#8216;Skin&#8217;</h3>
@@ -318,12 +318,12 @@ Click the help icon above to learn more.
 							<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2016/05/flume-skin-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for Flume covers considerable ground with &#8216;Skin&#8217;" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2016/05/flume-skin-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for Flume covers considerable ground with &#8216;Skin&#8217;" />
 						</div>
 					</div>
 				</div>
 
-				<p>Andrew 01.06.02016 &nbsp; &nbsp; Flume has made huge strides since his eponymous debut in 2012, rocketing to notoriety earlier this year with his single &#8220;Never Be Like You&#8221;, which had huge success in his home country of Australia and on an international scale, making it onto primetime radio playlists in the weeks following its release. This&#8230;  <a class="excerpt-read-more" href="https://old.audioxide.com/articles/flume-covers-considerable-ground-with-skin/" title="Read Flume covers considerable ground with &#8216;Skin&#8217;">Read more &raquo;</a></p>
+				<p>Andrew 01.06.02016 &nbsp; &nbsp; Flume has made huge strides since his eponymous debut in 2012, rocketing to notoriety earlier this year with his single &#8220;Never Be Like You&#8221;, which had huge success in his home country of Australia and on an international scale, making it onto primetime radio playlists in the weeks following its release. This&#8230;  <a class="excerpt-read-more" href="https://audioxide.github.io/v1-archive/articles/flume-covers-considerable-ground-with-skin/" title="Read Flume covers considerable ground with &#8216;Skin&#8217;">Read more &raquo;</a></p>
 
 			</section>			<header class="entry-header article-header info">
 
@@ -333,7 +333,7 @@ Click the help icon above to learn more.
 			</a>
 		</article><article id="post-2202" class="cf bg post-2202 post type-post status-publish format-standard has-post-thumbnail hentry category-articles tag-skepta" role="article">
 
-			 				<a href="https://old.audioxide.com/articles/skepta-returns-with-international-support/" rel="bookmark" title="Skepta returns with international support">
+			 				<a href="https://audioxide.github.io/v1-archive/articles/skepta-returns-with-international-support/" rel="bookmark" title="Skepta returns with international support">
 							<section class="entry-content cf">
 				<header class="entry-header article-header info">
 				<h3 class="h2 entry-title">Skepta returns with international support</h3>
@@ -344,12 +344,12 @@ Click the help icon above to learn more.
 							<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2016/05/skepta-konnichiwa-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for Skepta returns with international support" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2016/05/skepta-konnichiwa-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for Skepta returns with international support" />
 						</div>
 					</div>
 				</div>
 
-				<p>Andrew 30.05.02016 &nbsp; &nbsp; Grime has been travelling to America with momentum over the last few years, and it feels as though Skepta is at the centre of the export. His latest release goes a little further to prove this with featured appearances from British and American rappers including Pharrell Williams. Existing fans should find a lot&#8230;  <a class="excerpt-read-more" href="https://old.audioxide.com/articles/skepta-returns-with-international-support/" title="Read Skepta returns with international support">Read more &raquo;</a></p>
+				<p>Andrew 30.05.02016 &nbsp; &nbsp; Grime has been travelling to America with momentum over the last few years, and it feels as though Skepta is at the centre of the export. His latest release goes a little further to prove this with featured appearances from British and American rappers including Pharrell Williams. Existing fans should find a lot&#8230;  <a class="excerpt-read-more" href="https://audioxide.github.io/v1-archive/articles/skepta-returns-with-international-support/" title="Read Skepta returns with international support">Read more &raquo;</a></p>
 
 			</section>			<header class="entry-header article-header info">
 
@@ -359,7 +359,7 @@ Click the help icon above to learn more.
 			</a>
 		</article><article id="post-2142" class="cf bg post-2142 post type-post status-publish format-standard has-post-thumbnail hentry category-articles tag-patternpusher" role="article">
 
-			 				<a href="https://old.audioxide.com/articles/patternpushers-still-a-statement-of-intent/" rel="bookmark" title="PatternPusher&#8217;s &#8220;Still&#8221; a Statement of Intent">
+			 				<a href="https://audioxide.github.io/v1-archive/articles/patternpushers-still-a-statement-of-intent/" rel="bookmark" title="PatternPusher&#8217;s &#8220;Still&#8221; a Statement of Intent">
 							<section class="entry-content cf">
 				<header class="entry-header article-header info">
 				<h3 class="h2 entry-title">PatternPusher&#8217;s &#8220;Still&#8221; a Statement of Intent</h3>
@@ -370,12 +370,12 @@ Click the help icon above to learn more.
 							<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2016/05/image2-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for PatternPusher&#8217;s &#8220;Still&#8221; a Statement of Intent" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2016/05/image2-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for PatternPusher&#8217;s &#8220;Still&#8221; a Statement of Intent" />
 						</div>
 					</div>
 				</div>
 
-				<p>ANDRÉ 27.05.02016 &nbsp; &nbsp; &#8220;Still&#8221; is the latest single by PatternPusher, an art rock band from Exeter who claim to captivate listeners in their mix of post-punk and electronic music. For the opening few minutes, &#8220;Still&#8221; drives along smoothly in a dreamlike state, harking back to an ambiance prominent on The xx’s debut effort back&#8230;  <a class="excerpt-read-more" href="https://old.audioxide.com/articles/patternpushers-still-a-statement-of-intent/" title="Read PatternPusher&#8217;s &#8220;Still&#8221; a Statement of Intent">Read more &raquo;</a></p>
+				<p>ANDRÉ 27.05.02016 &nbsp; &nbsp; &#8220;Still&#8221; is the latest single by PatternPusher, an art rock band from Exeter who claim to captivate listeners in their mix of post-punk and electronic music. For the opening few minutes, &#8220;Still&#8221; drives along smoothly in a dreamlike state, harking back to an ambiance prominent on The xx’s debut effort back&#8230;  <a class="excerpt-read-more" href="https://audioxide.github.io/v1-archive/articles/patternpushers-still-a-statement-of-intent/" title="Read PatternPusher&#8217;s &#8220;Still&#8221; a Statement of Intent">Read more &raquo;</a></p>
 
 			</section>			<header class="entry-header article-header info">
 
@@ -385,7 +385,7 @@ Click the help icon above to learn more.
 			</a>
 		</article><article id="post-2117" class="cf bg post-2117 post type-post status-publish format-standard has-post-thumbnail hentry category-articles tag-richard-ashcroft tag-the-verve" role="article">
 
-			 				<a href="https://old.audioxide.com/articles/richard-ashcroft-wasting-his-northern-soul/" rel="bookmark" title="Richard Ashcroft Wasting His Northern Soul">
+			 				<a href="https://audioxide.github.io/v1-archive/articles/richard-ashcroft-wasting-his-northern-soul/" rel="bookmark" title="Richard Ashcroft Wasting His Northern Soul">
 							<section class="entry-content cf">
 				<header class="entry-header article-header info">
 				<h3 class="h2 entry-title">Richard Ashcroft Wasting His Northern Soul</h3>
@@ -396,12 +396,12 @@ Click the help icon above to learn more.
 							<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2016/05/Richard-Ashcroft-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for Richard Ashcroft Wasting His Northern Soul" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2016/05/Richard-Ashcroft-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for Richard Ashcroft Wasting His Northern Soul" />
 						</div>
 					</div>
 				</div>
 
-				<p>ANDRÉ 23.05.02016 &nbsp; &nbsp; &nbsp; Those who saw fit to look beyond Parklife, (What’s The Story) Morning Glory?, The Bends, Different Class, Ladies and Gentleman We Are Floating in Space, and numerous other landmarks of British guitar music in the 90s, would have likely come across Urban Hymns. Often referred to as &#8216;the one with &#8220;Bittersweet Symphony&#8221;&#8230;  <a class="excerpt-read-more" href="https://old.audioxide.com/articles/richard-ashcroft-wasting-his-northern-soul/" title="Read Richard Ashcroft Wasting His Northern Soul">Read more &raquo;</a></p>
+				<p>ANDRÉ 23.05.02016 &nbsp; &nbsp; &nbsp; Those who saw fit to look beyond Parklife, (What’s The Story) Morning Glory?, The Bends, Different Class, Ladies and Gentleman We Are Floating in Space, and numerous other landmarks of British guitar music in the 90s, would have likely come across Urban Hymns. Often referred to as &#8216;the one with &#8220;Bittersweet Symphony&#8221;&#8230;  <a class="excerpt-read-more" href="https://audioxide.github.io/v1-archive/articles/richard-ashcroft-wasting-his-northern-soul/" title="Read Richard Ashcroft Wasting His Northern Soul">Read more &raquo;</a></p>
 
 			</section>			<header class="entry-header article-header info">
 
@@ -411,7 +411,7 @@ Click the help icon above to learn more.
 			</a>
 		</article><article id="post-2043" class="cf bg post-2043 post type-post status-publish format-standard has-post-thumbnail hentry category-articles tag-death-grips" role="article">
 
-			 				<a href="https://old.audioxide.com/articles/death-grips-oddities-are-still-no-gimmick/" rel="bookmark" title="&#8216;Bottomless Pit&#8217; Shows Death Grips Oddities are Still No Gimmick">
+			 				<a href="https://audioxide.github.io/v1-archive/articles/death-grips-oddities-are-still-no-gimmick/" rel="bookmark" title="&#8216;Bottomless Pit&#8217; Shows Death Grips Oddities are Still No Gimmick">
 							<section class="entry-content cf">
 				<header class="entry-header article-header info">
 				<h3 class="h2 entry-title">&#8216;Bottomless Pit&#8217; Shows Death Grips Oddities are Still No Gimmick</h3>
@@ -422,12 +422,12 @@ Click the help icon above to learn more.
 							<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2016/05/8147537334_b6dc84e2ea_o-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for &#8216;Bottomless Pit&#8217; Shows Death Grips Oddities are Still No Gimmick" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2016/05/8147537334_b6dc84e2ea_o-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for &#8216;Bottomless Pit&#8217; Shows Death Grips Oddities are Still No Gimmick" />
 						</div>
 					</div>
 				</div>
 
-				<p>ANDRÉ 09.05.02016 &nbsp; &nbsp; They may not have set the precedent themselves, but Death Grips were ahead of the trend with surprise album drops. In the past week alone we’ve seen two major instances of how this movement has spread, with James Blake announcing his third album would be available to stream in a matter&#8230;  <a class="excerpt-read-more" href="https://old.audioxide.com/articles/death-grips-oddities-are-still-no-gimmick/" title="Read &#8216;Bottomless Pit&#8217; Shows Death Grips Oddities are Still No Gimmick">Read more &raquo;</a></p>
+				<p>ANDRÉ 09.05.02016 &nbsp; &nbsp; They may not have set the precedent themselves, but Death Grips were ahead of the trend with surprise album drops. In the past week alone we’ve seen two major instances of how this movement has spread, with James Blake announcing his third album would be available to stream in a matter&#8230;  <a class="excerpt-read-more" href="https://audioxide.github.io/v1-archive/articles/death-grips-oddities-are-still-no-gimmick/" title="Read &#8216;Bottomless Pit&#8217; Shows Death Grips Oddities are Still No Gimmick">Read more &raquo;</a></p>
 
 			</section>			<header class="entry-header article-header info">
 
@@ -437,7 +437,7 @@ Click the help icon above to learn more.
 			</a>
 		</article><article id="post-2021" class="cf bg post-2021 post type-post status-publish format-standard has-post-thumbnail hentry category-articles tag-james-blake" role="article">
 
-			 				<a href="https://old.audioxide.com/articles/james-blake-returns-with-soul-and-experimentation/" rel="bookmark" title="James Blake Returns with Soul and Experimentation">
+			 				<a href="https://audioxide.github.io/v1-archive/articles/james-blake-returns-with-soul-and-experimentation/" rel="bookmark" title="James Blake Returns with Soul and Experimentation">
 							<section class="entry-content cf">
 				<header class="entry-header article-header info">
 				<h3 class="h2 entry-title">James Blake Returns with Soul and Experimentation</h3>
@@ -448,12 +448,12 @@ Click the help icon above to learn more.
 							<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2016/05/F9GzgaZ1-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for James Blake Returns with Soul and Experimentation" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2016/05/F9GzgaZ1-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for James Blake Returns with Soul and Experimentation" />
 						</div>
 					</div>
 				</div>
 
-				<p>Andrew 06.05.02016 &nbsp; &nbsp; James Blake has been drip feeding fans with new tracks from his latest album since the beginning of the year, and teasers ramped up this week with posts of Quentin Blake emblazoning walls with artwork. As Thursday evening rolled around, Blake announced his album would be released at midnight. 17 tracks,&#8230;  <a class="excerpt-read-more" href="https://old.audioxide.com/articles/james-blake-returns-with-soul-and-experimentation/" title="Read James Blake Returns with Soul and Experimentation">Read more &raquo;</a></p>
+				<p>Andrew 06.05.02016 &nbsp; &nbsp; James Blake has been drip feeding fans with new tracks from his latest album since the beginning of the year, and teasers ramped up this week with posts of Quentin Blake emblazoning walls with artwork. As Thursday evening rolled around, Blake announced his album would be released at midnight. 17 tracks,&#8230;  <a class="excerpt-read-more" href="https://audioxide.github.io/v1-archive/articles/james-blake-returns-with-soul-and-experimentation/" title="Read James Blake Returns with Soul and Experimentation">Read more &raquo;</a></p>
 
 			</section>			<header class="entry-header article-header info">
 
@@ -463,7 +463,7 @@ Click the help icon above to learn more.
 			</a>
 		</article><article id="post-1964" class="cf bg post-1964 post type-post status-publish format-standard has-post-thumbnail hentry category-articles" role="article">
 
-			 				<a href="https://old.audioxide.com/articles/best-of-the-rest-april-2016/" rel="bookmark" title="Best of the Rest // April 2016">
+			 				<a href="https://audioxide.github.io/v1-archive/articles/best-of-the-rest-april-2016/" rel="bookmark" title="Best of the Rest // April 2016">
 							<section class="entry-content cf">
 				<header class="entry-header article-header info">
 				<h3 class="h2 entry-title">Best of the Rest // April 2016</h3>
@@ -474,12 +474,12 @@ Click the help icon above to learn more.
 							<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2016/05/BOTR-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for Best of the Rest // April 2016" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2016/05/BOTR-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for Best of the Rest // April 2016" />
 						</div>
 					</div>
 				</div>
 
-				<p>ANDRÉ &amp; ANDREW 01.05.02016 April came and overwhelmed us with new releases, it&#8217;s been a great month for music and we had just enough time to squeeze in some words for these four releases. Moderat // III Andrew Berlin based electro-trio Moderat returned this month with their third (and possibly final) album together, with a mix of slow evolving,&#8230;  <a class="excerpt-read-more" href="https://old.audioxide.com/articles/best-of-the-rest-april-2016/" title="Read Best of the Rest // April 2016">Read more &raquo;</a></p>
+				<p>ANDRÉ &amp; ANDREW 01.05.02016 April came and overwhelmed us with new releases, it&#8217;s been a great month for music and we had just enough time to squeeze in some words for these four releases. Moderat // III Andrew Berlin based electro-trio Moderat returned this month with their third (and possibly final) album together, with a mix of slow evolving,&#8230;  <a class="excerpt-read-more" href="https://audioxide.github.io/v1-archive/articles/best-of-the-rest-april-2016/" title="Read Best of the Rest // April 2016">Read more &raquo;</a></p>
 
 			</section>			<header class="entry-header article-header info">
 
@@ -489,7 +489,7 @@ Click the help icon above to learn more.
 			</a>
 		</article><article id="post-1969" class="cf bg post-1969 post type-post status-publish format-standard has-post-thumbnail hentry category-articles tag-radiohead" role="article">
 
-			 				<a href="https://old.audioxide.com/articles/new-track-burn-the-witch-radiohead/" rel="bookmark" title="Radiohead Tease Continues with &#8220;Burn The Witch&#8221;">
+			 				<a href="https://audioxide.github.io/v1-archive/articles/new-track-burn-the-witch-radiohead/" rel="bookmark" title="Radiohead Tease Continues with &#8220;Burn The Witch&#8221;">
 							<section class="entry-content cf">
 				<header class="entry-header article-header info">
 				<h3 class="h2 entry-title">Radiohead Tease Continues with &#8220;Burn The Witch&#8221;</h3>
@@ -500,12 +500,12 @@ Click the help icon above to learn more.
 							<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2016/05/Burn-the-Witch-300x100.jpeg" class="attachment-full wp-post-image" alt="Featured images for Radiohead Tease Continues with &#8220;Burn The Witch&#8221;" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2016/05/Burn-the-Witch-300x100.jpeg" class="attachment-full wp-post-image" alt="Featured images for Radiohead Tease Continues with &#8220;Burn The Witch&#8221;" />
 						</div>
 					</div>
 				</div>
 
-				<p>ANDRÉ 03.05.02016 &nbsp; &nbsp; Following a series of cryptic events that involved Instagram teasers, mysterious leaflets and the abolishment of online presence, Radiohead have finally released a new song from their upcoming album. If you were to discount &#8220;Spectre&#8221;, &#8220;Burn The Witch&#8221; is the first track to be unveiled since the release of The King&#8230;  <a class="excerpt-read-more" href="https://old.audioxide.com/articles/new-track-burn-the-witch-radiohead/" title="Read Radiohead Tease Continues with &#8220;Burn The Witch&#8221;">Read more &raquo;</a></p>
+				<p>ANDRÉ 03.05.02016 &nbsp; &nbsp; Following a series of cryptic events that involved Instagram teasers, mysterious leaflets and the abolishment of online presence, Radiohead have finally released a new song from their upcoming album. If you were to discount &#8220;Spectre&#8221;, &#8220;Burn The Witch&#8221; is the first track to be unveiled since the release of The King&#8230;  <a class="excerpt-read-more" href="https://audioxide.github.io/v1-archive/articles/new-track-burn-the-witch-radiohead/" title="Read Radiohead Tease Continues with &#8220;Burn The Witch&#8221;">Read more &raquo;</a></p>
 
 			</section>			<header class="entry-header article-header info">
 
@@ -515,7 +515,7 @@ Click the help icon above to learn more.
 			</a>
 		</article><article id="post-1736" class="cf bg post-1736 post type-post status-publish format-standard has-post-thumbnail hentry category-articles tag-gotan-project" role="article">
 
-			 				<a href="https://old.audioxide.com/articles/ltt-gotan-project-la-revancha-del-tango/" rel="bookmark" title="Listen To This // Gotan Project // La Revancha Del Tango">
+			 				<a href="https://audioxide.github.io/v1-archive/articles/ltt-gotan-project-la-revancha-del-tango/" rel="bookmark" title="Listen To This // Gotan Project // La Revancha Del Tango">
 							<section class="entry-content cf">
 				<header class="entry-header article-header info">
 				<h3 class="h2 entry-title">Listen To This // Gotan Project // La Revancha Del Tango</h3>
@@ -526,12 +526,12 @@ Click the help icon above to learn more.
 							<div class="content-wrapper">
 					<div class="img-wrap-outer">
 						<div class="img-wrap-inner">
-							<img src="https://old.audioxide.com/wp-content/uploads/2016/04/La-Revancha-Del-Tango-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for Listen To This // Gotan Project // La Revancha Del Tango" />
+							<img src="https://audioxide.github.io/v1-archive/wp-content/uploads/2016/04/La-Revancha-Del-Tango-300x100.jpg" class="attachment-full wp-post-image" alt="Featured images for Listen To This // Gotan Project // La Revancha Del Tango" />
 						</div>
 					</div>
 				</div>
 
-				<p>ANDREW 18.04.02016 &nbsp; &nbsp; Gotan Project made their debut with La Revancha Del Tango. Most well known for &#8220;Época&#8221;, the album brings the passion of Argentinian tango and the beats and sampling of hip-hop and breakbeat to produce an exceptional listen. Vocalist, Cristina Vilallonga, provides passionate, sultry vocal lines throughout the album, and along with tentative, considered passages of&#8230;  <a class="excerpt-read-more" href="https://old.audioxide.com/articles/ltt-gotan-project-la-revancha-del-tango/" title="Read Listen To This // Gotan Project // La Revancha Del Tango">Read more &raquo;</a></p>
+				<p>ANDREW 18.04.02016 &nbsp; &nbsp; Gotan Project made their debut with La Revancha Del Tango. Most well known for &#8220;Época&#8221;, the album brings the passion of Argentinian tango and the beats and sampling of hip-hop and breakbeat to produce an exceptional listen. Vocalist, Cristina Vilallonga, provides passionate, sultry vocal lines throughout the album, and along with tentative, considered passages of&#8230;  <a class="excerpt-read-more" href="https://audioxide.github.io/v1-archive/articles/ltt-gotan-project-la-revancha-del-tango/" title="Read Listen To This // Gotan Project // La Revancha Del Tango">Read more &raquo;</a></p>
 
 			</section>			<header class="entry-header article-header info">
 
@@ -541,14 +541,14 @@ Click the help icon above to learn more.
 			</a>
 		</article>
 				<nav class="pagination"><ul class='page-numbers'>
-	<li><a class="prev page-numbers" href="https://old.audioxide.com/articles/page/4/">&larr;</a></li>
-	<li><a class='page-numbers' href='https://old.audioxide.com/articles/page/1/'>1</a></li>
-	<li><a class='page-numbers' href='https://old.audioxide.com/articles/page/2/'>2</a></li>
-	<li><a class='page-numbers' href='https://old.audioxide.com/articles/page/3/'>3</a></li>
-	<li><a class='page-numbers' href='https://old.audioxide.com/articles/page/4/'>4</a></li>
+	<li><a class="prev page-numbers" href="https://audioxide.github.io/v1-archive/articles/page/4/">&larr;</a></li>
+	<li><a class='page-numbers' href='https://audioxide.github.io/v1-archive/articles/page/1/'>1</a></li>
+	<li><a class='page-numbers' href='https://audioxide.github.io/v1-archive/articles/page/2/'>2</a></li>
+	<li><a class='page-numbers' href='https://audioxide.github.io/v1-archive/articles/page/3/'>3</a></li>
+	<li><a class='page-numbers' href='https://audioxide.github.io/v1-archive/articles/page/4/'>4</a></li>
 	<li><span aria-current='page' class='page-numbers current'>5</span></li>
-	<li><a class='page-numbers' href='https://old.audioxide.com/articles/page/6/'>6</a></li>
-	<li><a class="next page-numbers" href="https://old.audioxide.com/articles/page/6/">&rarr;</a></li>
+	<li><a class='page-numbers' href='https://audioxide.github.io/v1-archive/articles/page/6/'>6</a></li>
+	<li><a class="next page-numbers" href="https://audioxide.github.io/v1-archive/articles/page/6/">&rarr;</a></li>
 </ul>
 </nav>
 		
@@ -589,10 +589,10 @@ Click the help icon above to learn more.
 var mctb = {"cookieLength":"365","icons":{"hide":"&#x25BC;","show":"&#x25B2;"},"position":"bottom","state":{"submitted":false,"success":false}};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/plugins/mailchimp-top-bar/assets/js/script.min.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/themes/audioxide/library/js/libs/jquery.quickfit.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-content/themes/audioxide/library/js/scripts.js'></script>
-<script type='text/javascript' src='https://old.audioxide.com/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/plugins/mailchimp-top-bar/assets/js/script.min.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/js/libs/jquery.quickfit.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-content/themes/audioxide/library/js/scripts.js'></script>
+<script type='text/javascript' src='https://audioxide.github.io/v1-archive/wp-includes/js/wp-embed.min.js'></script>
 
 	</body>
 
